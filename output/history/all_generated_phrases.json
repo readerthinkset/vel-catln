@@ -139,7 +139,42 @@
       "transliteration": "es-TEEK per-DOOT / per-DOO-da",
       "category": "Emergency",
       "generated_at": "2026-06-18T15:26:28.082721"
+    },
+    {
+      "english": "You've got this, believe it.",
+      "catalan": "Tu pots, creu-ho.",
+      "transliteration": "Too pots, cre-oo.",
+      "category": "Confidence",
+      "generated_at": "2026-06-18T17:01:10.177596"
+    },
+    {
+      "english": "Speak out, be heard.",
+      "catalan": "Parla clar, fes-te sentir.",
+      "transliteration": "Par-la clar, fes-te sen-tir.",
+      "category": "Confidence",
+      "generated_at": "2026-06-18T17:01:10.177603"
+    },
+    {
+      "english": "Learn more, grow stronger.",
+      "catalan": "Aprèn més, fes-te fort.",
+      "transliteration": "Apren mes, fes-te fort.",
+      "category": "Confidence",
+      "generated_at": "2026-06-18T17:01:10.177605"
+    },
+    {
+      "english": "Every word counts, try it.",
+      "catalan": "Cada paraula compta, prova-ho.",
+      "transliteration": "Ca-da pa-ra-u-la com-pta, pro-va-ho.",
+      "category": "Confidence",
+      "generated_at": "2026-06-18T17:01:10.177606"
+    },
+    {
+      "english": "Mistakes are lessons, learn well.",
+      "catalan": "Els errors són lliçons, aprèn bé.",
+      "transliteration": "Els e-rrors son lli-çons, apren be.",
+      "category": "Confidence",
+      "generated_at": "2026-06-18T17:01:10.177607"
     }
   ],
-  "last_updated": "2026-06-18T15:26:28.082723"
+  "last_updated": "2026-06-18T17:01:10.177609"
 }
