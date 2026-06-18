@@ -69,7 +69,42 @@
       "transliteration": "On es el la-ba-bo?",
       "category": "Basic Phrases",
       "generated_at": "2026-06-18T00:30:47.378469"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "catalan": "Hola, encantat de conèixer-te.",
+      "transliteration": "Ola, encan-tat de coneixer-te.",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T03:35:23.805633"
+    },
+    {
+      "english": "Good morning, how are you?",
+      "catalan": "Bon dia, com estàs?",
+      "transliteration": "Bon dee-a, com es-tas?",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T03:35:23.805642"
+    },
+    {
+      "english": "Hi there, what's new?",
+      "catalan": "Hola, què hi ha de nou?",
+      "transliteration": "Ola, kee ee a de noo?",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T03:35:23.805643"
+    },
+    {
+      "english": "Good afternoon, hope you're well.",
+      "catalan": "Bona tarda, espero que estiguis bé.",
+      "transliteration": "Bona tar-da, es-pe-ro ke es-tee-gues be.",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T03:35:23.805645"
+    },
+    {
+      "english": "Welcome, make yourself at home.",
+      "catalan": "Benvingut, fes com a casa.",
+      "transliteration": "Ben-veen-goot, fes com a ca-sa.",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T03:35:23.805646"
     }
   ],
-  "last_updated": "2026-06-18T00:30:47.378471"
+  "last_updated": "2026-06-18T03:35:23.805648"
 }
