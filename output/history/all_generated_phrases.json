@@ -104,7 +104,42 @@
       "transliteration": "Ben-veen-goot, fes com a ca-sa.",
       "category": "Greetings",
       "generated_at": "2026-06-18T03:35:23.805646"
+    },
+    {
+      "english": "Help, please.",
+      "catalan": "Ajuda, sisplau.",
+      "transliteration": "a-YOO-da, see-SPLA-oo",
+      "category": "Emergency",
+      "generated_at": "2026-06-18T15:26:28.082706"
+    },
+    {
+      "english": "I need a doctor.",
+      "catalan": "Necessito un metge.",
+      "transliteration": "ne-ce-SEE-too oon MET-je",
+      "category": "Emergency",
+      "generated_at": "2026-06-18T15:26:28.082717"
+    },
+    {
+      "english": "Call the police.",
+      "catalan": "Truca a la policia.",
+      "transliteration": "TROO-ka a la po-li-SEE-a",
+      "category": "Emergency",
+      "generated_at": "2026-06-18T15:26:28.082719"
+    },
+    {
+      "english": "Where is the hospital?",
+      "catalan": "On és l'hospital?",
+      "transliteration": "ON ez los-pi-TAL",
+      "category": "Emergency",
+      "generated_at": "2026-06-18T15:26:28.082720"
+    },
+    {
+      "english": "I am lost.",
+      "catalan": "Estic perdut/perduda.",
+      "transliteration": "es-TEEK per-DOOT / per-DOO-da",
+      "category": "Emergency",
+      "generated_at": "2026-06-18T15:26:28.082721"
     }
   ],
-  "last_updated": "2026-06-18T03:35:23.805648"
+  "last_updated": "2026-06-18T15:26:28.082723"
 }
