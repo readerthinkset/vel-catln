@@ -174,7 +174,42 @@
       "transliteration": "Els e-rrors son lli-çons, apren be.",
       "category": "Confidence",
       "generated_at": "2026-06-18T17:01:10.177607"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "catalan": "Aprèn una mica, cada dia.",
+      "transliteration": "Apren oo-nah mee-kah, kah-dah dee-ah.",
+      "category": "Growth",
+      "generated_at": "2026-06-18T19:34:29.708035"
+    },
+    {
+      "english": "Mistakes help you grow.",
+      "catalan": "Les errades, t'ajuden a créixer.",
+      "transliteration": "Les eh-rah-dahs, tah-joo-den ah kreh-sher.",
+      "category": "Growth",
+      "generated_at": "2026-06-18T19:34:29.708044"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "catalan": "Sigues pacient, amb tu mateix.",
+      "transliteration": "See-gess pah-see-ent, amb too mah-tesh.",
+      "category": "Growth",
+      "generated_at": "2026-06-18T19:34:29.708046"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "catalan": "Continua així, no t'aturis.",
+      "transliteration": "Kon-tee-noo-ah ai-shee, noh tah-too-rees.",
+      "category": "Growth",
+      "generated_at": "2026-06-18T19:34:29.708047"
+    },
+    {
+      "english": "Every word, counts.",
+      "catalan": "Cada paraula, compta.",
+      "transliteration": "Kah-dah pah-rah-oo-lah, kom-tah.",
+      "category": "Growth",
+      "generated_at": "2026-06-18T19:34:29.708049"
     }
   ],
-  "last_updated": "2026-06-18T17:01:10.177609"
+  "last_updated": "2026-06-18T19:34:29.708050"
 }
