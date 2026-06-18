@@ -209,7 +209,42 @@
       "transliteration": "Kah-dah pah-rah-oo-lah, kom-tah.",
       "category": "Growth",
       "generated_at": "2026-06-18T19:34:29.708049"
+    },
+    {
+      "english": "Where is the nearest, train station?",
+      "catalan": "On és, l'estació de tren més propera?",
+      "transliteration": "On es, l'estacio de tren mes propera?",
+      "category": "Travel",
+      "generated_at": "2026-06-18T21:56:37.631674"
+    },
+    {
+      "english": "Can I have, the menu, please?",
+      "catalan": "Em pots portar, el menú, sisplau?",
+      "transliteration": "Em pots portar, el menu, sisplau?",
+      "category": "Travel",
+      "generated_at": "2026-06-18T21:56:37.631687"
+    },
+    {
+      "english": "How much is this, souvenir?",
+      "catalan": "Quant costa, aquesta, recordança?",
+      "transliteration": "Quant costa, aquesta, recordansa?",
+      "category": "Travel",
+      "generated_at": "2026-06-18T21:56:37.631689"
+    },
+    {
+      "english": "I would like, a coffee, to go.",
+      "catalan": "Voldria, un cafè, per emportar.",
+      "transliteration": "Voldria, un cafe, per emportar.",
+      "category": "Travel",
+      "generated_at": "2026-06-18T21:56:37.631694"
+    },
+    {
+      "english": "Do you speak, English, here?",
+      "catalan": "Parles, anglès, aquí?",
+      "transliteration": "Parles, angles, aqui?",
+      "category": "Travel",
+      "generated_at": "2026-06-18T21:56:37.631696"
     }
   ],
-  "last_updated": "2026-06-18T19:34:29.708050"
+  "last_updated": "2026-06-18T21:56:37.631699"
 }
