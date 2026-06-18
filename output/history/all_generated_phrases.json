@@ -34,7 +34,42 @@
       "transliteration": "Oon cohp, fah mohlt temphs.",
       "category": "Time",
       "generated_at": "2026-06-17T19:27:26.794887"
+    },
+    {
+      "english": "Hello, how are you?",
+      "catalan": "Hola, com estàs?",
+      "transliteration": "Ola, kom es-tas?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T00:30:47.378456"
+    },
+    {
+      "english": "Thank you very much.",
+      "catalan": "Moltes gràcies.",
+      "transliteration": "Mol-tes gra-sies.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T00:30:47.378465"
+    },
+    {
+      "english": "Excuse me, please.",
+      "catalan": "Perdona, si us plau.",
+      "transliteration": "Per-do-na, si us plau.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T00:30:47.378466"
+    },
+    {
+      "english": "I don't understand.",
+      "catalan": "No ho entenc.",
+      "transliteration": "No u en-teng.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T00:30:47.378468"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "catalan": "On és el lavabo?",
+      "transliteration": "On es el la-ba-bo?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T00:30:47.378469"
     }
   ],
-  "last_updated": "2026-06-17T19:27:26.794889"
+  "last_updated": "2026-06-18T00:30:47.378471"
 }
