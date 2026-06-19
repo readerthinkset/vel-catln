@@ -349,7 +349,42 @@
       "transliteration": "Sigues pacient, amic meu.",
       "category": "Patience",
       "generated_at": "2026-06-19T16:30:59.027007"
+    },
+    {
+      "english": "Joy blooms, quietly.",
+      "catalan": "La joia floreix, suaument.",
+      "transliteration": "La yoy-a floh-resh, soo-ahv-ment.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T18:56:22.158144"
+    },
+    {
+      "english": "Smile often, my friend.",
+      "catalan": "Somriu sovint, amic meu.",
+      "transliteration": "Som-ree-oo soh-veent, a-meek meh-oo.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T18:56:22.158154"
+    },
+    {
+      "english": "Good times, always.",
+      "catalan": "Bons moments, sempre.",
+      "transliteration": "Bons mo-mens, sem-preh.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T18:56:22.158156"
+    },
+    {
+      "english": "Find peace, within you.",
+      "catalan": "Troba pau, dins teu.",
+      "transliteration": "Troh-bah paw, deens teh-oo.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T18:56:22.158157"
+    },
+    {
+      "english": "Life is beautiful, truly.",
+      "catalan": "La vida és bella, de veritat.",
+      "transliteration": "La vee-dah es beh-yah, deh veh-ree-taht.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T18:56:22.158162"
     }
   ],
-  "last_updated": "2026-06-19T16:30:59.027009"
+  "last_updated": "2026-06-19T18:56:22.158163"
 }
