@@ -559,7 +559,42 @@
       "transliteration": "Kwah-treh ehs oon bohn noo-meh-roh.",
       "category": "Numbers",
       "generated_at": "2026-06-20T18:13:46.207901"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "catalan": "Gràcies, per tot.",
+      "transliteration": "Gra-sees, per tot.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-20T21:02:02.307712"
+    },
+    {
+      "english": "I appreciate, your help.",
+      "catalan": "Agraeixo, la teva ajuda.",
+      "transliteration": "A-gra-ei-sho, la te-va a-ju-da.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-20T21:02:02.307723"
+    },
+    {
+      "english": "You are, very kind.",
+      "catalan": "Ets, molt amable.",
+      "transliteration": "Ets, molt a-ma-ble.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-20T21:02:02.307724"
+    },
+    {
+      "english": "I am grateful, for this.",
+      "catalan": "Estic agraït, per això.",
+      "transliteration": "Es-tic a-gra-it, per a-ixo.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-20T21:02:02.307724"
+    },
+    {
+      "english": "Thanks a lot, my friend.",
+      "catalan": "Moltes gràcies, amic/amiga.",
+      "transliteration": "Mol-tes gra-sees, a-mic/a-mi-ga.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-20T21:02:02.307725"
     }
   ],
-  "last_updated": "2026-06-20T18:13:46.207902"
+  "last_updated": "2026-06-20T21:02:02.307728"
 }
