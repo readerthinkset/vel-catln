@@ -454,7 +454,42 @@
       "transliteration": "Quin bon di-a.",
       "category": "Joy",
       "generated_at": "2026-06-20T02:58:47.133935"
+    },
+    {
+      "english": "How much is this, please?",
+      "catalan": "Quant costa, si us plau?",
+      "transliteration": "Kwant kos-ta, si us plaw?",
+      "category": "Shopping",
+      "generated_at": "2026-06-20T14:03:50.107312"
+    },
+    {
+      "english": "I'm just looking, thanks.",
+      "catalan": "Només estic mirant, gràcies.",
+      "transliteration": "No-mez es-tik mi-ran, gra-syes.",
+      "category": "Shopping",
+      "generated_at": "2026-06-20T14:03:50.107321"
+    },
+    {
+      "english": "Do you have this, in blue?",
+      "catalan": "Teniu això, en blau?",
+      "transliteration": "Te-nyew a-shoh, en blaw?",
+      "category": "Shopping",
+      "generated_at": "2026-06-20T14:03:50.107323"
+    },
+    {
+      "english": "Can I try it on, please?",
+      "catalan": "Puc provar-me-ho, si us plau?",
+      "transliteration": "Pook pro-var-me-ho, si us plaw?",
+      "category": "Shopping",
+      "generated_at": "2026-06-20T14:03:50.107324"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "catalan": "On són els vestidors?",
+      "transliteration": "On son els ves-ti-dores?",
+      "category": "Shopping",
+      "generated_at": "2026-06-20T14:03:50.107325"
     }
   ],
-  "last_updated": "2026-06-20T02:58:47.133937"
+  "last_updated": "2026-06-20T14:03:50.107334"
 }
