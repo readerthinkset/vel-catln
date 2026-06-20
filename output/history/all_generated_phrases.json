@@ -489,7 +489,42 @@
       "transliteration": "On son els ves-ti-dores?",
       "category": "Shopping",
       "generated_at": "2026-06-20T14:03:50.107325"
+    },
+    {
+      "english": "Speak slowly, listen well.",
+      "catalan": "Parla lentament, escolta bé.",
+      "transliteration": "Parla lentament, escolta bé.",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T15:42:51.851460"
+    },
+    {
+      "english": "Practice makes perfect, always.",
+      "catalan": "La pràctica fa perfecte, sempre.",
+      "transliteration": "La pràctica fa perfecte, sempre.",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T15:42:51.851471"
+    },
+    {
+      "english": "Try to understand, bit by bit.",
+      "catalan": "Intenta entendre, mica en mica.",
+      "transliteration": "Intenta entendre, mica en mica.",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T15:42:51.851472"
+    },
+    {
+      "english": "Enjoy the journey, not just the destination.",
+      "catalan": "Gaudeix el viatge, no només el destí.",
+      "transliteration": "Gaudeix el viatge, no només el destí.",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T15:42:51.851474"
+    },
+    {
+      "english": "Ask questions, be curious.",
+      "catalan": "Fes preguntes, sigues curiós.",
+      "transliteration": "Fes preguntes, sigues curiós.",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T15:42:51.851475"
     }
   ],
-  "last_updated": "2026-06-20T14:03:50.107334"
+  "last_updated": "2026-06-20T15:42:51.851476"
 }
