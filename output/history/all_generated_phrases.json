@@ -524,7 +524,42 @@
       "transliteration": "Fes preguntes, sigues curiós.",
       "category": "Purpose",
       "generated_at": "2026-06-20T15:42:51.851475"
+    },
+    {
+      "english": "One, two, three, go!",
+      "catalan": "Un, dos, tres, ja!",
+      "transliteration": "Oon, dohs, trehs, ya!",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T18:13:46.207887"
+    },
+    {
+      "english": "It's only one, you see.",
+      "catalan": "És només un, ja ho veus.",
+      "transliteration": "Ehs noh-mehs oon, ya ho vehs.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T18:13:46.207896"
+    },
+    {
+      "english": "Two cats, sleeping soundly.",
+      "catalan": "Dos gats, dormint plàcidament.",
+      "transliteration": "Dohs gats, dor-meent plah-see-dah-ment.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T18:13:46.207898"
+    },
+    {
+      "english": "Three apples, red and juicy.",
+      "catalan": "Tres pomes, vermelles i sucoses.",
+      "transliteration": "Trehs poh-mehs, vehr-meh-yes ee soo-koh-sehs.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T18:13:46.207900"
+    },
+    {
+      "english": "Four is a good number.",
+      "catalan": "Quatre és un bon número.",
+      "transliteration": "Kwah-treh ehs oon bohn noo-meh-roh.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T18:13:46.207901"
     }
   ],
-  "last_updated": "2026-06-20T15:42:51.851476"
+  "last_updated": "2026-06-20T18:13:46.207902"
 }
