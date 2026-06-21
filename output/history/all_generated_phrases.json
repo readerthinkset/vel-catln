@@ -629,7 +629,42 @@
       "transliteration": "Oh-feh-raysh oo-nah pah-rah-oo-lah ah-mah-bleh.",
       "category": "Kindness",
       "generated_at": "2026-06-21T03:46:32.180349"
+    },
+    {
+      "english": "Breathe in, breathe out, peace.",
+      "catalan": "Inspira, expira, pau.",
+      "transliteration": "In-SPEE-ra, ex-PEE-ra, PAU.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-21T14:11:08.226077"
+    },
+    {
+      "english": "Today is a new gift.",
+      "catalan": "Avui és un regal nou.",
+      "transliteration": "A-BOY ee ess oon re-GAHL NOO.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-21T14:11:08.226086"
+    },
+    {
+      "english": "Feel the moment, fully.",
+      "catalan": "Sent el moment, del tot.",
+      "transliteration": "SENT el mo-MENT, del TOT.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-21T14:11:08.226087"
+    },
+    {
+      "english": "Your calm is within.",
+      "catalan": "La teva calma és dins.",
+      "transliteration": "La TE-va CAHL-ma ess DEENS.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-21T14:11:08.226089"
+    },
+    {
+      "english": "Listen to your heart.",
+      "catalan": "Escolta el teu cor.",
+      "transliteration": "Es-COL-ta el teu KOR.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-21T14:11:08.226090"
     }
   ],
-  "last_updated": "2026-06-21T03:46:32.180350"
+  "last_updated": "2026-06-21T14:11:08.226091"
 }
