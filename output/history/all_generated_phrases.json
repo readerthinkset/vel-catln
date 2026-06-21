@@ -594,7 +594,42 @@
       "transliteration": "Mol-tes gra-sees, a-mic/a-mi-ga.",
       "category": "Gratitude",
       "generated_at": "2026-06-20T21:02:02.307725"
+    },
+    {
+      "english": "Be kind, always.",
+      "catalan": "Sigues amable, sempre.",
+      "transliteration": "See-yes ah-mah-bleh, sem-preh.",
+      "category": "Kindness",
+      "generated_at": "2026-06-21T03:46:32.180335"
+    },
+    {
+      "english": "Help someone today.",
+      "catalan": "Ajuda algú, avui.",
+      "transliteration": "Ah-joo-dah al-goo, ah-voo-ee.",
+      "category": "Kindness",
+      "generated_at": "2026-06-21T03:46:32.180345"
+    },
+    {
+      "english": "Share a smile.",
+      "catalan": "Comparteix un somriure.",
+      "transliteration": "Com-par-taysh oon som-ree-oo-reh.",
+      "category": "Kindness",
+      "generated_at": "2026-06-21T03:46:32.180346"
+    },
+    {
+      "english": "Listen, really listen.",
+      "catalan": "Escolta, escolta de veritat.",
+      "transliteration": "Es-col-tah, es-col-tah deh veh-ree-taht.",
+      "category": "Kindness",
+      "generated_at": "2026-06-21T03:46:32.180348"
+    },
+    {
+      "english": "Offer a kind word.",
+      "catalan": "Ofereix una paraula amable.",
+      "transliteration": "Oh-feh-raysh oo-nah pah-rah-oo-lah ah-mah-bleh.",
+      "category": "Kindness",
+      "generated_at": "2026-06-21T03:46:32.180349"
     }
   ],
-  "last_updated": "2026-06-20T21:02:02.307728"
+  "last_updated": "2026-06-21T03:46:32.180350"
 }
