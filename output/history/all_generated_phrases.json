@@ -664,7 +664,42 @@
       "transliteration": "Es-COL-ta el teu KOR.",
       "category": "Mindfulness",
       "generated_at": "2026-06-21T14:11:08.226090"
+    },
+    {
+      "english": "Today, is the day.",
+      "catalan": "Avui, és el dia.",
+      "transliteration": "Ah-vooy, ehs ehl dee-ah.",
+      "category": "Time",
+      "generated_at": "2026-06-21T15:48:46.064103"
+    },
+    {
+      "english": "Tomorrow, we'll see.",
+      "catalan": "Demà, ja veurem.",
+      "transliteration": "Deh-mah, jah veh-rehm.",
+      "category": "Time",
+      "generated_at": "2026-06-21T15:48:46.064112"
+    },
+    {
+      "english": "Yesterday, is gone.",
+      "catalan": "Ahir, ja ha passat.",
+      "transliteration": "Ah-yeer, jah ah pah-sahd.",
+      "category": "Time",
+      "generated_at": "2026-06-21T15:48:46.064114"
+    },
+    {
+      "english": "Right now, focus.",
+      "catalan": "Ara mateix, atenció.",
+      "transliteration": "Ah-rah mah-teysh, ah-tehn-see-oh.",
+      "category": "Time",
+      "generated_at": "2026-06-21T15:48:46.064115"
+    },
+    {
+      "english": "Every moment, counts.",
+      "catalan": "Cada instant, importa.",
+      "transliteration": "Kah-dah een-stahnt, eem-por-tah.",
+      "category": "Time",
+      "generated_at": "2026-06-21T15:48:46.064116"
     }
   ],
-  "last_updated": "2026-06-21T14:11:08.226091"
+  "last_updated": "2026-06-21T15:48:46.064118"
 }
