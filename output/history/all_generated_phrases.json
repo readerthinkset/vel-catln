@@ -839,7 +839,42 @@
       "transliteration": "Seh-gweesh ah-bahn-sahn, soo-ah-oo-ment.",
       "category": "Strength",
       "generated_at": "2026-06-22T16:57:35.892165"
+    },
+    {
+      "english": "Hey, how's it going?",
+      "catalan": "Ei, com va tot?",
+      "transliteration": "Ay, com va tot?",
+      "category": "Greetings",
+      "generated_at": "2026-06-22T18:12:59.220212"
+    },
+    {
+      "english": "Good evening, nice to see you.",
+      "catalan": "Bona nit, content de veure't.",
+      "transliteration": "Bona neet, con-tent de veu-ret.",
+      "category": "Greetings",
+      "generated_at": "2026-06-22T18:12:59.220220"
+    },
+    {
+      "english": "Hello friend, have a good day.",
+      "catalan": "Hola amic, que tinguis un bon dia.",
+      "transliteration": "Ola a-meek, ke teen-gues un bon dee-a.",
+      "category": "Greetings",
+      "generated_at": "2026-06-22T18:12:59.220222"
+    },
+    {
+      "english": "Hi, hope you had a good journey.",
+      "catalan": "Hola, espero que hagis tingut un bon viatge.",
+      "transliteration": "Ola, es-pe-ro ke a-gues teen-goot un bon veej-at-ge.",
+      "category": "Greetings",
+      "generated_at": "2026-06-22T18:12:59.220223"
+    },
+    {
+      "english": "Greetings, ready to learn?",
+      "catalan": "Salutacions, preparat per aprendre?",
+      "transliteration": "Sa-lu-ta-ci-ons, pre-pa-rat per a-pren-dre?",
+      "category": "Greetings",
+      "generated_at": "2026-06-22T18:12:59.220224"
     }
   ],
-  "last_updated": "2026-06-22T16:57:35.892167"
+  "last_updated": "2026-06-22T18:12:59.220226"
 }
