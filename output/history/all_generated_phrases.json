@@ -874,7 +874,42 @@
       "transliteration": "Sa-lu-ta-ci-ons, pre-pa-rat per a-pren-dre?",
       "category": "Greetings",
       "generated_at": "2026-06-22T18:12:59.220224"
+    },
+    {
+      "english": "Fire, run!",
+      "catalan": "Foc, correu!",
+      "transliteration": "FOK, ko-REH-oo",
+      "category": "Emergency",
+      "generated_at": "2026-06-22T20:10:27.480980"
+    },
+    {
+      "english": "I am sick.",
+      "catalan": "Estic malalt/malalta.",
+      "transliteration": "es-TEEK ma-LALT / ma-LA-ta",
+      "category": "Emergency",
+      "generated_at": "2026-06-22T20:10:27.480989"
+    },
+    {
+      "english": "My wallet is gone.",
+      "catalan": "M'han robat la cartera.",
+      "transliteration": "man ro-BAT la ker-TE-ra",
+      "category": "Emergency",
+      "generated_at": "2026-06-22T20:10:27.480990"
+    },
+    {
+      "english": "Is there a pharmacy?",
+      "catalan": "Hi ha una farmàcia?",
+      "transliteration": "ee a OO-na far-MA-see-a",
+      "category": "Emergency",
+      "generated_at": "2026-06-22T20:10:27.480992"
+    },
+    {
+      "english": "I need help now.",
+      "catalan": "Necessito ajuda, ara.",
+      "transliteration": "ne-ce-SEE-too a-JOO-da, A-ra",
+      "category": "Emergency",
+      "generated_at": "2026-06-22T20:10:27.480993"
     }
   ],
-  "last_updated": "2026-06-22T18:12:59.220226"
+  "last_updated": "2026-06-22T20:10:27.480995"
 }
