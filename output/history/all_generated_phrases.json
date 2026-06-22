@@ -769,7 +769,42 @@
       "transliteration": "Fes el pri-mer pas, a-ra.",
       "category": "Courage",
       "generated_at": "2026-06-21T21:02:20.217352"
+    },
+    {
+      "english": "You're a great friend, always.",
+      "catalan": "Ets un gran amic, sempre.",
+      "transliteration": "Ets un gran amic, sem-pre.",
+      "category": "Friendship",
+      "generated_at": "2026-06-22T03:53:15.083836"
+    },
+    {
+      "english": "Thanks for everything, truly.",
+      "catalan": "Gràcies per tot, de veritat.",
+      "transliteration": "Grà-cies per tot, de ve-ri-tat.",
+      "category": "Friendship",
+      "generated_at": "2026-06-22T03:53:15.083844"
+    },
+    {
+      "english": "Let's hang out soon.",
+      "catalan": "Anem a veure'ns aviat.",
+      "transliteration": "A-nem a veu-re'ns a-vi-at.",
+      "category": "Friendship",
+      "generated_at": "2026-06-22T03:53:15.083846"
+    },
+    {
+      "english": "I'm glad we met.",
+      "catalan": "Estic content de conèixer-te.",
+      "transliteration": "Es-tic con-tent de co-nè-ixer-te.",
+      "category": "Friendship",
+      "generated_at": "2026-06-22T03:53:15.083847"
+    },
+    {
+      "english": "You always make me laugh.",
+      "catalan": "Sempre em fas riure.",
+      "transliteration": "Sem-pre em fas riu-re.",
+      "category": "Friendship",
+      "generated_at": "2026-06-22T03:53:15.083849"
     }
   ],
-  "last_updated": "2026-06-21T21:02:20.217353"
+  "last_updated": "2026-06-22T03:53:15.083850"
 }
