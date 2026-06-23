@@ -1014,7 +1014,42 @@
       "transliteration": "Els meus avis, tan savis.",
       "category": "Family Terms",
       "generated_at": "2026-06-23T14:48:19.644611"
+    },
+    {
+      "english": "A table for two, please.",
+      "catalan": "Una taula per a dos, si us plau.",
+      "transliteration": "Oona taula per a dos, see oos plow.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T16:25:11.713250"
+    },
+    {
+      "english": "Can I see the menu?",
+      "catalan": "Puc veure la carta?",
+      "transliteration": "Pook vwer la karta?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T16:25:11.713259"
+    },
+    {
+      "english": "What do you recommend?",
+      "catalan": "Què em recomanes?",
+      "transliteration": "Ke em rekomanes?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T16:25:11.713261"
+    },
+    {
+      "english": "I'll have the soup.",
+      "catalan": "Vull la sopa.",
+      "transliteration": "Vool la sopa.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T16:25:11.713262"
+    },
+    {
+      "english": "Is this dish spicy?",
+      "catalan": "Aquest plat pica?",
+      "transliteration": "Akkest plat peeka?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T16:25:11.713266"
     }
   ],
-  "last_updated": "2026-06-23T14:48:19.644613"
+  "last_updated": "2026-06-23T16:25:11.713267"
 }
