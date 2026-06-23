@@ -979,7 +979,42 @@
       "transliteration": "Ets ca-paç, tor-na a pro-var.",
       "category": "Confidence",
       "generated_at": "2026-06-23T02:52:50.371350"
+    },
+    {
+      "english": "My mother, she is kind.",
+      "catalan": "La meva mare, és amable.",
+      "transliteration": "La meva mare, es amable.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-23T14:48:19.644584"
+    },
+    {
+      "english": "My father, he is strong.",
+      "catalan": "El meu pare, és fort.",
+      "transliteration": "El meu pare, es fort.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-23T14:48:19.644607"
+    },
+    {
+      "english": "My sister, my best friend.",
+      "catalan": "La meva germana, la meva millor amiga.",
+      "transliteration": "La meva germana, la meva millor amiga.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-23T14:48:19.644609"
+    },
+    {
+      "english": "My brother, always funny.",
+      "catalan": "El meu germà, sempre divertit.",
+      "transliteration": "El meu germà, sempre divertit.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-23T14:48:19.644610"
+    },
+    {
+      "english": "My grandparents, so wise.",
+      "catalan": "Els meus avis, tan savis.",
+      "transliteration": "Els meus avis, tan savis.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-23T14:48:19.644611"
     }
   ],
-  "last_updated": "2026-06-23T02:52:50.371352"
+  "last_updated": "2026-06-23T14:48:19.644613"
 }
