@@ -1049,7 +1049,42 @@
       "transliteration": "Akkest plat peeka?",
       "category": "Restaurant",
       "generated_at": "2026-06-23T16:25:11.713266"
+    },
+    {
+      "english": "Start today, learn tomorrow.",
+      "catalan": "Comença avui, aprèn demà.",
+      "transliteration": "Com-en-sa a-u-ee, a-pren de-ma.",
+      "category": "Motivation",
+      "generated_at": "2026-06-23T19:09:54.343330"
+    },
+    {
+      "english": "Little by little, you'll get there.",
+      "catalan": "A poc a poc, arribaràs.",
+      "transliteration": "A poc a poc, a-rri-ba-ras.",
+      "category": "Motivation",
+      "generated_at": "2026-06-23T19:09:54.343340"
+    },
+    {
+      "english": "Every word counts, practice often.",
+      "catalan": "Cada paraula compta, practica molt.",
+      "transliteration": "Ca-da pa-ra-u-la com-ta, prac-ti-ca molt.",
+      "category": "Motivation",
+      "generated_at": "2026-06-23T19:09:54.343341"
+    },
+    {
+      "english": "Don't be afraid, keep going.",
+      "catalan": "No tinguis por, continua.",
+      "transliteration": "No tin-gues por, con-ti-nu-a.",
+      "category": "Motivation",
+      "generated_at": "2026-06-23T19:09:54.343342"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "catalan": "Abraça el repte, fes-te fort.",
+      "transliteration": "A-bra-sa el re-pte, fes-te fort.",
+      "category": "Motivation",
+      "generated_at": "2026-06-23T19:09:54.343343"
     }
   ],
-  "last_updated": "2026-06-23T16:25:11.713267"
+  "last_updated": "2026-06-23T19:09:54.343344"
 }
