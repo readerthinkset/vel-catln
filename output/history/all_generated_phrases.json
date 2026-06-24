@@ -1224,7 +1224,42 @@
       "transliteration": "PAU en-TRE no-SAL-tres.",
       "category": "Forgiveness",
       "generated_at": "2026-06-24T16:13:10.670312"
+    },
+    {
+      "english": "Let's go, slowly but surely.",
+      "catalan": "Anem, a poc a poc.",
+      "transliteration": "A-nem, a poc a poc.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-24T18:53:09.019857"
+    },
+    {
+      "english": "Don't worry, it's all good.",
+      "catalan": "No pateixis, tot anirà bé.",
+      "transliteration": "No pa-te-ixis, tot a-ni-rà be.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-24T18:53:09.019866"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "catalan": "Tingues calma, no tinguis pressa.",
+      "transliteration": "Tin-gues cal-ma, no tin-gues pres-sa.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-24T18:53:09.019868"
+    },
+    {
+      "english": "Yes, of course, absolutely.",
+      "catalan": "Sí, és clar, per descomptat.",
+      "transliteration": "Si, es clar, per des-com-ptat.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-24T18:53:09.019869"
+    },
+    {
+      "english": "Here you go, please take it.",
+      "catalan": "Aquí tens, si us plau.",
+      "transliteration": "A-quí tens, si us plau.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-24T18:53:09.019874"
     }
   ],
-  "last_updated": "2026-06-24T16:13:10.670314"
+  "last_updated": "2026-06-24T18:53:09.019876"
 }
