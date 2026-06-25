@@ -1294,7 +1294,42 @@
       "transliteration": "Un pas, i un altre, cap endavant.",
       "category": "Perseverance",
       "generated_at": "2026-06-24T21:15:30.875692"
+    },
+    {
+      "english": "Just be, right now.",
+      "catalan": "Només sigues, ara mateix.",
+      "transliteration": "No-MEHS SEE-ges, A-ra ma-TEISH.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-25T02:53:13.928562"
+    },
+    {
+      "english": "Gentle thoughts, kind heart.",
+      "catalan": "Pensaments suaus, cor amable.",
+      "transliteration": "Pen-sa-MENTS soo-AWS, kor a-MAH-ble.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-25T02:53:13.928570"
+    },
+    {
+      "english": "Let worries drift away.",
+      "catalan": "Deixa els mals anar.",
+      "transliteration": "DEY-sha els MAHLS a-NAR.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-25T02:53:13.928572"
+    },
+    {
+      "english": "Ground yourself, feel earth.",
+      "catalan": "Arrelat, sent la terra.",
+      "transliteration": "A-rre-LAHT, SENT la TE-rra.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-25T02:53:13.928573"
+    },
+    {
+      "english": "Find your inner light.",
+      "catalan": "Troba la teva llum interior.",
+      "transliteration": "TRO-ba la TE-va LOOM in-te-ree-OR.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-25T02:53:13.928574"
     }
   ],
-  "last_updated": "2026-06-24T21:15:30.875693"
+  "last_updated": "2026-06-25T02:53:13.928576"
 }
