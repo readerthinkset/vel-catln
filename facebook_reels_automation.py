@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Salutacions",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "ca-ES-EnricNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Catalan.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Catalan.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Catalan text should be CLEAN - use standard Catalan script
 7. Do NOT include multiple versions or slashes - just ONE clean Catalan translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Catalan text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Catalan teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Catalan teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Catalan text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Catalan text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "catalan": "[CA] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "catalan": "[CA] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "catalan": "[CA] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "catalan": "[CA] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "catalan": "[CA] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "catalan": "[CA] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "catalan": "[CA] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "catalan": "[CA] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "catalan": "[CA] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "catalan": "[CA] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "catalan": "Hola, encantat de con\u00e8ixer-te.", "transliteration": "Hola, encantat de con\u00e8ixer-te."},
+        {"english": "Thank you very much.", "catalan": "Moltes gr\u00e0cies.", "transliteration": "Moltes gr\u00e0cies."},
+        {"english": "Good morning, have a great day.", "catalan": "Bon dia, que tinguis un bon dia.", "transliteration": "Bon dia, que tinguis un bon dia."},
+        {"english": "I love learning new languages.", "catalan": "M'encanta aprendre idiomes nous.", "transliteration": "M'encanta aprendre idiomes nous."},
+        {"english": "Never give up on your dreams.", "catalan": "No renunci\u00efs mai als teus somnis.", "transliteration": "No renunci\u00efs mai als teus somnis."},
+        {"english": "Every day is a fresh start.", "catalan": "Cada dia \u00e9s un nou comen\u00e7ament.", "transliteration": "Cada dia \u00e9s un nou comen\u00e7ament."},
+        {"english": "Believe in yourself always.", "catalan": "Creu en tu mateix sempre.", "transliteration": "Creu en tu mateix sempre."},
+        {"english": "Small steps lead to big changes.", "catalan": "Els petits passos porten a grans canvis.", "transliteration": "Els petits passos porten a grans canvis."},
+        {"english": "You are stronger than you think.", "catalan": "Ets m\u00e9s fort del que creus.", "transliteration": "Ets m\u00e9s fort del que creus."},
+        {"english": "Happiness is a choice, choose it.", "catalan": "La felicitat \u00e9s una elecci\u00f3, tria-la.", "transliteration": "La felicitat \u00e9s una elecci\u00f3, tria-la."},
+        {"english": "What time is it please.", "catalan": "Quina hora \u00e9s, si us plau.", "transliteration": "Quina hora \u00e9s, si us plau."},
+        {"english": "Where is the train station.", "catalan": "On \u00e9s l'estaci\u00f3 de tren.", "transliteration": "On \u00e9s l'estaci\u00f3 de tren."},
+        {"english": "How much does this cost.", "catalan": "Quant costa aix\u00f2.", "transliteration": "Quant costa aix\u00f2."},
+        {"english": "Can you help me please.", "catalan": "Em pots ajudar, si us plau.", "transliteration": "Em pots ajudar, si us plau."},
+        {"english": "I would like a coffee please.", "catalan": "Voldria un caf\u00e8, si us plau.", "transliteration": "Voldria un caf\u00e8, si us plau."},
+        {"english": "The food is delicious today.", "catalan": "El menjar \u00e9s delici\u00f3s avui.", "transliteration": "El menjar \u00e9s delici\u00f3s avui."},
+        {"english": "Have a wonderful weekend.", "catalan": "Que tinguis un cap de setmana meravell\u00f3s.", "transliteration": "Que tinguis un cap de setmana meravell\u00f3s."},
+        {"english": "Take care of yourself.", "catalan": "Cuida't.", "transliteration": "Cuida't."},
+        {"english": "See you tomorrow my friend.", "catalan": "Fins dem\u00e0, amic meu.", "transliteration": "Fins dem\u00e0, amic meu."},
+        {"english": "The weather is beautiful outside.", "catalan": "El temps \u00e9s bonic fora.", "transliteration": "El temps \u00e9s bonic fora."},
+        {"english": "I am very happy today.", "catalan": "Estic molt content avui.", "transliteration": "Estic molt content avui."},
+        {"english": "Learning a language opens new doors.", "catalan": "Aprendre un idioma obre noves portes.", "transliteration": "Aprendre un idioma obre noves portes."},
+        {"english": "Keep practicing every single day.", "catalan": "Segueix practicant cada dia.", "transliteration": "Segueix practicant cada dia."},
+        {"english": "You can achieve anything you want.", "catalan": "Pots aconseguir tot el que vulguis.", "transliteration": "Pots aconseguir tot el que vulguis."},
+        {"english": "Rest when you are tired.", "catalan": "Descansa quan estiguis cansat.", "transliteration": "Descansa quan estiguis cansat."},
+        {"english": "Focus on the positive things.", "catalan": "Concentra't en les coses positives.", "transliteration": "Concentra't en les coses positives."},
+        {"english": "Learn from your mistakes.", "catalan": "Apr\u00e8n dels teus errors.", "transliteration": "Apr\u00e8n dels teus errors."},
+        {"english": "Trust the process completely.", "catalan": "Confia completament en el proc\u00e9s.", "transliteration": "Confia completament en el proc\u00e9s."},
+        {"english": "Breathe deeply and stay calm.", "catalan": "Respira profundament i mant\u00e9n la calma.", "transliteration": "Respira profundament i mant\u00e9n la calma."},
+        {"english": "Enjoy the little moments in life.", "catalan": "Gaudeix dels petits moments de la vida.", "transliteration": "Gaudeix dels petits moments de la vida."},
+        {"english": "Smile more, worry less.", "catalan": "Somriu m\u00e9s, preocupa't menys.", "transliteration": "Somriu m\u00e9s, preocupa't menys."},
+        {"english": "Be kind to everyone you meet.", "catalan": "Sigues amable amb tothom que trobis.", "transliteration": "Sigues amable amb tothom que trobis."},
+        {"english": "Help others without expecting anything back.", "catalan": "Ajuda els altres sense esperar res a canvi.", "transliteration": "Ajuda els altres sense esperar res a canvi."},
+        {"english": "Forgive yourself and move forward.", "catalan": "Perdona't i segueix endavant.", "transliteration": "Perdona't i segueix endavant."},
+        {"english": "Stay strong in difficult times.", "catalan": "Mant\u00e9n-te fort en moments dif\u00edcils.", "transliteration": "Mant\u00e9n-te fort en moments dif\u00edcils."},
+        {"english": "Every moment is a new beginning.", "catalan": "Cada moment \u00e9s un nou comen\u00e7ament.", "transliteration": "Cada moment \u00e9s un nou comen\u00e7ament."},
+        {"english": "Listen to your heart always.", "catalan": "Escolta sempre el teu cor.", "transliteration": "Escolta sempre el teu cor."},
+        {"english": "Do what makes you happy.", "catalan": "Fes el que et fa feli\u00e7.", "transliteration": "Fes el que et fa feli\u00e7."},
+        {"english": "Your potential is unlimited.", "catalan": "El teu potencial \u00e9s il\u00b7limitat.", "transliteration": "El teu potencial \u00e9s il\u00b7limitat."},
+        {"english": "Be brave and take risks.", "catalan": "Sigues valent i assumeix riscos.", "transliteration": "Sigues valent i assumeix riscos."},
+        {"english": "Celebrate your progress every day.", "catalan": "Celebra el teu progr\u00e9s cada dia.", "transliteration": "Celebra el teu progr\u00e9s cada dia."},
+        {"english": "Surround yourself with good people.", "catalan": "Envolta't de bona gent.", "transliteration": "Envolta't de bona gent."},
+        {"english": "Read books and grow your mind.", "catalan": "Llegeix llibres i fes cr\u00e9ixer la teva ment.", "transliteration": "Llegeix llibres i fes cr\u00e9ixer la teva ment."},
+        {"english": "Travel and discover new places.", "catalan": "Viatja i descobreix nous llocs.", "transliteration": "Viatja i descobreix nous llocs."},
+        {"english": "Appreciate what you already have.", "catalan": "Valora el que ja tens.", "transliteration": "Valora el que ja tens."},
+        {"english": "Dance like nobody is watching.", "catalan": "Balla com si ning\u00fa t'estigu\u00e9s mirant.", "transliteration": "Balla com si ning\u00fa t'estigu\u00e9s mirant."},
+        {"english": "Sing from your heart out loud.", "catalan": "Canta amb el cor a ple pulm\u00f3.", "transliteration": "Canta amb el cor a ple pulm\u00f3."},
+        {"english": "Plant seeds of kindness everywhere.", "catalan": "Planta llavors de bondat a tot arreu.", "transliteration": "Planta llavors de bondat a tot arreu."},
+        {"english": "Let go of what you cannot control.", "catalan": "Deixa anar el que no pots controlar.", "transliteration": "Deixa anar el que no pots controlar."},
+        {"english": "Be present in the here and now.", "catalan": "Estigues present en el moment actual.", "transliteration": "Estigues present en el moment actual."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "catalan"
-    for p in fresh:
-        p[lang_key] = p.pop("catalan")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
