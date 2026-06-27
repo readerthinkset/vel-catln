@@ -1329,7 +1329,42 @@
       "transliteration": "TRO-ba la TE-va LOOM in-te-ree-OR.",
       "category": "Mindfulness",
       "generated_at": "2026-06-25T02:53:13.928574"
+    },
+    {
+      "english": "Listen closely, then speak.",
+      "catalan": "Escolta atentament, després parla.",
+      "transliteration": "Es-ko-lta a-ten-ta-ment, des-pres par-la",
+      "category": "Directions",
+      "generated_at": "2026-06-27T13:42:50.285531"
+    },
+    {
+      "english": "Don't be afraid, relax.",
+      "catalan": "No tinguis por, relaxa't.",
+      "transliteration": "No tin-gues por, re-lax-at",
+      "category": "Directions",
+      "generated_at": "2026-06-27T13:42:50.285541"
+    },
+    {
+      "english": "Read aloud, understand better.",
+      "catalan": "Llegeix en veu alta, entens millor.",
+      "transliteration": "Lle-geix en veu al-ta, en-tens mi-llor",
+      "category": "Directions",
+      "generated_at": "2026-06-27T13:42:50.285542"
+    },
+    {
+      "english": "Repeat after me, slowly.",
+      "catalan": "Repeteix després de mi, lentament.",
+      "transliteration": "Re-pe-teix des-pres de mi, len-ta-ment",
+      "category": "Directions",
+      "generated_at": "2026-06-27T13:42:50.285544"
+    },
+    {
+      "english": "Ask questions, learn more.",
+      "catalan": "Fes preguntes, aprèn més.",
+      "transliteration": "Fes pre-gun-tes, a-pren més",
+      "category": "Directions",
+      "generated_at": "2026-06-27T13:42:50.285545"
     }
   ],
-  "last_updated": "2026-06-25T02:53:13.928576"
+  "last_updated": "2026-06-27T13:42:50.285546"
 }
