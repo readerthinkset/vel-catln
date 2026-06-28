@@ -1574,7 +1574,42 @@
       "transliteration": "Cons-tru-eix ponts, amb pa-ra-u-les ca-ta-la-nes.",
       "category": "Growth",
       "generated_at": "2026-06-28T15:14:58.697464"
+    },
+    {
+      "english": "My hand, it waves hello.",
+      "catalan": "La meva mà, saluda.",
+      "transliteration": "La meva ma, saluda.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T18:06:26.316119"
+    },
+    {
+      "english": "Your eyes, so bright.",
+      "catalan": "Els teus ulls, tan brillants.",
+      "transliteration": "Els teus ulls, tan brillants.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T18:06:26.316127"
+    },
+    {
+      "english": "A little nose, it twitches.",
+      "catalan": "Un nas petit, es remou.",
+      "transliteration": "Un nas petit, es remou.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T18:06:26.316129"
+    },
+    {
+      "english": "Listen with your ears.",
+      "catalan": "Escolta amb les teves orelles.",
+      "transliteration": "Escolta amb les teves orelles.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T18:06:26.316130"
+    },
+    {
+      "english": "This mouth, sings songs.",
+      "catalan": "Aquesta boca, canta cançons.",
+      "transliteration": "Aquesta boca, canta cançons.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T18:06:26.316131"
     }
   ],
-  "last_updated": "2026-06-28T15:14:58.697469"
+  "last_updated": "2026-06-28T18:06:26.316133"
 }
