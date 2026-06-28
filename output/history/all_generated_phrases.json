@@ -1609,7 +1609,42 @@
       "transliteration": "Aquesta boca, canta cançons.",
       "category": "Body Parts",
       "generated_at": "2026-06-28T18:06:26.316131"
+    },
+    {
+      "english": "Every day, a new word.",
+      "catalan": "Cada dia, una paraula nova.",
+      "transliteration": "KAH-dah DEE-ah, OO-nah pah-LAH-oo-lah NOH-vah.",
+      "category": "Success",
+      "generated_at": "2026-06-28T20:48:59.482097"
+    },
+    {
+      "english": "Speak slowly, learn faster.",
+      "catalan": "Parla lent, aprèn millor.",
+      "transliteration": "PAR-lah LENT, ah-PREHN mee-YOHR.",
+      "category": "Success",
+      "generated_at": "2026-06-28T20:48:59.482107"
+    },
+    {
+      "english": "Listen close, understand more.",
+      "catalan": "Escolta atent, comprèn més.",
+      "transliteration": "es-KOL-tah ah-TENT, kom-PREHN MEHS.",
+      "category": "Success",
+      "generated_at": "2026-06-28T20:48:59.482108"
+    },
+    {
+      "english": "Your effort, counts.",
+      "catalan": "El teu esforç, val.",
+      "transliteration": "El TEH-oo es-FORTS, VAHL.",
+      "category": "Success",
+      "generated_at": "2026-06-28T20:48:59.482110"
+    },
+    {
+      "english": "Mistakes are teachers.",
+      "catalan": "Les errades, ensenyen.",
+      "transliteration": "Lehs eh-RAH-dahs, en-SEH-nyen.",
+      "category": "Success",
+      "generated_at": "2026-06-28T20:48:59.482111"
     }
   ],
-  "last_updated": "2026-06-28T18:06:26.316133"
+  "last_updated": "2026-06-28T20:48:59.482113"
 }
