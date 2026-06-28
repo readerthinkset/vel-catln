@@ -1469,7 +1469,42 @@
       "transliteration": "Cada poble té un cor.",
       "category": "Culture",
       "generated_at": "2026-06-27T20:47:06.217881"
+    },
+    {
+      "english": "Learn a new word, each day.",
+      "catalan": "Aprèn una paraula nova, cada dia.",
+      "transliteration": "Apren una paraula nova, cada dia.",
+      "category": "Education",
+      "generated_at": "2026-06-28T03:28:12.473813"
+    },
+    {
+      "english": "Listen carefully, to the sounds.",
+      "catalan": "Escolta atentament, els sons.",
+      "transliteration": "Escolta atentament, els sons.",
+      "category": "Education",
+      "generated_at": "2026-06-28T03:28:12.473821"
+    },
+    {
+      "english": "Practice speaking, slowly first.",
+      "catalan": "Practica parlar, a poc a poc.",
+      "transliteration": "Practica parlar, a poc a poc.",
+      "category": "Education",
+      "generated_at": "2026-06-28T03:28:12.473823"
+    },
+    {
+      "english": "Read a book, in Catalan.",
+      "catalan": "Llegeix un llibre, en català.",
+      "transliteration": "Llegeix un llibre, en català.",
+      "category": "Education",
+      "generated_at": "2026-06-28T03:28:12.473824"
+    },
+    {
+      "english": "Write a sentence, every morning.",
+      "catalan": "Escriu una frase, cada matí.",
+      "transliteration": "Escriu una frase, cada matí.",
+      "category": "Education",
+      "generated_at": "2026-06-28T03:28:12.473825"
     }
   ],
-  "last_updated": "2026-06-27T20:47:06.217883"
+  "last_updated": "2026-06-28T03:28:12.473827"
 }
