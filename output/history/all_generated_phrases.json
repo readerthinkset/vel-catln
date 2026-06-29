@@ -1714,7 +1714,42 @@
       "transliteration": "Taronja ardent, com una posta de sol.",
       "category": "Colors",
       "generated_at": "2026-06-29T15:46:25.952793"
+    },
+    {
+      "english": "A quiet corner, to rest a while.",
+      "catalan": "Un racó tranquil, per descansar una estona.",
+      "transliteration": "oon rah-KOON trahn-KEEL, pehr deh-skahn-SAHR OO-nah EH-stoh-nah",
+      "category": "Travel",
+      "generated_at": "2026-06-29T16:51:26.308385"
+    },
+    {
+      "english": "This view, is breathtaking.",
+      "catalan": "Aquesta vista, és espectacular.",
+      "transliteration": "eh-S-tah VEES-tah, ehs eh-speh-tah-koo-LAHR",
+      "category": "Travel",
+      "generated_at": "2026-06-29T16:51:26.308395"
+    },
+    {
+      "english": "Which path, leads to the sea?",
+      "catalan": "Quin camí, porta al mar?",
+      "transliteration": "KEEN kah-MEE, POHR-tah ahl MAHR?",
+      "category": "Travel",
+      "generated_at": "2026-06-29T16:51:26.308397"
+    },
+    {
+      "english": "A local market, awaits us.",
+      "catalan": "Un mercat local, ens espera.",
+      "transliteration": "oon mehr-KAHT loh-KAHL, ehns eh-SPEH-rah",
+      "category": "Travel",
+      "generated_at": "2026-06-29T16:51:26.308398"
+    },
+    {
+      "english": "Could you recommend, a good tapas bar?",
+      "catalan": "Em recomanaries, un bon bar de tapes?",
+      "transliteration": "ehm reh-koh-mah-nah-REE-ahs, oon bohn BAHR deh TAH-pehs?",
+      "category": "Travel",
+      "generated_at": "2026-06-29T16:51:26.308399"
     }
   ],
-  "last_updated": "2026-06-29T15:46:25.952794"
+  "last_updated": "2026-06-29T16:51:26.308401"
 }
