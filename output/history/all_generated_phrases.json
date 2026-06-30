@@ -1889,7 +1889,42 @@
       "transliteration": "Es-tem al di-a, si.",
       "category": "Work",
       "generated_at": "2026-06-30T14:21:41.652881"
+    },
+    {
+      "english": "A tasty surprise, on my plate.",
+      "catalan": "Una sorpresa gustosa, al meu plat.",
+      "transliteration": "Oo-nah sor-PREH-sah goos-TOH-sah, al may-oo plaht.",
+      "category": "Food",
+      "generated_at": "2026-06-30T16:20:15.203242"
+    },
+    {
+      "english": "This bread, is so fresh.",
+      "catalan": "Aquest pa, és tan fresc.",
+      "transliteration": "Ah-KEST pah, es tahn FRESK.",
+      "category": "Food",
+      "generated_at": "2026-06-30T16:20:15.203250"
+    },
+    {
+      "english": "Sweet fruits, make me smile.",
+      "catalan": "Fruites dolces, em fan somriure.",
+      "transliteration": "FROO-ee-tes dohl-SES, em fahn sohm-ree-OO-reh.",
+      "category": "Food",
+      "generated_at": "2026-06-30T16:20:15.203252"
+    },
+    {
+      "english": "Coffee, please, very hot.",
+      "catalan": "Cafè, sisplau, molt calent.",
+      "transliteration": "Kah-FEH, sees-PLOW, mohlt kah-LENT.",
+      "category": "Food",
+      "generated_at": "2026-06-30T16:20:15.203253"
+    },
+    {
+      "english": "Dinner is ready, come eat.",
+      "catalan": "El sopar, està llest. Veniu a menjar.",
+      "transliteration": "El soh-PAHR, es-TAH LYEST. Veh-NEE-oo ah meh-NJHAHR.",
+      "category": "Food",
+      "generated_at": "2026-06-30T16:20:15.203254"
     }
   ],
-  "last_updated": "2026-06-30T14:21:41.652883"
+  "last_updated": "2026-06-30T16:20:15.203256"
 }
