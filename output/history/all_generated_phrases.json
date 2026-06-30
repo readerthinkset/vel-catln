@@ -1854,7 +1854,42 @@
       "transliteration": "Tasta la llibertat, respira profund.",
       "category": "Holidays",
       "generated_at": "2026-06-30T02:57:10.378441"
+    },
+    {
+      "english": "This project, it's a challenge.",
+      "catalan": "Aquest projecte, és un repte.",
+      "transliteration": "A-kest pro-yek-te, es un re-pte.",
+      "category": "Work",
+      "generated_at": "2026-06-30T14:21:41.652865"
+    },
+    {
+      "english": "Let's meet, tomorrow morning.",
+      "catalan": "Ens trobem, demà al matí.",
+      "transliteration": "Ens tro-bem, de-ma al ma-ti.",
+      "category": "Work",
+      "generated_at": "2026-06-30T14:21:41.652876"
+    },
+    {
+      "english": "I need help, with this.",
+      "catalan": "Necessito ajuda, amb això.",
+      "transliteration": "Ne-ce-si-to a-yu-da, am a-xi-o.",
+      "category": "Work",
+      "generated_at": "2026-06-30T14:21:41.652878"
+    },
+    {
+      "english": "The deadline, is approaching.",
+      "catalan": "La data límit, s'acosta.",
+      "transliteration": "La da-ta li-mit, sa-kos-ta.",
+      "category": "Work",
+      "generated_at": "2026-06-30T14:21:41.652879"
+    },
+    {
+      "english": "We are on schedule, yes.",
+      "catalan": "Estem al dia, sí.",
+      "transliteration": "Es-tem al di-a, si.",
+      "category": "Work",
+      "generated_at": "2026-06-30T14:21:41.652881"
     }
   ],
-  "last_updated": "2026-06-30T02:57:10.378442"
+  "last_updated": "2026-06-30T14:21:41.652883"
 }
