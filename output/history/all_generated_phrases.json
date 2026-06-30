@@ -1924,7 +1924,42 @@
       "transliteration": "El soh-PAHR, es-TAH LYEST. Veh-NEE-oo ah meh-NJHAHR.",
       "category": "Food",
       "generated_at": "2026-06-30T16:20:15.203254"
+    },
+    {
+      "english": "A moment, then silence.",
+      "catalan": "Un instant, després silenci.",
+      "transliteration": "oon een-stahn, des-pres see-len-see",
+      "category": "Time",
+      "generated_at": "2026-06-30T18:58:06.435333"
+    },
+    {
+      "english": "The clock, keeps ticking.",
+      "catalan": "El rellotge, no para.",
+      "transliteration": "el reh-lod-jeh, no pah-rah",
+      "category": "Time",
+      "generated_at": "2026-06-30T18:58:06.435342"
+    },
+    {
+      "english": "Dawn breaks, slowly.",
+      "catalan": "L'alba arriba, lentament.",
+      "transliteration": "lal-bah ah-ree-bah, len-tah-ment",
+      "category": "Time",
+      "generated_at": "2026-06-30T18:58:06.435344"
+    },
+    {
+      "english": "Seasons change, year by year.",
+      "catalan": "Les estacions, passen.",
+      "transliteration": "les es-tah-see-ons, pah-sahn",
+      "category": "Time",
+      "generated_at": "2026-06-30T18:58:06.435345"
+    },
+    {
+      "english": "A lifetime, unfolds.",
+      "catalan": "Una vida, es revela.",
+      "transliteration": "oo-nah vee-dah, es reh-veh-lah",
+      "category": "Time",
+      "generated_at": "2026-06-30T18:58:06.435346"
     }
   ],
-  "last_updated": "2026-06-30T16:20:15.203256"
+  "last_updated": "2026-06-30T18:58:06.435348"
 }
