@@ -1959,7 +1959,42 @@
       "transliteration": "oo-nah vee-dah, es reh-veh-lah",
       "category": "Time",
       "generated_at": "2026-06-30T18:58:06.435346"
+    },
+    {
+      "english": "This scarf, is very warm.",
+      "catalan": "Aquesta bufanda, és molt calenta.",
+      "transliteration": "Ah-TES-tah boo-FAN-dah, es molt kah-LEN-tah.",
+      "category": "Clothes",
+      "generated_at": "2026-06-30T21:21:53.114401"
+    },
+    {
+      "english": "I need new socks, please.",
+      "catalan": "Necessito mitjons nous, si us plau.",
+      "transliteration": "Neh-seh-SEE-toh mit-ZHONS noos, see oos plow.",
+      "category": "Clothes",
+      "generated_at": "2026-06-30T21:21:53.114409"
+    },
+    {
+      "english": "My favorite shirt, is blue.",
+      "catalan": "La meva samarreta, és blava.",
+      "transliteration": "Lah MEH-vah sah-mah-REH-tah, es BLAH-vah.",
+      "category": "Clothes",
+      "generated_at": "2026-06-30T21:21:53.114410"
+    },
+    {
+      "english": "These trousers, fit well.",
+      "catalan": "Aquests pantalons, queden bé.",
+      "transliteration": "Ah-KESHTS pan-tah-LONS, KEH-dan beh.",
+      "category": "Clothes",
+      "generated_at": "2026-06-30T21:21:53.114412"
+    },
+    {
+      "english": "Put on your coat, quickly.",
+      "catalan": "Posa't l'abric, ràpidament.",
+      "transliteration": "POH-sah-t lah-BRICK, rah-pee-dah-ment.",
+      "category": "Clothes",
+      "generated_at": "2026-06-30T21:21:53.114413"
     }
   ],
-  "last_updated": "2026-06-30T18:58:06.435348"
+  "last_updated": "2026-06-30T21:21:53.114414"
 }
