@@ -1994,7 +1994,42 @@
       "transliteration": "POH-sah-t lah-BRICK, rah-pee-dah-ment.",
       "category": "Clothes",
       "generated_at": "2026-06-30T21:21:53.114413"
+    },
+    {
+      "english": "My child, is hurt.",
+      "catalan": "El meu fill, està ferit.",
+      "transliteration": "El meu fee, es-tah fe-reet.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T14:35:28.908904"
+    },
+    {
+      "english": "I cannot, breathe well.",
+      "catalan": "No puc, respirar bé.",
+      "transliteration": "No poo, res-pee-rar bay.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T14:35:28.908915"
+    },
+    {
+      "english": "Someone, stole my bag.",
+      "catalan": "Algú, m'ha robat la bossa.",
+      "transliteration": "Al-goo, mah ro-bat lah bos-sah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T14:35:28.908919"
+    },
+    {
+      "english": "This is, an emergency.",
+      "catalan": "Això és, una urgència.",
+      "transliteration": "Ay-shoh es, oo-nah oor-gen-see-ah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T14:35:28.908921"
+    },
+    {
+      "english": "I feel, very dizzy.",
+      "catalan": "Em sento, molt marejat.",
+      "transliteration": "Em sen-toh, molt mah-reh-zhat.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T14:35:28.908922"
     }
   ],
-  "last_updated": "2026-06-30T21:21:53.114414"
+  "last_updated": "2026-07-01T14:35:28.908924"
 }
