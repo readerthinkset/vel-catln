@@ -2099,7 +2099,42 @@
       "transliteration": "Pe-tits es-tal-vis, grans som-nis.",
       "category": "Finance",
       "generated_at": "2026-07-01T19:00:49.623818"
+    },
+    {
+      "english": "Breathe deep, feel well.",
+      "catalan": "Respira profund, sent-te bé.",
+      "transliteration": "Res-pee-ra pro-foond, sent-te bay.",
+      "category": "Health",
+      "generated_at": "2026-07-01T21:15:06.885863"
+    },
+    {
+      "english": "Move your body, love your life.",
+      "catalan": "Mou el cos, estima la vida.",
+      "transliteration": "Mow el cos, es-tee-ma la vee-da.",
+      "category": "Health",
+      "generated_at": "2026-07-01T21:15:06.885872"
+    },
+    {
+      "english": "Eat fresh, live strong.",
+      "catalan": "Menja fresc, viu fort.",
+      "transliteration": "Men-ja fresk, veev fort.",
+      "category": "Health",
+      "generated_at": "2026-07-01T21:15:06.885873"
+    },
+    {
+      "english": "Sleep soundly, wake happy.",
+      "catalan": "Dorm profund, desperta feliç.",
+      "transliteration": "Dorm pro-foond, des-per-ta fe-leesh.",
+      "category": "Health",
+      "generated_at": "2026-07-01T21:15:06.885875"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "catalan": "Beu aigua, mantingues-te hidratat.",
+      "transliteration": "Bew ay-gwa, man-teen-gues-te ee-dra-tat.",
+      "category": "Health",
+      "generated_at": "2026-07-01T21:15:06.885878"
     }
   ],
-  "last_updated": "2026-07-01T19:00:49.623820"
+  "last_updated": "2026-07-01T21:15:06.885880"
 }
