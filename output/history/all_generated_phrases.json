@@ -2029,7 +2029,42 @@
       "transliteration": "Em sen-toh, molt mah-reh-zhat.",
       "category": "Emergency",
       "generated_at": "2026-07-01T14:35:28.908922"
+    },
+    {
+      "english": "This, is beautiful, isn't it?",
+      "catalan": "Això, és preciós, oi?",
+      "transliteration": "Ays-oh, es preh-see-ohs, oy?",
+      "category": "Shopping",
+      "generated_at": "2026-07-01T16:22:22.471853"
+    },
+    {
+      "english": "Do you have, something, similar?",
+      "catalan": "Teniu, alguna cosa, semblant?",
+      "transliteration": "Tee-ay-oo, al-goo-nah koh-sah, sem-blant?",
+      "category": "Shopping",
+      "generated_at": "2026-07-01T16:22:22.471861"
+    },
+    {
+      "english": "I need, a gift, for my friend.",
+      "catalan": "Necessito, un regal, per la meva amiga.",
+      "transliteration": "Neh-seh-see-too, oon reh-gal, pehr lah meh-vah ah-mee-gah.",
+      "category": "Shopping",
+      "generated_at": "2026-07-01T16:22:22.471862"
+    },
+    {
+      "english": "Could you show me, other options?",
+      "catalan": "Em podria ensenyar, altres opcions?",
+      "transliteration": "Em poh-dree-ah en-seh-nyar, al-trehs op-see-ons?",
+      "category": "Shopping",
+      "generated_at": "2026-07-01T16:22:22.471863"
+    },
+    {
+      "english": "This fabric, feels very soft.",
+      "catalan": "Aquest teixit, fa molt de suau.",
+      "transliteration": "A-kest teh-ee-sheet, fah molt deh soo-ah.",
+      "category": "Shopping",
+      "generated_at": "2026-07-01T16:22:22.471865"
     }
   ],
-  "last_updated": "2026-07-01T14:35:28.908924"
+  "last_updated": "2026-07-01T16:22:22.471866"
 }
