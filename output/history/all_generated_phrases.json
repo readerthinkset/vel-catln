@@ -2589,7 +2589,42 @@
       "transliteration": "BAL-lah llee-oo-reh-MENT, al com-PAHS.",
       "category": "Music",
       "generated_at": "2026-07-04T18:03:32.357000"
+    },
+    {
+      "english": "This smells incredible, wow.",
+      "catalan": "Això fa una olor increïble, vaja.",
+      "transliteration": "Ay-so fa oo-na o-lor in-cre-ee-ble, va-ja.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-04T20:41:28.067056"
+    },
+    {
+      "english": "Could we have, the bill, please?",
+      "catalan": "Ens porteu, el compte, si us plau?",
+      "transliteration": "Ens por-teu, el kom-te, si us plau?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-04T20:41:28.067065"
+    },
+    {
+      "english": "Just water, for now.",
+      "catalan": "Només aigua, de moment.",
+      "transliteration": "No-mez a-i-gwa, de mo-ment.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-04T20:41:28.067067"
+    },
+    {
+      "english": "Is this a local specialty?",
+      "catalan": "Això és una especialitat local?",
+      "transliteration": "Ay-so es oo-na es-pe-si-a-li-tat lo-kal?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-04T20:41:28.067068"
+    },
+    {
+      "english": "I'd like, something light, please.",
+      "catalan": "Voldria, quelcom lleuger, si us plau.",
+      "transliteration": "Vol-dree-a, kel-kom lye-zher, si us plau.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-04T20:41:28.067069"
     }
   ],
-  "last_updated": "2026-07-04T18:03:32.357002"
+  "last_updated": "2026-07-04T20:41:28.067071"
 }
