@@ -2554,7 +2554,42 @@
       "transliteration": "No-mehs res-pee-ra, re-lax-aht.",
       "category": "Common Expressions",
       "generated_at": "2026-07-04T15:01:24.438989"
+    },
+    {
+      "english": "Listen closely, music speaks.",
+      "catalan": "Escolta atentament, la música parla.",
+      "transliteration": "Es-KOH-lta ah-ten-tah-ment, lah MOO-see-kah PAR-lah.",
+      "category": "Music",
+      "generated_at": "2026-07-04T18:03:32.356987"
+    },
+    {
+      "english": "Sing out loud, feel the rhythm.",
+      "catalan": "Canta fort, sent el ritme.",
+      "transliteration": "KAN-tah fort, sen el REET-meh.",
+      "category": "Music",
+      "generated_at": "2026-07-04T18:03:32.356996"
+    },
+    {
+      "english": "Play your part, joyfully.",
+      "catalan": "Toca el teu paper, alegrement.",
+      "transliteration": "TOH-kah el teu pah-PEL, ah-leh-greh-MENT.",
+      "category": "Music",
+      "generated_at": "2026-07-04T18:03:32.356998"
+    },
+    {
+      "english": "A sweet melody, for you.",
+      "catalan": "Una dolça melodia, per tu.",
+      "transliteration": "OO-nah DOL-sah meh-loh-DEE-ah, per TOO.",
+      "category": "Music",
+      "generated_at": "2026-07-04T18:03:32.356999"
+    },
+    {
+      "english": "Dance freely, to the beat.",
+      "catalan": "Balla lliurement, al compàs.",
+      "transliteration": "BAL-lah llee-oo-reh-MENT, al com-PAHS.",
+      "category": "Music",
+      "generated_at": "2026-07-04T18:03:32.357000"
     }
   ],
-  "last_updated": "2026-07-04T15:01:24.438991"
+  "last_updated": "2026-07-04T18:03:32.357002"
 }
