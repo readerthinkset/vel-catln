@@ -2519,7 +2519,42 @@
       "transliteration": "Creixem, junts, més forts.",
       "category": "Relationships",
       "generated_at": "2026-07-04T13:25:14.976045"
+    },
+    {
+      "english": "Morning sun, new day.",
+      "catalan": "Sol de matí, dia nou.",
+      "transliteration": "Sol de ma-tee, dee-a noo.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-04T15:01:24.438972"
+    },
+    {
+      "english": "A little help, goes far.",
+      "catalan": "Una petita ajuda, arriba lluny.",
+      "transliteration": "Oo-na pe-tee-ta a-joo-da, a-ree-va lyoon.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-04T15:01:24.438985"
+    },
+    {
+      "english": "Listen well, speak later.",
+      "catalan": "Escolta bé, parla després.",
+      "transliteration": "Es-col-ta beh, par-la des-prehs.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-04T15:01:24.438987"
+    },
+    {
+      "english": "Small steps, big dreams.",
+      "catalan": "Passos petits, somnis grans.",
+      "transliteration": "Pas-os pe-teets, som-nees grans.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-04T15:01:24.438988"
+    },
+    {
+      "english": "Just breathe, relax.",
+      "catalan": "Només respira, relaxa't.",
+      "transliteration": "No-mehs res-pee-ra, re-lax-aht.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-04T15:01:24.438989"
     }
   ],
-  "last_updated": "2026-07-04T13:25:14.976046"
+  "last_updated": "2026-07-04T15:01:24.438991"
 }
