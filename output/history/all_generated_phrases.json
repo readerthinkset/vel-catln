@@ -2729,7 +2729,42 @@
       "transliteration": "A-bra-sa la moo-zee-ca, del llen-gua-tge.",
       "category": "Purpose",
       "generated_at": "2026-07-05T15:09:39.770483"
+    },
+    {
+      "english": "Lavender whispers, evening calm.",
+      "catalan": "Lavanda murmura, calma vespertina.",
+      "transliteration": "lavanda murmura, kalma vespertina",
+      "category": "Colors",
+      "generated_at": "2026-07-05T18:05:08.238260"
+    },
+    {
+      "english": "Emerald shimmer, hidden depths.",
+      "catalan": "Esmeralda brilla, profunditats ocultes.",
+      "transliteration": "esmeralda brilla, profunditats okultes",
+      "category": "Colors",
+      "generated_at": "2026-07-05T18:05:08.238270"
+    },
+    {
+      "english": "Ruby gleam, a precious stone.",
+      "catalan": "Rubí resplendeix, pedra preuada.",
+      "transliteration": "rubi resplendeix, pedra preuada",
+      "category": "Colors",
+      "generated_at": "2026-07-05T18:05:08.238272"
+    },
+    {
+      "english": "Sky blue, hopeful and clear.",
+      "catalan": "Cel blau, esperançat i clar.",
+      "transliteration": "sel blau, esperançat i klar",
+      "category": "Colors",
+      "generated_at": "2026-07-05T18:05:08.238273"
+    },
+    {
+      "english": "Apricot blush, a soft dawn.",
+      "catalan": "Taronja alvocat, un suau alba.",
+      "transliteration": "taronja alvokat, un suau alva",
+      "category": "Colors",
+      "generated_at": "2026-07-05T18:05:08.238274"
     }
   ],
-  "last_updated": "2026-07-05T15:09:39.770484"
+  "last_updated": "2026-07-05T18:05:08.238276"
 }
