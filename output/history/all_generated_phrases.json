@@ -2764,7 +2764,42 @@
       "transliteration": "taronja alvokat, un suau alva",
       "category": "Colors",
       "generated_at": "2026-07-05T18:05:08.238274"
+    },
+    {
+      "english": "A spark ignites, a fire grows.",
+      "catalan": "Una espurna s'encén, un foc creix.",
+      "transliteration": "Oo-na es-PURN-ya sen-SEN, oon FOK KRESH.",
+      "category": "Courage",
+      "generated_at": "2026-07-05T20:44:29.988593"
+    },
+    {
+      "english": "Doubt whispers, courage shouts louder.",
+      "catalan": "El dubte xiuxiueja, el coratge crida més.",
+      "transliteration": "El doo-B-teh shew-shew-EH-ja, el ko-RA-jeh KREE-da MES.",
+      "category": "Courage",
+      "generated_at": "2026-07-05T20:44:29.988600"
+    },
+    {
+      "english": "See the horizon, sail towards it.",
+      "catalan": "Mira l'horitzó, navega cap a ell.",
+      "transliteration": "MEE-ra lo-ree-TSO, na-VE-ga CAP a YEL.",
+      "category": "Courage",
+      "generated_at": "2026-07-05T20:44:29.988602"
+    },
+    {
+      "english": "Each step forward, a victory won.",
+      "catalan": "Cada pas endavant, una victòria guanyada.",
+      "transliteration": "KA-da PAS en-da-VANT, OO-na vik-TO-ree-ya goo-a-NYA-da.",
+      "category": "Courage",
+      "generated_at": "2026-07-05T20:44:29.988603"
+    },
+    {
+      "english": "The unknown calls, answer it bravely.",
+      "catalan": "L'ignot truca, respon amb coratge.",
+      "transliteration": "LIG-not TROO-ka, res-PON am ko-RA-jeh.",
+      "category": "Courage",
+      "generated_at": "2026-07-05T20:44:29.988604"
     }
   ],
-  "last_updated": "2026-07-05T18:05:08.238276"
+  "last_updated": "2026-07-05T20:44:29.988606"
 }
