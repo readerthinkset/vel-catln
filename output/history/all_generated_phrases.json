@@ -2939,7 +2939,42 @@
       "transliteration": "Es-cul-peix el si-len-ci, en so.",
       "category": "Creativity",
       "generated_at": "2026-07-06T18:56:27.622430"
+    },
+    {
+      "english": "The cat naps, softly purring.",
+      "catalan": "El gat dorm, roncant suau.",
+      "transliteration": "El gat dorm, roncant su-aw.",
+      "category": "Animals",
+      "generated_at": "2026-07-06T21:18:03.048166"
+    },
+    {
+      "english": "A dog barks, happy to see you.",
+      "catalan": "Un gos borda, content de veure't.",
+      "transliteration": "Un gos bor-da, con-tent de ver-et.",
+      "category": "Animals",
+      "generated_at": "2026-07-06T21:18:03.048177"
+    },
+    {
+      "english": "Birds sing, high in the trees.",
+      "catalan": "Els ocells canten, amunt dels arbres.",
+      "transliteration": "Els o-sels can-ten, a-munt dels ar-bres.",
+      "category": "Animals",
+      "generated_at": "2026-07-06T21:18:03.048179"
+    },
+    {
+      "english": "Fish swim, in the clear water.",
+      "catalan": "Els peixos neden, en l'aigua clara.",
+      "transliteration": "Els pei-xos ne-den, en l'aigua cla-ra.",
+      "category": "Animals",
+      "generated_at": "2026-07-06T21:18:03.048180"
+    },
+    {
+      "english": "The cow moos, lazily chewing.",
+      "catalan": "La vaca munye, mastegant amb calma.",
+      "transliteration": "La va-ca mun-ye, mas-te-gant amb cal-ma.",
+      "category": "Animals",
+      "generated_at": "2026-07-06T21:18:03.048181"
     }
   ],
-  "last_updated": "2026-07-06T18:56:27.622432"
+  "last_updated": "2026-07-06T21:18:03.048183"
 }
