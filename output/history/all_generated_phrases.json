@@ -2869,7 +2869,42 @@
       "transliteration": "Ob-ser-vah pen-sah-men-ts, kom noo-vohls.",
       "category": "Mindfulness",
       "generated_at": "2026-07-06T15:32:26.942978"
+    },
+    {
+      "english": "The wind whispers secrets, listen.",
+      "catalan": "El vent xiuxiueja secrets, escolta.",
+      "transliteration": "El vent shoo-shew-yeh-ah seh-grets, es-col-tah.",
+      "category": "Nature",
+      "generated_at": "2026-07-06T16:50:01.648147"
+    },
+    {
+      "english": "Sunlight dances, on the leaves.",
+      "catalan": "La llum del sol balla, a les fulles.",
+      "transliteration": "Lah lyoom del sol bah-lyah, ah les foo-lyahs.",
+      "category": "Nature",
+      "generated_at": "2026-07-06T16:50:01.648157"
+    },
+    {
+      "english": "Mountains stand tall, watch over us.",
+      "catalan": "Les muntanyes es mantenen altes, ens vetllen.",
+      "transliteration": "Les moon-tahn-yes es man-teh-nen ahl-tes, ens veh-lyen.",
+      "category": "Nature",
+      "generated_at": "2026-07-06T16:50:01.648159"
+    },
+    {
+      "english": "Rivers flow onward, to the sea.",
+      "catalan": "Els rius flueixen endavant, cap al mar.",
+      "transliteration": "Els ree-oos floo-eh-shen en-dah-vahnt, cahp ahl mahr.",
+      "category": "Nature",
+      "generated_at": "2026-07-06T16:50:01.648160"
+    },
+    {
+      "english": "Tiny seeds, grow mighty trees.",
+      "catalan": "Petites llavors, fan arbres grans.",
+      "transliteration": "Peh-tee-tes lyah-vors, fahn ahr-bres grahns.",
+      "category": "Nature",
+      "generated_at": "2026-07-06T16:50:01.648162"
     }
   ],
-  "last_updated": "2026-07-06T15:32:26.942980"
+  "last_updated": "2026-07-06T16:50:01.648163"
 }
