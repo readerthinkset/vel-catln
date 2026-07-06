@@ -2799,7 +2799,42 @@
       "transliteration": "LIG-not TROO-ka, res-PON am ko-RA-jeh.",
       "category": "Courage",
       "generated_at": "2026-07-05T20:44:29.988604"
+    },
+    {
+      "english": "Brainstorm ideas, then we'll plan.",
+      "catalan": "Pensem idees, després planegem.",
+      "transliteration": "Pen-sem i-de-es, des-pres pla-ne-jem.",
+      "category": "Work",
+      "generated_at": "2026-07-06T02:49:53.322922"
+    },
+    {
+      "english": "Let's delegate tasks, fairly.",
+      "catalan": "Deleguem tasques, equitativament.",
+      "transliteration": "De-le-guem tas-ques, e-qui-ta-ti-va-ment.",
+      "category": "Work",
+      "generated_at": "2026-07-06T02:49:53.322931"
+    },
+    {
+      "english": "Review the report, carefully.",
+      "catalan": "Repassem l'informe, amb cura.",
+      "transliteration": "Re-pa-ssem l'in-for-me, amb cu-ra.",
+      "category": "Work",
+      "generated_at": "2026-07-06T02:49:53.322933"
+    },
+    {
+      "english": "Send the email, soon.",
+      "catalan": "Envia el correu, aviat.",
+      "transliteration": "En-vi-a el co-rreu, a-vi-at.",
+      "category": "Work",
+      "generated_at": "2026-07-06T02:49:53.322934"
+    },
+    {
+      "english": "What's the next step?",
+      "catalan": "Quin és el proper pas?",
+      "transliteration": "Kuin es el pro-per pas?",
+      "category": "Work",
+      "generated_at": "2026-07-06T02:49:53.322935"
     }
   ],
-  "last_updated": "2026-07-05T20:44:29.988606"
+  "last_updated": "2026-07-06T02:49:53.322937"
 }
