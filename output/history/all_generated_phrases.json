@@ -3184,7 +3184,42 @@
       "transliteration": "Pausa per pensar, despres connecta les idees.",
       "category": "Directions",
       "generated_at": "2026-07-08T15:59:52.735228"
+    },
+    {
+      "english": "The quiet dawn, whispers secrets.",
+      "catalan": "L'alba serena, murmura secrets.",
+      "transliteration": "lalba serena, murmura secrets",
+      "category": "Time",
+      "generated_at": "2026-07-08T18:20:14.268323"
+    },
+    {
+      "english": "Fleeting moments, like butterflies.",
+      "catalan": "Moments fugaços, com papallones.",
+      "transliteration": "moments fugassos, com papallones",
+      "category": "Time",
+      "generated_at": "2026-07-08T18:20:14.268333"
+    },
+    {
+      "english": "When the moon, shines brightest.",
+      "catalan": "Quan la lluna, brilla més.",
+      "transliteration": "quan la lluna, brilla mes",
+      "category": "Time",
+      "generated_at": "2026-07-08T18:20:14.268335"
+    },
+    {
+      "english": "A sudden thought, at midnight.",
+      "catalan": "Un pensament sobtat, a mitjanit.",
+      "transliteration": "un pensament sobtat, a mitjanit",
+      "category": "Time",
+      "generated_at": "2026-07-08T18:20:14.268336"
+    },
+    {
+      "english": "The slow sunset, paints the sky.",
+      "catalan": "El capvespre lent, pinta el cel.",
+      "transliteration": "el capvespre lent, pinta el cel",
+      "category": "Time",
+      "generated_at": "2026-07-08T18:20:14.268337"
     }
   ],
-  "last_updated": "2026-07-08T15:59:52.735230"
+  "last_updated": "2026-07-08T18:20:14.268339"
 }
