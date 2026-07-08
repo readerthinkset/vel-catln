@@ -3149,7 +3149,42 @@
       "transliteration": "Deh-mah por-tah pro-meh-ses.",
       "category": "Hope",
       "generated_at": "2026-07-08T14:05:39.836970"
+    },
+    {
+      "english": "Try a new word, see what happens.",
+      "catalan": "Prova una paraula nova, mira què passa.",
+      "transliteration": "Proba una paraula nova, mira que passa.",
+      "category": "Directions",
+      "generated_at": "2026-07-08T15:59:52.735213"
+    },
+    {
+      "english": "Think in Catalan, first, then say it.",
+      "catalan": "Pensa en català, primer, i després digues-ho.",
+      "transliteration": "Pensa en catala, primer, i despres digues-ho.",
+      "category": "Directions",
+      "generated_at": "2026-07-08T15:59:52.735224"
+    },
+    {
+      "english": "Point to the object, name it now.",
+      "catalan": "Assenyala l'objecte, posa-li nom ara.",
+      "transliteration": "Assenyala l'objecte, posa-li nom ara.",
+      "category": "Directions",
+      "generated_at": "2026-07-08T15:59:52.735226"
+    },
+    {
+      "english": "Imagine the scene, speak about it.",
+      "catalan": "Imagina't l'escena, parla'n.",
+      "transliteration": "Imagina't l'escena, parla'n.",
+      "category": "Directions",
+      "generated_at": "2026-07-08T15:59:52.735227"
+    },
+    {
+      "english": "Pause for thought, then connect the ideas.",
+      "catalan": "Pausa per pensar, després connecta les idees.",
+      "transliteration": "Pausa per pensar, despres connecta les idees.",
+      "category": "Directions",
+      "generated_at": "2026-07-08T15:59:52.735228"
     }
   ],
-  "last_updated": "2026-07-08T14:05:39.836972"
+  "last_updated": "2026-07-08T15:59:52.735230"
 }
