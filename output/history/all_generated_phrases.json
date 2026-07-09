@@ -3324,7 +3324,42 @@
       "transliteration": "Koh-pren ehl mer-kaht, fes oohn pahs.",
       "category": "Finance",
       "generated_at": "2026-07-09T14:58:56.490859"
+    },
+    {
+      "english": "This sunshine, feels amazing.",
+      "catalan": "Aquest sol, se sent fantàstic.",
+      "transliteration": "A-kest sol, se sent fan-ta-stic.",
+      "category": "Travel",
+      "generated_at": "2026-07-09T16:24:51.979948"
+    },
+    {
+      "english": "A small village, to explore.",
+      "catalan": "Un poble petit, per descobrir.",
+      "transliteration": "Un po-ble pe-tit, per des-co-brir.",
+      "category": "Travel",
+      "generated_at": "2026-07-09T16:24:51.979957"
+    },
+    {
+      "english": "Can I try this, delicious pastry?",
+      "catalan": "Puc provar això, dolç pastís?",
+      "transliteration": "Puc pro-var a-ixo, dolç pas-tis?",
+      "category": "Travel",
+      "generated_at": "2026-07-09T16:24:51.979958"
+    },
+    {
+      "english": "The mountain air, is so fresh.",
+      "catalan": "L'aire de muntanya, és molt fresc.",
+      "transliteration": "L'ai-re de mun-ta-nya, es molt fresc.",
+      "category": "Travel",
+      "generated_at": "2026-07-09T16:24:51.979960"
+    },
+    {
+      "english": "A hidden beach, calling me.",
+      "catalan": "Una platja amagada, em crida.",
+      "transliteration": "U-na pla-tja a-ma-ga-da, em cri-da.",
+      "category": "Travel",
+      "generated_at": "2026-07-09T16:24:51.979961"
     }
   ],
-  "last_updated": "2026-07-09T14:58:56.490861"
+  "last_updated": "2026-07-09T16:24:51.979963"
 }
