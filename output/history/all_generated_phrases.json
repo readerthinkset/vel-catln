@@ -3254,7 +3254,42 @@
       "transliteration": "Mehnt ehn see-lehn-see, kohr oh-behrt.",
       "category": "Balance",
       "generated_at": "2026-07-08T20:54:14.588931"
+    },
+    {
+      "english": "This hat, is rather stylish.",
+      "catalan": "Aquest barret, és força elegant.",
+      "transliteration": "Ah-kest bah-ret, es for-tsah eh-leh-gant.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T02:37:22.165134"
+    },
+    {
+      "english": "Her dress, is a lovely shade.",
+      "catalan": "El seu vestit, té un to bonic.",
+      "transliteration": "El seh-oo vehs-teet, teh oom toh boh-neek.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T02:37:22.165142"
+    },
+    {
+      "english": "My jacket, needs a button.",
+      "catalan": "La meva jaqueta, necessita un botó.",
+      "transliteration": "Lah meh-vah jah-keh-tah, neh-seh-see-tah oom boh-toh.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T02:37:22.165144"
+    },
+    {
+      "english": "These gloves, keep my hands warm.",
+      "catalan": "Aquests guants, m'escalfen les mans.",
+      "transliteration": "Ah-kests gwants, mes-kahl-fen les mans.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T02:37:22.165145"
+    },
+    {
+      "english": "Your sweater, feels so soft.",
+      "catalan": "El teu jersei, fa molt de tacte.",
+      "transliteration": "El teh-oo jer-seh-ee, fah molt deh tahk-teh.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T02:37:22.165147"
     }
   ],
-  "last_updated": "2026-07-08T20:54:14.588932"
+  "last_updated": "2026-07-09T02:37:22.165148"
 }
