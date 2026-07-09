@@ -3359,7 +3359,42 @@
       "transliteration": "U-na pla-tja a-ma-ga-da, em cri-da.",
       "category": "Travel",
       "generated_at": "2026-07-09T16:24:51.979961"
+    },
+    {
+      "english": "Feeling happy, today.",
+      "catalan": "Content avui.",
+      "transliteration": "Kon-tent a-vuy.",
+      "category": "Feelings",
+      "generated_at": "2026-07-09T18:51:22.913572"
+    },
+    {
+      "english": "So tired, completely.",
+      "catalan": "Molt cansat, del tot.",
+      "transliteration": "Mollt ka-nsat, del tot.",
+      "category": "Feelings",
+      "generated_at": "2026-07-09T18:51:22.913581"
+    },
+    {
+      "english": "A bit sad, you know?",
+      "catalan": "Una mica trist, saps?",
+      "transliteration": "U-na mi-ka trist, sa-ps?",
+      "category": "Feelings",
+      "generated_at": "2026-07-09T18:51:22.913582"
+    },
+    {
+      "english": "Feeling excited, a lot.",
+      "catalan": "Molta il·lusió, de veritat.",
+      "transliteration": "Mol-ta i-llu-si-o, de ve-ri-tat.",
+      "category": "Feelings",
+      "generated_at": "2026-07-09T18:51:22.913584"
+    },
+    {
+      "english": "Quite nervous, right now.",
+      "catalan": "Bastant nerviós, ara mateix.",
+      "transliteration": "Bas-tant ner-vi-os, a-ra ma-teix.",
+      "category": "Feelings",
+      "generated_at": "2026-07-09T18:51:22.913585"
     }
   ],
-  "last_updated": "2026-07-09T16:24:51.979963"
+  "last_updated": "2026-07-09T18:51:22.913587"
 }
