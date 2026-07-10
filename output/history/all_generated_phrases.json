@@ -3569,7 +3569,42 @@
       "transliteration": "Un toc suau, dels dits.",
       "category": "Body Parts",
       "generated_at": "2026-07-10T18:25:02.584142"
+    },
+    {
+      "english": "Wake up, slowly.",
+      "catalan": "Desperta't, a poc a poc.",
+      "transliteration": "des-per-taht, ah pohc ah pohc",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-10T20:58:14.592935"
+    },
+    {
+      "english": "Stretch out, yawn wide.",
+      "catalan": "Estira't, fes un gran badall.",
+      "transliteration": "es-tee-raht, fes oong grahn bah-dahl",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-10T20:58:14.592944"
+    },
+    {
+      "english": "Drink some water, first.",
+      "catalan": "Bona aigua, primer.",
+      "transliteration": "boh-nah ai-gwah, pree-mer",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-10T20:58:14.592946"
+    },
+    {
+      "english": "Wash your face, refresh.",
+      "catalan": "Renta't la cara, refresca't.",
+      "transliteration": "ren-taht lah ca-rah, reh-fres-caht",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-10T20:58:14.592947"
+    },
+    {
+      "english": "Get dressed, choose wisely.",
+      "catalan": "Vestir-te, tria amb seny.",
+      "transliteration": "ves-teer-teh, tree-ah ahm seny",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-10T20:58:14.592948"
     }
   ],
-  "last_updated": "2026-07-10T18:25:02.584144"
+  "last_updated": "2026-07-10T20:58:14.592950"
 }
