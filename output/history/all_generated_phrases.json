@@ -3534,7 +3534,42 @@
       "transliteration": "Sol a les vin-yes, un glop lent.",
       "category": "Culture",
       "generated_at": "2026-07-10T16:21:00.892210"
+    },
+    {
+      "english": "My head, thinks clearly.",
+      "catalan": "El meu cap, pensa clar.",
+      "transliteration": "El meu cap, pensa clar.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-10T18:25:02.584126"
+    },
+    {
+      "english": "A strong arm, lifts weight.",
+      "catalan": "Un braç fort, aixeca pes.",
+      "transliteration": "Un braç fort, aixeca pes.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-10T18:25:02.584138"
+    },
+    {
+      "english": "These legs, walk paths.",
+      "catalan": "Aquestes cames, fan camí.",
+      "transliteration": "Aquestes cames, fan camí.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-10T18:25:02.584140"
+    },
+    {
+      "english": "My foot, steps forward.",
+      "catalan": "El meu peu, avança pas.",
+      "transliteration": "El meu peu, avança pas.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-10T18:25:02.584141"
+    },
+    {
+      "english": "A gentle touch, from fingers.",
+      "catalan": "Un toc suau, dels dits.",
+      "transliteration": "Un toc suau, dels dits.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-10T18:25:02.584142"
     }
   ],
-  "last_updated": "2026-07-10T16:21:00.892212"
+  "last_updated": "2026-07-10T18:25:02.584144"
 }
