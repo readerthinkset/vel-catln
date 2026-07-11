@@ -3604,7 +3604,42 @@
       "transliteration": "ves-teer-teh, tree-ah ahm seny",
       "category": "Daily Routine",
       "generated_at": "2026-07-10T20:58:14.592948"
+    },
+    {
+      "english": "Just five, then we're done.",
+      "catalan": "Només cinc, i ja acabem.",
+      "transliteration": "Nom-es sees, i ya a-ka-bem.",
+      "category": "Numbers",
+      "generated_at": "2026-07-11T02:14:41.903697"
+    },
+    {
+      "english": "Maybe six, perhaps seven.",
+      "catalan": "Potser sis, o potser set.",
+      "transliteration": "Pot-ser sees, o pot-ser set.",
+      "category": "Numbers",
+      "generated_at": "2026-07-11T02:14:41.903709"
+    },
+    {
+      "english": "Eight is enough, really.",
+      "catalan": "Vuit és prou, de debò.",
+      "transliteration": "Voot es prow, de de-bo.",
+      "category": "Numbers",
+      "generated_at": "2026-07-11T02:14:41.903711"
+    },
+    {
+      "english": "Nine minutes, that's all.",
+      "catalan": "Nou minuts, només això.",
+      "transliteration": "No-oo min-uts, nom-es a-she-o.",
+      "category": "Numbers",
+      "generated_at": "2026-07-11T02:14:41.903712"
+    },
+    {
+      "english": "Ten times, a perfect score.",
+      "catalan": "Deu vegades, una nota perfecta.",
+      "transliteration": "De-oo veg-a-des, oo-na no-ta per-fek-ta.",
+      "category": "Numbers",
+      "generated_at": "2026-07-11T02:14:41.903713"
     }
   ],
-  "last_updated": "2026-07-10T20:58:14.592950"
+  "last_updated": "2026-07-11T02:14:41.903715"
 }
