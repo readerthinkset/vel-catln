@@ -4164,7 +4164,42 @@
       "transliteration": "el proGR'es 'es vis'iBle, b'E.",
       "category": "Work",
       "generated_at": "2026-07-14T02:06:21.898575"
+    },
+    {
+      "english": "A rich stew, slow-cooked perfection.",
+      "catalan": "Un estofat ric, cocció lenta perfecta.",
+      "transliteration": "oon es-toh-fat rreek, kohk-see-oh len-tah per-fek-tah",
+      "category": "Food",
+      "generated_at": "2026-07-14T13:42:23.163126"
+    },
+    {
+      "english": "Spicy peppers, a fiery kick.",
+      "catalan": "Pebrots picants, un toc ardent.",
+      "transliteration": "peh-prots pee-kants, oon toh-k ar-dent",
+      "category": "Food",
+      "generated_at": "2026-07-14T13:42:23.163135"
+    },
+    {
+      "english": "Creamy cheese, melts in my mouth.",
+      "catalan": "Formatge cremós, es fon a la boca.",
+      "transliteration": "for-mah-jheh kreh-mohs, es fon ah lah boh-kah",
+      "category": "Food",
+      "generated_at": "2026-07-14T13:42:23.163137"
+    },
+    {
+      "english": "Crunchy nuts, so satisfying.",
+      "catalan": "Nous cruixents, molt satisfactòries.",
+      "transliteration": "noh-oos kroo-shents, mohlt sah-tiss-fak-toh-ree-ahs",
+      "category": "Food",
+      "generated_at": "2026-07-14T13:42:23.163138"
+    },
+    {
+      "english": "Fresh herbs, a garden of flavor.",
+      "catalan": "Herbes fresques, un jardí de sabor.",
+      "transliteration": "er-bes fres-kess, oon jar-deen deh sah-bor",
+      "category": "Food",
+      "generated_at": "2026-07-14T13:42:23.163140"
     }
   ],
-  "last_updated": "2026-07-14T02:06:21.898576"
+  "last_updated": "2026-07-14T13:42:23.163141"
 }
