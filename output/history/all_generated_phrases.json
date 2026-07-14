@@ -4269,7 +4269,42 @@
       "transliteration": "ne-ce-si-to ai-gua, ur-gent-ment",
       "category": "Emergency",
       "generated_at": "2026-07-14T18:06:23.804561"
+    },
+    {
+      "english": "Morning light, gentle touch.",
+      "catalan": "Llum del matí, toc suau.",
+      "transliteration": "Llum del ma-tee, toc soo-ahv.",
+      "category": "Time",
+      "generated_at": "2026-07-14T20:48:07.360241"
+    },
+    {
+      "english": "Evening breeze, cool kiss.",
+      "catalan": "Brisa del vespre, petó fresc.",
+      "transliteration": "Bree-sah del ves-preh, peh-toh fresk.",
+      "category": "Time",
+      "generated_at": "2026-07-14T20:48:07.360253"
+    },
+    {
+      "english": "Midday sun, warm embrace.",
+      "catalan": "Sol de migdia, abraçada càlida.",
+      "transliteration": "Sol deh mee-j-dee-ah, ah-brah-sah-dah kahl-ee-dah.",
+      "category": "Time",
+      "generated_at": "2026-07-14T20:48:07.360255"
+    },
+    {
+      "english": "Deepest night, quiet calm.",
+      "catalan": "Nit més profunda, calma silenciosa.",
+      "transliteration": "Nee-t mehz pro-foon-dah, kahl-mah see-len-see-oh-sah.",
+      "category": "Time",
+      "generated_at": "2026-07-14T20:48:07.360257"
+    },
+    {
+      "english": "A fleeting second, gone forever.",
+      "catalan": "Un segon fugaç, per sempre perdut.",
+      "transliteration": "Oon seh-gon foo-gahch, pehr sem-preh pehr-doo-t.",
+      "category": "Time",
+      "generated_at": "2026-07-14T20:48:07.360258"
     }
   ],
-  "last_updated": "2026-07-14T18:06:23.804562"
+  "last_updated": "2026-07-14T20:48:07.360260"
 }
