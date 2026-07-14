@@ -4234,7 +4234,42 @@
       "transliteration": "Un nou ho-ri-tzó, s'o-bre a-ra.",
       "category": "Motivation",
       "generated_at": "2026-07-14T15:20:08.241571"
+    },
+    {
+      "english": "My leg, it's broken.",
+      "catalan": "La meva cama, està trencada.",
+      "transliteration": "la meva cama, esta trenka-da",
+      "category": "Emergency",
+      "generated_at": "2026-07-14T18:06:23.804547"
+    },
+    {
+      "english": "I think, I'm allergic.",
+      "catalan": "Crec, que sóc al·lèrgic.",
+      "transliteration": "crec, ke sok al-ler-jik",
+      "category": "Emergency",
+      "generated_at": "2026-07-14T18:06:23.804556"
+    },
+    {
+      "english": "My phone, has no signal.",
+      "catalan": "El meu telèfon, no té senyal.",
+      "transliteration": "el meu te-le-fon, no te se-nyal",
+      "category": "Emergency",
+      "generated_at": "2026-07-14T18:06:23.804558"
+    },
+    {
+      "english": "There's a big dog, it's aggressive.",
+      "catalan": "Hi ha un gos gran, és agressiu.",
+      "transliteration": "ee a oon gos gran, es a-gre-siv",
+      "category": "Emergency",
+      "generated_at": "2026-07-14T18:06:23.804560"
+    },
+    {
+      "english": "I need water, urgently.",
+      "catalan": "Necessito aigua, urgentment.",
+      "transliteration": "ne-ce-si-to ai-gua, ur-gent-ment",
+      "category": "Emergency",
+      "generated_at": "2026-07-14T18:06:23.804561"
     }
   ],
-  "last_updated": "2026-07-14T15:20:08.241572"
+  "last_updated": "2026-07-14T18:06:23.804562"
 }
