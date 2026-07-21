@@ -5319,7 +5319,42 @@
       "transliteration": "Les meves, ulleres, es van trencar.",
       "category": "Emergency",
       "generated_at": "2026-07-21T02:21:42.356574"
+    },
+    {
+      "english": "A quiet moment, please.",
+      "catalan": "Un moment tranquil, si us plau.",
+      "transliteration": "Oon mo-ment tran-keel, see oos plow.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-21T13:49:24.414717"
+    },
+    {
+      "english": "This view, it's breathtaking.",
+      "catalan": "Aquesta vista, és impressionant.",
+      "transliteration": "A-kes-ta vees-ta, es im-pre-syo-nant.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-21T13:49:24.414727"
+    },
+    {
+      "english": "Just looking, thank you.",
+      "catalan": "Només miro, gràcies.",
+      "transliteration": "No-mes mee-ro, gra-sees.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-21T13:49:24.414728"
+    },
+    {
+      "english": "Can I help you, perhaps?",
+      "catalan": "Puc ajudar-vos, potser?",
+      "transliteration": "Pook a-joo-dar-vos, pot-ser?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-21T13:49:24.414729"
+    },
+    {
+      "english": "A little further, maybe.",
+      "catalan": "Una mica més enllà, potser.",
+      "transliteration": "Oo-na mee-ka mes en-ya, pot-ser.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-21T13:49:24.414730"
     }
   ],
-  "last_updated": "2026-07-21T02:21:42.356576"
+  "last_updated": "2026-07-21T13:49:24.414732"
 }
