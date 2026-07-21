@@ -5284,7 +5284,42 @@
       "transliteration": "plah-ehs sahn-seel, pohr-tehn goyj",
       "category": "Happiness",
       "generated_at": "2026-07-20T20:58:33.674942"
+    },
+    {
+      "english": "My, key, is stuck.",
+      "catalan": "La meva clau, està bloquejada.",
+      "transliteration": "La meva clau, esta bloqueyada.",
+      "category": "Emergency",
+      "generated_at": "2026-07-21T02:21:42.356562"
+    },
+    {
+      "english": "The, door, won't open.",
+      "catalan": "La porta, no s'obre.",
+      "transliteration": "La porta, no s'obre.",
+      "category": "Emergency",
+      "generated_at": "2026-07-21T02:21:42.356570"
+    },
+    {
+      "english": "I need, to call, home.",
+      "catalan": "Necessito, trucar, a casa.",
+      "transliteration": "Necessito, trucar, a casa.",
+      "category": "Emergency",
+      "generated_at": "2026-07-21T02:21:42.356572"
+    },
+    {
+      "english": "Is, this, address, correct?",
+      "catalan": "És, aquesta, adreça, correcta?",
+      "transliteration": "Es, aquesta, adreça, correcta?",
+      "category": "Emergency",
+      "generated_at": "2026-07-21T02:21:42.356573"
+    },
+    {
+      "english": "My, glasses, broke.",
+      "catalan": "Les meves, ulleres, es van trencar.",
+      "transliteration": "Les meves, ulleres, es van trencar.",
+      "category": "Emergency",
+      "generated_at": "2026-07-21T02:21:42.356574"
     }
   ],
-  "last_updated": "2026-07-20T20:58:33.674944"
+  "last_updated": "2026-07-21T02:21:42.356576"
 }
