@@ -5494,7 +5494,42 @@
       "transliteration": "Pu-c veu-re, a-que-lla bos-sa, si us plau?",
       "category": "Shopping",
       "generated_at": "2026-07-22T02:14:07.924177"
+    },
+    {
+      "english": "Warm sun, cool drink.",
+      "catalan": "Sol càlid, beguda fresca.",
+      "transliteration": "Sol ka-lid, be-gu-da fres-ka.",
+      "category": "Holidays",
+      "generated_at": "2026-07-22T13:52:15.999925"
+    },
+    {
+      "english": "Starry sky, quiet night.",
+      "catalan": "Cel estelat, nit tranquil·la.",
+      "transliteration": "Sel es-te-lat, nit tran-ki-la.",
+      "category": "Holidays",
+      "generated_at": "2026-07-22T13:52:15.999934"
+    },
+    {
+      "english": "Cobblestone streets, hidden gems.",
+      "catalan": "Carrerons empedrats, joies amagades.",
+      "transliteration": "Ka-re-rons em-pe-drats, jo-yes a-ma-ga-des.",
+      "category": "Holidays",
+      "generated_at": "2026-07-22T13:52:15.999936"
+    },
+    {
+      "english": "Fresh air, new adventures.",
+      "catalan": "Aire fresc, noves aventures.",
+      "transliteration": "A-i-re fresc, no-ves a-ven-tu-res.",
+      "category": "Holidays",
+      "generated_at": "2026-07-22T13:52:15.999937"
+    },
+    {
+      "english": "Laughing loud, living fully.",
+      "catalan": "Rient fort, vivint al màxim.",
+      "transliteration": "Ri-ent fort, vi-vint al mà-xim.",
+      "category": "Holidays",
+      "generated_at": "2026-07-22T13:52:15.999938"
     }
   ],
-  "last_updated": "2026-07-22T02:14:07.924180"
+  "last_updated": "2026-07-22T13:52:15.999940"
 }
