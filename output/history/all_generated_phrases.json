@@ -5459,7 +5459,42 @@
       "transliteration": "Sent ehls POHLS, deh lah PAHRL-ah koo-tee-dee-AH-nah.",
       "category": "Education",
       "generated_at": "2026-07-21T21:04:10.070926"
+    },
+    {
+      "english": "I need, a comfortable pair, of shoes.",
+      "catalan": "Necessito, un parell còmode, de sabates.",
+      "transliteration": "Ne-ce-si-to, un pa-rell co-mo-de, de sa-ba-tes.",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T02:14:07.924164"
+    },
+    {
+      "english": "This jacket, looks very warm.",
+      "catalan": "Aquesta jaqueta, sembla molt càlida.",
+      "transliteration": "A-ques-ta ja-que-ta, sem-bla molt ca-li-da.",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T02:14:07.924173"
+    },
+    {
+      "english": "Do you have, this in red?",
+      "catalan": "Teniu, això en vermell?",
+      "transliteration": "Te-niu, a-ixò en ver-mell?",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T02:14:07.924175"
+    },
+    {
+      "english": "I'm searching, for a good book.",
+      "catalan": "Busco, un bon llibre.",
+      "transliteration": "Bus-co, un bon lli-bre.",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T02:14:07.924176"
+    },
+    {
+      "english": "Can I see, that bag, please?",
+      "catalan": "Puc veure, aquella bossa, si us plau?",
+      "transliteration": "Pu-c veu-re, a-que-lla bos-sa, si us plau?",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T02:14:07.924177"
     }
   ],
-  "last_updated": "2026-07-21T21:04:10.070928"
+  "last_updated": "2026-07-22T02:14:07.924180"
 }
