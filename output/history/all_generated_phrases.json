@@ -5634,7 +5634,42 @@
       "transliteration": "Compartim aquesta paella, amics.",
       "category": "Food",
       "generated_at": "2026-07-22T20:52:22.901443"
+    },
+    {
+      "english": "Your journey, starts now.",
+      "catalan": "El teu viatge, comença ara.",
+      "transliteration": "El teu veeyadge, comenssa ara.",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T02:25:52.142095"
+    },
+    {
+      "english": "Feel the flow, of words.",
+      "catalan": "Sent el flux, de paraules.",
+      "transliteration": "Sent el flew, de paraules.",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T02:25:52.142105"
+    },
+    {
+      "english": "Unlock your voice, find words.",
+      "catalan": "Desbloqueja la teva veu, troba paraules.",
+      "transliteration": "Desblokkeja la teva vew, troba paraules.",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T02:25:52.142106"
+    },
+    {
+      "english": "Little steps, big progress.",
+      "catalan": "Petits passos, gran progrés.",
+      "transliteration": "Pettits passoss, gran progrees.",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T02:25:52.142107"
+    },
+    {
+      "english": "Discover fluency, day by day.",
+      "catalan": "Descobreix la fluïdesa, dia a dia.",
+      "transliteration": "Descobreex la fluydesa, deeya a deeya.",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T02:25:52.142108"
     }
   ],
-  "last_updated": "2026-07-22T20:52:22.901445"
+  "last_updated": "2026-07-23T02:25:52.142109"
 }
