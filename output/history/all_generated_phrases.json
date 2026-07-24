@@ -5809,7 +5809,42 @@
       "transliteration": "La meh-va tee-a, zem-preh ah-ko-yee-doh-ra.",
       "category": "Family Terms",
       "generated_at": "2026-07-23T20:50:30.524663"
+    },
+    {
+      "english": "Past noon, shadows lengthen.",
+      "catalan": "Passat migdia, les ombres s'allarguen.",
+      "transliteration": "Passat migdia, les ombres s'allarguen",
+      "category": "Time",
+      "generated_at": "2026-07-24T02:22:28.982678"
+    },
+    {
+      "english": "Just a second, please.",
+      "catalan": "Un segon, si us plau.",
+      "transliteration": "Un segon, si us plau",
+      "category": "Time",
+      "generated_at": "2026-07-24T02:22:28.982689"
+    },
+    {
+      "english": "Before the storm, calm.",
+      "catalan": "Abans de la tempesta, calma.",
+      "transliteration": "Abans de la tempesta, calma",
+      "category": "Time",
+      "generated_at": "2026-07-24T02:22:28.982691"
+    },
+    {
+      "english": "After dusk, stars appear.",
+      "catalan": "Després del capvespre, surten estrelles.",
+      "transliteration": "Després del capvespre, surten estrelles",
+      "category": "Time",
+      "generated_at": "2026-07-24T02:22:28.982692"
+    },
+    {
+      "english": "In a blink, it's over.",
+      "catalan": "En un tancar d'ulls, s'acaba.",
+      "transliteration": "En un tancar d'ulls, s'acaba",
+      "category": "Time",
+      "generated_at": "2026-07-24T02:22:28.982694"
     }
   ],
-  "last_updated": "2026-07-23T20:50:30.524665"
+  "last_updated": "2026-07-24T02:22:28.982695"
 }
