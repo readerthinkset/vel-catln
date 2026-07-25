@@ -6054,7 +6054,42 @@
       "transliteration": "Konstru'im, kelkom espesi'al, junts.",
       "category": "Relationships",
       "generated_at": "2026-07-25T14:57:57.562886"
+    },
+    {
+      "english": "Local fiestas, bright colours, loud cheers.",
+      "catalan": "Festes locals, colors vius, crits forts.",
+      "transliteration": "FES-tes LO-kals, co-LORS VIVS, CRITS FORTS.",
+      "category": "Culture",
+      "generated_at": "2026-07-25T17:59:37.326236"
+    },
+    {
+      "english": "Morning coffee, slow conversation, good company.",
+      "catalan": "Cafè matiner, xerrada tranquil·la, bona companyia.",
+      "transliteration": "ca-FE ma-ti-NER, xe-RRA-da tran-QUIL-la, BO-na com-pa-NYI-a.",
+      "category": "Culture",
+      "generated_at": "2026-07-25T17:59:37.326246"
+    },
+    {
+      "english": "Mountain air, a deep breath, clear skies.",
+      "catalan": "Aire de muntanya, una gran alenada, cel serè.",
+      "transliteration": "AI-re de mun-TA-nya, U-na GRAN a-le-NA-da, CEL se-RE.",
+      "category": "Culture",
+      "generated_at": "2026-07-25T17:59:37.326248"
+    },
+    {
+      "english": "Fishermen's tales, salty breeze, setting sun.",
+      "catalan": "Acomiadaments dels pescadors, brisa salada, sol ponent.",
+      "transliteration": "a-co-mi-a-DAMS dels pe-sca-DORS, BRI-sa sa-LA-da, SOL po-NENT.",
+      "category": "Culture",
+      "generated_at": "2026-07-25T17:59:37.326250"
+    },
+    {
+      "english": "Olive groves stretch, gentle breeze, pure peace.",
+      "catalan": "Oliveres s'estenen, vent suau, pau pura.",
+      "transliteration": "o-li-VE-res s'es-TE-nen, VENT su-AU, PAU PU-ra.",
+      "category": "Culture",
+      "generated_at": "2026-07-25T17:59:37.326251"
     }
   ],
-  "last_updated": "2026-07-25T14:57:57.562887"
+  "last_updated": "2026-07-25T17:59:37.326253"
 }
