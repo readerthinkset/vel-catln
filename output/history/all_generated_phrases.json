@@ -5984,7 +5984,42 @@
       "transliteration": "Les aventures esperen, amb tu.",
       "category": "Friendship",
       "generated_at": "2026-07-24T18:20:45.427376"
+    },
+    {
+      "english": "This tie, adds flair.",
+      "catalan": "Aquesta corbata, dona toc.",
+      "transliteration": "A-yes-ta cor-ba-ta, do-na toc.",
+      "category": "Clothes",
+      "generated_at": "2026-07-25T13:24:57.124073"
+    },
+    {
+      "english": "Her blouse, is elegant.",
+      "catalan": "La seva brusa, és elegant.",
+      "transliteration": "La se-va bru-sa, es e-le-gant.",
+      "category": "Clothes",
+      "generated_at": "2026-07-25T13:24:57.124085"
+    },
+    {
+      "english": "Try this vest, for warmth.",
+      "catalan": "Prova't aquest armilla, per escalfor.",
+      "transliteration": "Pro-va't a-quest ar-mi-lla, per es-cal-for.",
+      "category": "Clothes",
+      "generated_at": "2026-07-25T13:24:57.124086"
+    },
+    {
+      "english": "My jeans, need washing.",
+      "catalan": "Els meus texans, necessiten rentar.",
+      "transliteration": "Els meus te-xans, ne-ce-si-ten ren-tar.",
+      "category": "Clothes",
+      "generated_at": "2026-07-25T13:24:57.124088"
+    },
+    {
+      "english": "That dress, is quite stunning.",
+      "catalan": "Aquell vestit, és molt bonic.",
+      "transliteration": "A-quel ves-tit, es molt bo-nic.",
+      "category": "Clothes",
+      "generated_at": "2026-07-25T13:24:57.124088"
     }
   ],
-  "last_updated": "2026-07-24T18:20:45.427378"
+  "last_updated": "2026-07-25T13:24:57.124090"
 }
