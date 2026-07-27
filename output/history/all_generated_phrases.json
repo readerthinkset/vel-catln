@@ -6334,7 +6334,42 @@
       "transliteration": "Pen-sah-mens ah-mah-bles, por-ten dolsh reh-pos, ah-boo-ee.",
       "category": "Inner Peace",
       "generated_at": "2026-07-27T02:34:50.798069"
+    },
+    {
+      "english": "A winding road, ahead.",
+      "catalan": "Una carretera, sinuosa, davant.",
+      "transliteration": "Oo-na cah-reh-teh-ra, see-noo-oh-sa, dah-vahnt.",
+      "category": "Travel",
+      "generated_at": "2026-07-27T16:12:47.688436"
+    },
+    {
+      "english": "Cobblestones underfoot, feel ancient.",
+      "catalan": "Empedrats, sota els peus, senten antic.",
+      "transliteration": "Em-peh-drahs, soh-ta els peh-oos, sen-tahn ahn-teek.",
+      "category": "Travel",
+      "generated_at": "2026-07-27T16:12:47.688445"
+    },
+    {
+      "english": "The scent of pine, fills the air.",
+      "catalan": "L'olor de pi, omple l'aire.",
+      "transliteration": "Lo-lor deh pee, om-pleh l'ai-reh.",
+      "category": "Travel",
+      "generated_at": "2026-07-27T16:12:47.688448"
+    },
+    {
+      "english": "Let's wander, without a map.",
+      "catalan": "Anem a errar, sense mapa.",
+      "transliteration": "Ah-nem ah eh-rrar, sen-seh mah-pa.",
+      "category": "Travel",
+      "generated_at": "2026-07-27T16:12:47.688448"
+    },
+    {
+      "english": "Sunlight on water, sparkles.",
+      "catalan": "La llum solar, a l'aigua, centelleja.",
+      "transliteration": "La lyoom soh-lar, ah l'ai-gwa, sen-tel-leh-jah.",
+      "category": "Travel",
+      "generated_at": "2026-07-27T16:12:47.688449"
     }
   ],
-  "last_updated": "2026-07-27T02:34:50.798071"
+  "last_updated": "2026-07-27T16:12:47.688451"
 }
