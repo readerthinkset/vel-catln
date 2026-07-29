@@ -6439,7 +6439,42 @@
       "transliteration": "A-ixò és per-fec-te, just el que vo-li-a.",
       "category": "Shopping",
       "generated_at": "2026-07-29T02:12:52.974405"
+    },
+    {
+      "english": "My aunt, a fantastic cook.",
+      "catalan": "La meva tia, una cuinera fantàstica.",
+      "transliteration": "La meva tía, una cuinera fantàstica.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-29T14:09:02.794568"
+    },
+    {
+      "english": "My uncle, quite the storyteller.",
+      "catalan": "El meu oncle, tot un narrador.",
+      "transliteration": "El meu oncle, tot un narrador.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-29T14:09:02.794578"
+    },
+    {
+      "english": "My cousin, always a laugh.",
+      "catalan": "El meu cosí, sempre fa riure.",
+      "transliteration": "El meu cosí, sempre fa riure.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-29T14:09:02.794580"
+    },
+    {
+      "english": "My nephew, loves to play.",
+      "catalan": "El meu nebot, li agrada jugar.",
+      "transliteration": "El meu nebot, li agrada jugar.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-29T14:09:02.794581"
+    },
+    {
+      "english": "My niece, such gentle eyes.",
+      "catalan": "La meva neboda, ulls tan dolços.",
+      "transliteration": "La meva neboda, ulls tan dolços.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-29T14:09:02.794582"
     }
   ],
-  "last_updated": "2026-07-29T02:12:52.974407"
+  "last_updated": "2026-07-29T14:09:02.794584"
 }
