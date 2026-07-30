@@ -6614,7 +6614,42 @@
       "transliteration": "Amb gah-nes des-kol-tah-teh.",
       "category": "Greetings",
       "generated_at": "2026-07-30T02:01:49.768604"
+    },
+    {
+      "english": "Your support, truly helps.",
+      "catalan": "El teu suport, ajuda molt.",
+      "transliteration": "El teu suport, ajuda molt.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-30T15:47:55.285048"
+    },
+    {
+      "english": "So happy, I found you.",
+      "catalan": "Molt content, d'haver-te trobat.",
+      "transliteration": "Molt content, d'haver-te trobat.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-30T15:47:55.285056"
+    },
+    {
+      "english": "This is, very generous.",
+      "catalan": "Això és, molt generós.",
+      "transliteration": "Això és, molt generós.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-30T15:47:55.285058"
+    },
+    {
+      "english": "What a, lovely surprise.",
+      "catalan": "Quina, sorpresa tan bonica.",
+      "transliteration": "Quina, sorpresa tan bonica.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-30T15:47:55.285059"
+    },
+    {
+      "english": "Couldn't have done it, without you.",
+      "catalan": "No ho podria haver fet, sense tu.",
+      "transliteration": "No ho podria haver fet, sense tu.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-30T15:47:55.285060"
     }
   ],
-  "last_updated": "2026-07-30T02:01:49.768606"
+  "last_updated": "2026-07-30T15:47:55.285062"
 }
