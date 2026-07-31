@@ -6719,7 +6719,42 @@
       "transliteration": "Les ba-gues kroo-sheen, oon swa-oo a-vees.",
       "category": "Daily Routine",
       "generated_at": "2026-07-30T20:54:19.435100"
+    },
+    {
+      "english": "The squirrel, darts across the path.",
+      "catalan": "L'esquirol, corre pel camí.",
+      "transliteration": "L'es-ki-rol, co-rre pel ca-mí.",
+      "category": "Animals",
+      "generated_at": "2026-07-31T14:04:48.546818"
+    },
+    {
+      "english": "A rabbit, twitches its nose.",
+      "catalan": "Un conill, mou el nas.",
+      "transliteration": "Un co-nill, mou el nas.",
+      "category": "Animals",
+      "generated_at": "2026-07-31T14:04:48.546828"
+    },
+    {
+      "english": "The owl, watches the night.",
+      "catalan": "L'òliba, veu la nit.",
+      "transliteration": "L'ò-li-ba, veu la nit.",
+      "category": "Animals",
+      "generated_at": "2026-07-31T14:04:48.546830"
+    },
+    {
+      "english": "A frog, croaks by the pond.",
+      "catalan": "Una granota, fa 'croac' al toll.",
+      "transliteration": "U-na gra-no-ta, fa 'croac' al toll.",
+      "category": "Animals",
+      "generated_at": "2026-07-31T14:04:48.546831"
+    },
+    {
+      "english": "The bee, buzzes to the flower.",
+      "catalan": "L'abella, va a la flor.",
+      "transliteration": "L'a-be-lla, va a la flor.",
+      "category": "Animals",
+      "generated_at": "2026-07-31T14:04:48.546832"
     }
   ],
-  "last_updated": "2026-07-30T20:54:19.435101"
+  "last_updated": "2026-07-31T14:04:48.546834"
 }
