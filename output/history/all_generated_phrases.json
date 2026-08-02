@@ -7069,7 +7069,42 @@
       "transliteration": "Fem un pla, en-tre tots.",
       "category": "Work",
       "generated_at": "2026-08-02T13:20:17.323879"
+    },
+    {
+      "english": "The sky, it looks a bit grey.",
+      "catalan": "El cel, sembla una mica gris.",
+      "transliteration": "El sel, sembla una mica gris.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T18:01:53.300505"
+    },
+    {
+      "english": "Sun's coming out, slowly.",
+      "catalan": "El sol surt, a poc a poc.",
+      "transliteration": "El sol surt, a poc a poc.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T18:01:53.300517"
+    },
+    {
+      "english": "A gentle breeze, rustles leaves.",
+      "catalan": "Una brisa suau, mou les fulles.",
+      "transliteration": "Una brisa suau, mou les fulles.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T18:01:53.300519"
+    },
+    {
+      "english": "It might rain, later today.",
+      "catalan": "Potser plourà, més tard.",
+      "transliteration": "Potser plourà, més tard.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T18:01:53.300520"
+    },
+    {
+      "english": "Fog is rolling in, thick.",
+      "catalan": "La boira arriba, densa.",
+      "transliteration": "La boira arriba, densa.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T18:01:53.300521"
     }
   ],
-  "last_updated": "2026-08-02T13:20:17.323881"
+  "last_updated": "2026-08-02T18:01:53.300523"
 }
