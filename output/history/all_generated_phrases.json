@@ -7104,7 +7104,42 @@
       "transliteration": "La boira arriba, densa.",
       "category": "Weather",
       "generated_at": "2026-08-02T18:01:53.300521"
+    },
+    {
+      "english": "Your progress, is a unique song.",
+      "catalan": "El teu progrés, és una cançó única.",
+      "transliteration": "El teu pro-gres, es una can-son u-ni-ka.",
+      "category": "Strength",
+      "generated_at": "2026-08-02T20:40:55.797472"
+    },
+    {
+      "english": "Open your mind, to new sounds.",
+      "catalan": "Obre la ment, a sons nous.",
+      "transliteration": "O-bre la ment, a sons nous.",
+      "category": "Strength",
+      "generated_at": "2026-08-02T20:40:55.797482"
+    },
+    {
+      "english": "Each word learned, a new door.",
+      "catalan": "Cada paraula apresa, una porta nova.",
+      "transliteration": "Ka-da pa-ra-ula a-pre-sa, u-na por-ta no-va.",
+      "category": "Strength",
+      "generated_at": "2026-08-02T20:40:55.797483"
+    },
+    {
+      "english": "Your effort, paints a future.",
+      "catalan": "El teu esforç, pinta un futur.",
+      "transliteration": "El teu es-forç, pin-ta un fu-tur.",
+      "category": "Strength",
+      "generated_at": "2026-08-02T20:40:55.797485"
+    },
+    {
+      "english": "Listen closely, to your heart.",
+      "catalan": "Escolta atentament, el teu cor.",
+      "transliteration": "Es-col-ta a-ten-ta-ment, el teu cor.",
+      "category": "Strength",
+      "generated_at": "2026-08-02T20:40:55.797486"
     }
   ],
-  "last_updated": "2026-08-02T18:01:53.300523"
+  "last_updated": "2026-08-02T20:40:55.797488"
 }
