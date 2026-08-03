@@ -7279,7 +7279,42 @@
       "transliteration": "Abraça el repte, amb ganes.",
       "category": "Sports",
       "generated_at": "2026-08-03T18:52:13.210361"
+    },
+    {
+      "english": "Look, listen, then try.",
+      "catalan": "Mira, escolta, després prova.",
+      "transliteration": "Mee-rah, es-koh-lta, des-prehs pro-vah.",
+      "category": "Directions",
+      "generated_at": "2026-08-03T20:52:13.602505"
+    },
+    {
+      "english": "Say the sentence, softly.",
+      "catalan": "Digues la frase, suau.",
+      "transliteration": "Dee-ges lah frah-seh, soo-ah.",
+      "category": "Directions",
+      "generated_at": "2026-08-03T20:52:13.602515"
+    },
+    {
+      "english": "Connect the words, feel the flow.",
+      "catalan": "Uneix les paraules, sent el ritme.",
+      "transliteration": "Oo-neesh les pah-rah-oo-les, sent el reet-meh.",
+      "category": "Directions",
+      "generated_at": "2026-08-03T20:52:13.602517"
+    },
+    {
+      "english": "Imagine the sound, speak it out.",
+      "catalan": "Imagina el so, digues-ho.",
+      "transliteration": "Ee-mah-jee-nah el soh, dee-ges-ho.",
+      "category": "Directions",
+      "generated_at": "2026-08-03T20:52:13.602518"
+    },
+    {
+      "english": "Point to the picture, name it.",
+      "catalan": "Assenyala la imatge, digues el nom.",
+      "transliteration": "Ah-seh-nyah-lah lah ee-mah-tjeh, dee-ges el nohm.",
+      "category": "Directions",
+      "generated_at": "2026-08-03T20:52:13.602522"
     }
   ],
-  "last_updated": "2026-08-03T18:52:13.210363"
+  "last_updated": "2026-08-03T20:52:13.602524"
 }
