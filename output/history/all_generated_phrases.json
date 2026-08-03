@@ -7139,7 +7139,42 @@
       "transliteration": "Es-col-ta a-ten-ta-ment, el teu cor.",
       "category": "Strength",
       "generated_at": "2026-08-02T20:40:55.797486"
+    },
+    {
+      "english": "Try it now, feel the rhythm.",
+      "catalan": "Prova-ho ara, sent el ritme.",
+      "transliteration": "Pru-o-ba-ho a-ra, sen-t el rit-me.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T02:28:10.062369"
+    },
+    {
+      "english": "Small progress, big feeling.",
+      "catalan": "Petit avenç, gran sensació.",
+      "transliteration": "Pe-tit a-venç, gran sen-sa-ció.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T02:28:10.062379"
+    },
+    {
+      "english": "Don't fear, just speak.",
+      "catalan": "No tinguis por, parla.",
+      "transliteration": "No tin-gues por, par-la.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T02:28:10.062380"
+    },
+    {
+      "english": "Each day, a new sound.",
+      "catalan": "Cada dia, un so nou.",
+      "transliteration": "Ca-da di-a, un so nou.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T02:28:10.062382"
+    },
+    {
+      "english": "Your idea, shared aloud.",
+      "catalan": "La teva idea, dita en veu alta.",
+      "transliteration": "La te-va i-de-a, di-ta en veu al-ta.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T02:28:10.062383"
     }
   ],
-  "last_updated": "2026-08-02T20:40:55.797488"
+  "last_updated": "2026-08-03T02:28:10.062385"
 }
