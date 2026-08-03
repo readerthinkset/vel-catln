@@ -7174,7 +7174,42 @@
       "transliteration": "La te-va i-de-a, di-ta en veu al-ta.",
       "category": "Confidence",
       "generated_at": "2026-08-03T02:28:10.062383"
+    },
+    {
+      "english": "A moment, of pure calm.",
+      "catalan": "Un moment, de pura calma.",
+      "transliteration": "Oon mo-men, de poo-ra cal-ma.",
+      "category": "Travel",
+      "generated_at": "2026-08-03T14:39:14.867856"
+    },
+    {
+      "english": "The city, sleeps now.",
+      "catalan": "La ciutat, dorm ara.",
+      "transliteration": "La see-oo-tat, dorm a-ra.",
+      "category": "Travel",
+      "generated_at": "2026-08-03T14:39:14.867866"
+    },
+    {
+      "english": "May I taste, that cheese?",
+      "catalan": "Puc tastar, aquell formatge?",
+      "transliteration": "Pook tas-tar, a-quel-y format-je?",
+      "category": "Travel",
+      "generated_at": "2026-08-03T14:39:14.867867"
+    },
+    {
+      "english": "This music, is enchanting.",
+      "catalan": "Aquesta música, és encantadora.",
+      "transliteration": "A-ques-ta moo-see-ca, es en-can-ta-do-ra.",
+      "category": "Travel",
+      "generated_at": "2026-08-03T14:39:14.867868"
+    },
+    {
+      "english": "A shared, laughter echoes.",
+      "catalan": "Una rialla, compartida ressona.",
+      "transliteration": "Oo-na ree-a-lla, com-par-tee-da res-so-na.",
+      "category": "Travel",
+      "generated_at": "2026-08-03T14:39:14.867869"
     }
   ],
-  "last_updated": "2026-08-03T02:28:10.062385"
+  "last_updated": "2026-08-03T14:39:14.867870"
 }
