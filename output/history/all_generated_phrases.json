@@ -7384,7 +7384,42 @@
       "transliteration": "Eh, en-soh-peh-gat, ee kai-goot.",
       "category": "Emergency",
       "generated_at": "2026-08-04T14:10:23.782584"
+    },
+    {
+      "english": "Little by little, great things grow.",
+      "catalan": "A poc a poc, creixen les coses grans.",
+      "transliteration": "A poc a poc, creixen les coses grans.",
+      "category": "Hope",
+      "generated_at": "2026-08-04T16:12:28.433645"
+    },
+    {
+      "english": "Even a whisper, can start a song.",
+      "catalan": "Fins i tot un murmuri, pot començar una cançó.",
+      "transliteration": "Fins i tot un murmuri, pot començar una cançó.",
+      "category": "Hope",
+      "generated_at": "2026-08-04T16:12:28.433654"
+    },
+    {
+      "english": "Brighter days are, coming soon.",
+      "catalan": "Els dies més brillants, arribaran aviat.",
+      "transliteration": "Els dies més brillants, arribaran aviat.",
+      "category": "Hope",
+      "generated_at": "2026-08-04T16:12:28.433656"
+    },
+    {
+      "english": "Believe in the magic, of moments.",
+      "catalan": "Creu en la màgia, dels moments.",
+      "transliteration": "Creu en la màgia, dels moments.",
+      "category": "Hope",
+      "generated_at": "2026-08-04T16:12:28.433657"
+    },
+    {
+      "english": "Your spirit can, always soar.",
+      "catalan": "El teu esperit pot, sempre volar alt.",
+      "transliteration": "El teu esperit pot, sempre volar alt.",
+      "category": "Hope",
+      "generated_at": "2026-08-04T16:12:28.433658"
     }
   ],
-  "last_updated": "2026-08-04T14:10:23.782586"
+  "last_updated": "2026-08-04T16:12:28.433660"
 }
