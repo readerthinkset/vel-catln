@@ -7349,7 +7349,42 @@
       "transliteration": "Ai-shoh, mat-raoo, molt.",
       "category": "Shopping",
       "generated_at": "2026-08-04T02:07:54.809304"
+    },
+    {
+      "english": "Something's, wrong, here.",
+      "catalan": "Alguna cosa, no va bé, aquí.",
+      "transliteration": "Al-goo-nah koh-sah, noh vah beh, ah-kee.",
+      "category": "Emergency",
+      "generated_at": "2026-08-04T14:10:23.782569"
+    },
+    {
+      "english": "I need, to leave, quickly.",
+      "catalan": "Necessito, marxar, de pressa.",
+      "transliteration": "Neh-seh-see-toh, mar-shar, deh pre-sah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-04T14:10:23.782580"
+    },
+    {
+      "english": "Is, someone, there?",
+      "catalan": "Hi, ha algú, si us plau?",
+      "transliteration": "Hee, ah al-goo, sees oos plow?",
+      "category": "Emergency",
+      "generated_at": "2026-08-04T14:10:23.782581"
+    },
+    {
+      "english": "My, ear, hurts.",
+      "catalan": "Em, fa mal, l'orella.",
+      "transliteration": "Em, fah mal, loh-reh-yah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-04T14:10:23.782583"
+    },
+    {
+      "english": "I've, tripped, and fallen.",
+      "catalan": "He, ensopegat, i caigut.",
+      "transliteration": "Eh, en-soh-peh-gat, ee kai-goot.",
+      "category": "Emergency",
+      "generated_at": "2026-08-04T14:10:23.782584"
     }
   ],
-  "last_updated": "2026-08-04T02:07:54.809305"
+  "last_updated": "2026-08-04T14:10:23.782586"
 }
