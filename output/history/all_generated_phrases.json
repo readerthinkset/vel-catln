@@ -7314,7 +7314,42 @@
       "transliteration": "Ah-seh-nyah-lah lah ee-mah-tjeh, dee-ges el nohm.",
       "category": "Directions",
       "generated_at": "2026-08-03T20:52:13.602522"
+    },
+    {
+      "english": "Any, new arrivals, today?",
+      "catalan": "Alguna, novetat, avui?",
+      "transliteration": "Al-goo-na, no-veh-tat, ah-vooy?",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T02:07:54.809290"
+    },
+    {
+      "english": "What's, your best seller?",
+      "catalan": "Quin, és, el més venut?",
+      "transliteration": "Kween, es, el mes veh-noot?",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T02:07:54.809299"
+    },
+    {
+      "english": "I need, a special, souvenir.",
+      "catalan": "Necessito, un record, especial.",
+      "transliteration": "Ne-ce-see-to, oon re-cord, es-peh-see-al.",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T02:07:54.809301"
+    },
+    {
+      "english": "Where, can I find, socks?",
+      "catalan": "On, trobo, els mitjons?",
+      "transliteration": "On, tro-boh, els meet-jons?",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T02:07:54.809302"
+    },
+    {
+      "english": "This, catches my eye.",
+      "catalan": "Això, m'atrau, molt.",
+      "transliteration": "Ai-shoh, mat-raoo, molt.",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T02:07:54.809304"
     }
   ],
-  "last_updated": "2026-08-03T20:52:13.602524"
+  "last_updated": "2026-08-04T02:07:54.809305"
 }
