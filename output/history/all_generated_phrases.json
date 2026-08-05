@@ -7489,7 +7489,42 @@
       "transliteration": "Escuma del mar, besos salats.",
       "category": "Holidays",
       "generated_at": "2026-08-04T21:00:10.515063"
+    },
+    {
+      "english": "The hour, is coming.",
+      "catalan": "L'hora, s'acosta.",
+      "transliteration": "L'ora, s'acosta.",
+      "category": "Time",
+      "generated_at": "2026-08-05T02:06:54.013062"
+    },
+    {
+      "english": "A brief pause, then action.",
+      "catalan": "Una pausa breu, després acció.",
+      "transliteration": "Una pausa breu, després acció.",
+      "category": "Time",
+      "generated_at": "2026-08-05T02:06:54.013073"
+    },
+    {
+      "english": "Minutes fly, so fast.",
+      "catalan": "Els minuts volen, tan ràpid.",
+      "transliteration": "Els minuts volen, tan ràpid.",
+      "category": "Time",
+      "generated_at": "2026-08-05T02:06:54.013075"
+    },
+    {
+      "english": "When the time, is right.",
+      "catalan": "Quan el moment, sigui el correcte.",
+      "transliteration": "Quan el moment, sigui el correcte.",
+      "category": "Time",
+      "generated_at": "2026-08-05T02:06:54.013076"
+    },
+    {
+      "english": "A new day, begins now.",
+      "catalan": "Un nou dia, comença ara.",
+      "transliteration": "Un nou dia, comença ara.",
+      "category": "Time",
+      "generated_at": "2026-08-05T02:06:54.013077"
     }
   ],
-  "last_updated": "2026-08-04T21:00:10.515065"
+  "last_updated": "2026-08-05T02:06:54.013079"
 }
