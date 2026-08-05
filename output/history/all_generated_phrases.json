@@ -7524,7 +7524,42 @@
       "transliteration": "Un nou dia, comença ara.",
       "category": "Time",
       "generated_at": "2026-08-05T02:06:54.013077"
+    },
+    {
+      "english": "A flaky pastry, with jam.",
+      "catalan": "Un croissant cruixent, amb melmelada.",
+      "transliteration": "Oon kroo-SAHNT kroo-SHENT, ahm mehl-meh-LAH-dah.",
+      "category": "Food",
+      "generated_at": "2026-08-05T14:10:43.447339"
+    },
+    {
+      "english": "This local wine, it's divine.",
+      "catalan": "Aquest vi local, és diví.",
+      "transliteration": "Ah-KEST vee loh-KAHL, es dee-VEE.",
+      "category": "Food",
+      "generated_at": "2026-08-05T14:10:43.447348"
+    },
+    {
+      "english": "A slice of cake, for joy.",
+      "catalan": "Una porció de pastís, per alegria.",
+      "transliteration": "OO-nah por-SYOH deh pah-STEESH, pehr ah-leh-GREE-ah.",
+      "category": "Food",
+      "generated_at": "2026-08-05T14:10:43.447349"
+    },
+    {
+      "english": "Warm bread, straight from oven.",
+      "catalan": "Pa calent, acabat del forn.",
+      "transliteration": "Pah kah-LENT, ah-kah-BAHT del FORN.",
+      "category": "Food",
+      "generated_at": "2026-08-05T14:10:43.447350"
+    },
+    {
+      "english": "Fresh seafood, from the coast.",
+      "catalan": "Marisc fresc, de la costa.",
+      "transliteration": "Mah-REESK FRESK, deh lah KOS-tah.",
+      "category": "Food",
+      "generated_at": "2026-08-05T14:10:43.447352"
     }
   ],
-  "last_updated": "2026-08-05T02:06:54.013079"
+  "last_updated": "2026-08-05T14:10:43.447353"
 }
