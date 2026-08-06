@@ -7734,7 +7734,42 @@
       "transliteration": "Un tok de per-veen-ka, flor soo-aw.",
       "category": "Colors",
       "generated_at": "2026-08-06T14:10:28.343699"
+    },
+    {
+      "english": "A moment of quiet, for reflection.",
+      "catalan": "Un instant de silenci, per pensar.",
+      "transliteration": "Un instant de silenci, per pensar.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-06T22:51:19.847242"
+    },
+    {
+      "english": "The city wakes, with a soft hum.",
+      "catalan": "La ciutat desperta, amb un suau soroll.",
+      "transliteration": "La ciutat desperta, amb un suau soroll.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-06T22:51:19.847253"
+    },
+    {
+      "english": "Taste the flavor, of the unknown.",
+      "catalan": "Tasta el gust, de l'ignot.",
+      "transliteration": "Tasta el gust, de l'ignot.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-06T22:51:19.847254"
+    },
+    {
+      "english": "A simple gesture, means so much.",
+      "catalan": "Un gest senzill, val molt.",
+      "transliteration": "Un gest senzill, val molt.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-06T22:51:19.847256"
+    },
+    {
+      "english": "The wind whispers, secrets of old.",
+      "catalan": "El vent xiuxiueja, secrets antics.",
+      "transliteration": "El vent xiuxiueja, secrets antics.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-06T22:51:19.847257"
     }
   ],
-  "last_updated": "2026-08-06T14:10:28.343701"
+  "last_updated": "2026-08-06T22:51:19.847258"
 }
