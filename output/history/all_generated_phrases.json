@@ -7664,7 +7664,42 @@
       "transliteration": "La teva calidesa, es nota.",
       "category": "Gratitude",
       "generated_at": "2026-08-05T20:53:36.917499"
+    },
+    {
+      "english": "Sun warms the stones, feel it.",
+      "catalan": "El sol escalfa les pedres, sent-ho.",
+      "transliteration": "El sol es-cal-fa les pe-dres, sen-t'ho.",
+      "category": "Nature",
+      "generated_at": "2026-08-06T02:11:54.040201"
+    },
+    {
+      "english": "Forest breathes deep, listen closely.",
+      "catalan": "El bosc respira profund, escolta bé.",
+      "transliteration": "El bosc res-pi-ra pro-fund, es-col-ta bé.",
+      "category": "Nature",
+      "generated_at": "2026-08-06T02:11:54.040209"
+    },
+    {
+      "english": "Clouds drift slow, paint the sky.",
+      "catalan": "Els núvols neden lents, pinten el cel.",
+      "transliteration": "Els nú-vols ne-den lents, pin-ten el cel.",
+      "category": "Nature",
+      "generated_at": "2026-08-06T02:11:54.040211"
+    },
+    {
+      "english": "Roots hold firm, deep below.",
+      "catalan": "Les arrels agafen fort, ben avall.",
+      "transliteration": "Les a-rels a-ga-fen fort, ben a-vall.",
+      "category": "Nature",
+      "generated_at": "2026-08-06T02:11:54.040213"
+    },
+    {
+      "english": "Birdsong fills the air, a sweet tune.",
+      "catalan": "El cant dels ocells omple l'aire, una melodia dolça.",
+      "transliteration": "El cant dels o-cells om-ple l'ai-re, u-na me-lo-di-a dol-ça.",
+      "category": "Nature",
+      "generated_at": "2026-08-06T02:11:54.040214"
     }
   ],
-  "last_updated": "2026-08-05T20:53:36.917501"
+  "last_updated": "2026-08-06T02:11:54.040215"
 }
