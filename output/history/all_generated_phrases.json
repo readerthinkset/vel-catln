@@ -7944,7 +7944,42 @@
       "transliteration": "De-shang an-ar el pes, joonts.",
       "category": "Forgiveness",
       "generated_at": "2026-08-07T17:50:37.760538"
+    },
+    {
+      "english": "Just a moment, please.",
+      "catalan": "Un momentet, si us plau.",
+      "transliteration": "oon moh-men-tet, see oos plow",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-07T20:26:17.243437"
+    },
+    {
+      "english": "That sounds interesting.",
+      "catalan": "Això sembla interessant.",
+      "transliteration": "ay-shoh sem-blah een-teh-reh-sahnt",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-07T20:26:17.243445"
+    },
+    {
+      "english": "What time is it?",
+      "catalan": "Quina hora és?",
+      "transliteration": "kee-nah oh-rah esh",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-07T20:26:17.243447"
+    },
+    {
+      "english": "Can I have the bill?",
+      "catalan": "La comanda, si us faig el favor.",
+      "transliteration": "lah koh-mahn-dah, see oos fahg el fah-vor",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-07T20:26:17.243448"
+    },
+    {
+      "english": "It's a pleasure to meet you.",
+      "catalan": "Encantat de conèixer-te.",
+      "transliteration": "ahn-kahn-tahd deh koh-neh-sher-teh",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-07T20:26:17.243449"
     }
   ],
-  "last_updated": "2026-08-07T17:50:37.760540"
+  "last_updated": "2026-08-07T20:26:17.243451"
 }
