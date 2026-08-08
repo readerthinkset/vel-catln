@@ -7979,7 +7979,42 @@
       "transliteration": "ahn-kahn-tahd deh koh-neh-sher-teh",
       "category": "Basic Phrases",
       "generated_at": "2026-08-07T20:26:17.243449"
+    },
+    {
+      "english": "A single star, shines so bright.",
+      "catalan": "Un estel, brilla tant.",
+      "transliteration": "oon es-tel, bree-ya tant.",
+      "category": "Numbers",
+      "generated_at": "2026-08-08T01:17:45.849698"
+    },
+    {
+      "english": "Two friends, sharing a smile.",
+      "catalan": "Dos amics, somrient junts.",
+      "transliteration": "dos a-meecs, so-mree-ent joonts.",
+      "category": "Numbers",
+      "generated_at": "2026-08-08T01:17:45.849709"
+    },
+    {
+      "english": "Three cheers, for good luck.",
+      "catalan": "Tres visques, a la sort.",
+      "transliteration": "tres vees-kes, a la sort.",
+      "category": "Numbers",
+      "generated_at": "2026-08-08T01:17:45.849710"
+    },
+    {
+      "english": "Four wheels, rolling fast.",
+      "catalan": "Quatre rodes, giren ràpid.",
+      "transliteration": "kwat-treh ro-des, jee-ren ra-peed.",
+      "category": "Numbers",
+      "generated_at": "2026-08-08T01:17:45.849711"
+    },
+    {
+      "english": "Just five minutes, more please.",
+      "catalan": "Només cinc minuts, si us plau.",
+      "transliteration": "no-mesh seenk mee-noots, see oos plow.",
+      "category": "Numbers",
+      "generated_at": "2026-08-08T01:17:45.849712"
     }
   ],
-  "last_updated": "2026-08-07T20:26:17.243451"
+  "last_updated": "2026-08-08T01:17:45.849713"
 }
