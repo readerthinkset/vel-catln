@@ -8084,7 +8084,42 @@
       "transliteration": "Cada moment, és una obertura.",
       "category": "Courage",
       "generated_at": "2026-08-08T14:25:56.794704"
+    },
+    {
+      "english": "This dish, looks amazing, doesn't it?",
+      "catalan": "Aquest plat, sembla boníssim, oi?",
+      "transliteration": "Ah-kest plat, sem-bla bo-nees-seem, oy?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-08T17:31:40.197086"
+    },
+    {
+      "english": "Could we, try a little, of that?",
+      "catalan": "Podríem, provar-ne una mica, d'allò?",
+      "transliteration": "Po-dree-um, pro-var-ne oo-na mee-ka, da-lloh?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-08T17:31:40.197092"
+    },
+    {
+      "english": "That sounds, absolutely delicious.",
+      "catalan": "Això sona, absolutament deliciós.",
+      "transliteration": "Aysh-oh so-na, ab-so-loo-ta-ment de-lee-thee-ohs.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-08T17:31:40.197094"
+    },
+    {
+      "english": "My partner, fancies this one.",
+      "catalan": "La meva parella, vol aquest.",
+      "transliteration": "La meh-va pa-reh-ya, vol ah-kest.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-08T17:31:40.197096"
+    },
+    {
+      "english": "We're ready, to order now.",
+      "catalan": "Estem preparats, per demanar ara.",
+      "transliteration": "Es-teh-m pre-pa-rats, per de-ma-nar ah-ra.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-08T17:31:40.197097"
     }
   ],
-  "last_updated": "2026-08-08T14:25:56.794705"
+  "last_updated": "2026-08-08T17:31:40.197098"
 }
