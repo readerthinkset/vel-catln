@@ -8294,7 +8294,42 @@
       "transliteration": "La meva espatlla, fa una mica de mal.",
       "category": "Body Parts",
       "generated_at": "2026-08-09T20:17:18.385908"
+    },
+    {
+      "english": "The lion roars, a mighty sound.",
+      "catalan": "El lleó rugeix, un so poderós.",
+      "transliteration": "El lyoh roo-yeej, oon soh poh-deh-rohs.",
+      "category": "Animals",
+      "generated_at": "2026-08-10T01:23:47.965311"
+    },
+    {
+      "english": "A snake slithers, through the grass.",
+      "catalan": "Una serp s'arrossega, per l'herba.",
+      "transliteration": "Oo-nah ser-p sah-roh-seh-gah, per ler-bah.",
+      "category": "Animals",
+      "generated_at": "2026-08-10T01:23:47.965321"
+    },
+    {
+      "english": "The elephant trumpets, a loud call.",
+      "catalan": "L'elefant trompeteja, una crida forta.",
+      "transliteration": "Leh-leh-fahn trohm-peh-teh-jah, oo-nah kree-dah for-tah.",
+      "category": "Animals",
+      "generated_at": "2026-08-10T01:23:47.965322"
+    },
+    {
+      "english": "A monkey swings, from branch to branch.",
+      "catalan": "Un mico salta, de branca en branca.",
+      "transliteration": "Oon mee-koh sahl-tah, deh brahn-kah en brahn-kah.",
+      "category": "Animals",
+      "generated_at": "2026-08-10T01:23:47.965324"
+    },
+    {
+      "english": "The wolf howls, at the moon.",
+      "catalan": "El llop aúlla, a la lluna.",
+      "transliteration": "El lyohp ow-llah, ah lah lyoo-nah.",
+      "category": "Animals",
+      "generated_at": "2026-08-10T01:23:47.965325"
     }
   ],
-  "last_updated": "2026-08-09T20:17:18.385909"
+  "last_updated": "2026-08-10T01:23:47.965327"
 }
