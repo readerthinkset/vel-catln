@@ -8574,7 +8574,42 @@
       "transliteration": "A través de la boira, arriba la claredat.",
       "category": "Perseverance",
       "generated_at": "2026-08-11T14:53:05.278262"
+    },
+    {
+      "english": "My, passport, is gone.",
+      "catalan": "El meu, passaport, no hi és.",
+      "transliteration": "El meu, passaport, no ee es.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T17:58:00.129486"
+    },
+    {
+      "english": "I, need, a quiet place.",
+      "catalan": "Necessito, un lloc, tranquil.",
+      "transliteration": "Necessito, un lloc, tranquil.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T17:58:00.129495"
+    },
+    {
+      "english": "The, train, is delayed.",
+      "catalan": "El tren, fa tard.",
+      "transliteration": "El tren, fa tard.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T17:58:00.129497"
+    },
+    {
+      "english": "I, can't, find my way.",
+      "catalan": "No trobo, el camí.",
+      "transliteration": "No trobo, el camí.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T17:58:00.129499"
+    },
+    {
+      "english": "Is, this, safe?",
+      "catalan": "És, segur, això?",
+      "transliteration": "Es, segur, aixoh?",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T17:58:00.129500"
     }
   ],
-  "last_updated": "2026-08-11T14:53:05.278264"
+  "last_updated": "2026-08-11T17:58:00.129502"
 }
