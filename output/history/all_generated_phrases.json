@@ -8504,7 +8504,42 @@
       "transliteration": "Amb TU, la VI-da es MES PLE-na.",
       "category": "Friendship",
       "generated_at": "2026-08-11T01:22:05.941553"
+    },
+    {
+      "english": "Clouds are gathering, high up.",
+      "catalan": "Els núvols s'ajunten, ben amunt.",
+      "transliteration": "els noo-vols sa-joo-nten, ben a-moont",
+      "category": "Weather",
+      "generated_at": "2026-08-11T13:03:50.760671"
+    },
+    {
+      "english": "The wind is picking up, strongly.",
+      "catalan": "El vent bufa més fort, de veritat.",
+      "transliteration": "el vent boo-fa mes fort, de ve-ree-tat",
+      "category": "Weather",
+      "generated_at": "2026-08-11T13:03:50.760682"
+    },
+    {
+      "english": "A light shower, is falling now.",
+      "catalan": "Una lleugera pluja, cau ara mateix.",
+      "transliteration": "oo-na lle-geh-ra ploo-ja, kau a-ra ma-teysh",
+      "category": "Weather",
+      "generated_at": "2026-08-11T13:03:50.760683"
+    },
+    {
+      "english": "Sunshine feels warm, on my skin.",
+      "catalan": "El sol escalfa, la meva pell.",
+      "transliteration": "el sol es-kal-fa, la meh-va pel",
+      "category": "Weather",
+      "generated_at": "2026-08-11T13:03:50.760684"
+    },
+    {
+      "english": "The air is so crisp, this morning.",
+      "catalan": "L'aire és ben fresc, avui al matí.",
+      "transliteration": "l'ai-re es ben fresc, a-vwee al ma-tee",
+      "category": "Weather",
+      "generated_at": "2026-08-11T13:03:50.760685"
     }
   ],
-  "last_updated": "2026-08-11T01:22:05.941554"
+  "last_updated": "2026-08-11T13:03:50.760686"
 }
