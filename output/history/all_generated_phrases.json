@@ -8889,7 +8889,42 @@
       "transliteration": "El teu coratge, una flama constant.",
       "category": "Strength",
       "generated_at": "2026-08-13T14:52:00.501834"
+    },
+    {
+      "english": "A small step, forward.",
+      "catalan": "Un petit pas, endavant.",
+      "transliteration": "Oon peetit pahs, ehndah-vahnt.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-13T17:58:11.758343"
+    },
+    {
+      "english": "This place, feels good.",
+      "catalan": "Aquest lloc, agrada.",
+      "transliteration": "Ah-kest yohk, ah-grah-dah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-13T17:58:11.758353"
+    },
+    {
+      "english": "Just breathe, deeply.",
+      "catalan": "Només respira, profundament.",
+      "transliteration": "No-mehs res-pee-rah, pro-foon-dah-ment.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-13T17:58:11.758355"
+    },
+    {
+      "english": "A moment, to rest.",
+      "catalan": "Un moment, per descansar.",
+      "transliteration": "Oon mo-ment, pehr des-cahn-sahr.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-13T17:58:11.758356"
+    },
+    {
+      "english": "Let's enjoy, this.",
+      "catalan": "Gaudeix-ho, ara.",
+      "transliteration": "Gow-deysh-ho, ah-rah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-13T17:58:11.758357"
     }
   ],
-  "last_updated": "2026-08-13T14:52:00.501836"
+  "last_updated": "2026-08-13T17:58:11.758359"
 }
