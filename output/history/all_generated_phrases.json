@@ -8924,7 +8924,42 @@
       "transliteration": "Gow-deysh-ho, ah-rah.",
       "category": "Basic Phrases",
       "generated_at": "2026-08-13T17:58:11.758357"
+    },
+    {
+      "english": "A burst of citrus, bright and bold.",
+      "catalan": "Un toc cítric, viu i audaç.",
+      "transliteration": "Oon tok see-treek, veev ee ow-dahsh.",
+      "category": "Food",
+      "generated_at": "2026-08-14T01:39:10.376205"
+    },
+    {
+      "english": "Sun-ripened tomatoes, summer's best.",
+      "catalan": "Tomaquets madurs, el millor estiu.",
+      "transliteration": "Toh-mah-kets mah-doors, el mee-yor es-teev.",
+      "category": "Food",
+      "generated_at": "2026-08-14T01:39:10.376214"
+    },
+    {
+      "english": "Aromatic basil, fragrant and green.",
+      "catalan": "Alfàbrega aromàtica, perfumada i verda.",
+      "transliteration": "Ahl-fah-breh-gah ah-roh-mah-tee-kah, per-foo-mah-dah ee ver-dah.",
+      "category": "Food",
+      "generated_at": "2026-08-14T01:39:10.376215"
+    },
+    {
+      "english": "Savory mushrooms, earthy and deep.",
+      "catalan": "Bolets salats, terrosos i profunds.",
+      "transliteration": "Boh-lets sah-lahs, teh-roh-sohs ee pro-foonns.",
+      "category": "Food",
+      "generated_at": "2026-08-14T01:39:10.376217"
+    },
+    {
+      "english": "A hint of garlic, pungent and warm.",
+      "catalan": "Un toc d'all, pungents i càlid.",
+      "transliteration": "Oon tok dah-ll, poon-jents ee kah-leed.",
+      "category": "Food",
+      "generated_at": "2026-08-14T01:39:10.376218"
     }
   ],
-  "last_updated": "2026-08-13T17:58:11.758359"
+  "last_updated": "2026-08-14T01:39:10.376220"
 }
