@@ -9099,7 +9099,42 @@
       "transliteration": "Lah pow vee-oo, en koh-ses sen-zeel-lyes.",
       "category": "Inner Peace",
       "generated_at": "2026-08-14T20:19:36.939426"
+    },
+    {
+      "english": "Chips remember, everything.",
+      "catalan": "Els xips recorden, tot.",
+      "transliteration": "els sheeps recorden, tot",
+      "category": "Technology",
+      "generated_at": "2026-08-15T14:16:24.857053"
+    },
+    {
+      "english": "Screens light up, our world.",
+      "catalan": "Les pantalles il·luminen, el nostre món.",
+      "transliteration": "les pantayes il·luminen, el nostre mon",
+      "category": "Technology",
+      "generated_at": "2026-08-15T14:16:24.857062"
+    },
+    {
+      "english": "Networks hum, a gentle song.",
+      "catalan": "Les xarxes xiuxiuegen, una cançó suau.",
+      "transliteration": "les xarxes xiuxiejen, una canso suau",
+      "category": "Technology",
+      "generated_at": "2026-08-15T14:16:24.857064"
+    },
+    {
+      "english": "The cursor blinks, a silent prompt.",
+      "catalan": "El cursor parpelleja, una indicació silenciosa.",
+      "transliteration": "el cursor parpelleja, una indicacio silenciosa",
+      "category": "Technology",
+      "generated_at": "2026-08-15T14:16:24.857065"
+    },
+    {
+      "english": "Bytes fly, through the air.",
+      "catalan": "Els bytes volen, per l'aire.",
+      "transliteration": "els bytes volen, per l'aire",
+      "category": "Technology",
+      "generated_at": "2026-08-15T14:16:24.857069"
     }
   ],
-  "last_updated": "2026-08-14T20:19:36.939428"
+  "last_updated": "2026-08-15T14:16:24.857071"
 }
