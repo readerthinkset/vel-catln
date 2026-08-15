@@ -9169,7 +9169,42 @@
       "transliteration": "Ca-da fra-se, un pe-tit tri-omf.",
       "category": "Success",
       "generated_at": "2026-08-15T17:21:47.626583"
+    },
+    {
+      "english": "This jumper, feels cozy.",
+      "catalan": "Aquest jersei, fa caliu.",
+      "transliteration": "A'kest jer'sey, fa ka'liu.",
+      "category": "Clothes",
+      "generated_at": "2026-08-15T20:08:24.164632"
+    },
+    {
+      "english": "My new coat, is waterproof.",
+      "catalan": "El meu abric nou, és impermeable.",
+      "transliteration": "El mew a'brik'now, es'im'per'me'a'ble.",
+      "category": "Clothes",
+      "generated_at": "2026-08-15T20:08:24.164640"
+    },
+    {
+      "english": "Her skirt, has pleats.",
+      "catalan": "La seva faldilla, té plecs.",
+      "transliteration": "La se'va fal'di'ya, te pleks.",
+      "category": "Clothes",
+      "generated_at": "2026-08-15T20:08:24.164641"
+    },
+    {
+      "english": "These trousers, are very loose.",
+      "catalan": "Aquests pantalons, són molt amples.",
+      "transliteration": "A'kests pan'ta'lons, son molt'am'ples.",
+      "category": "Clothes",
+      "generated_at": "2026-08-15T20:08:24.164643"
+    },
+    {
+      "english": "I need a hat, for sun.",
+      "catalan": "Necessito un barret, per al sol.",
+      "transliteration": "Ne'ce'si'to un ba'rret, per al sol.",
+      "category": "Clothes",
+      "generated_at": "2026-08-15T20:08:24.164644"
     }
   ],
-  "last_updated": "2026-08-15T17:21:47.626585"
+  "last_updated": "2026-08-15T20:08:24.164646"
 }
