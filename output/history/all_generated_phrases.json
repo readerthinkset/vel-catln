@@ -9204,7 +9204,42 @@
       "transliteration": "Ne'ce'si'to un ba'rret, per al sol.",
       "category": "Clothes",
       "generated_at": "2026-08-15T20:08:24.164644"
+    },
+    {
+      "english": "Unravel a new expression, then pause.",
+      "catalan": "Desembolic un pensament nou, i faig una pausa.",
+      "transliteration": "Desembolic un pensament nou, i faig una pausa.",
+      "category": "Education",
+      "generated_at": "2026-08-16T01:04:10.351975"
+    },
+    {
+      "english": "Hear the echo, of Catalan sounds.",
+      "catalan": "Sent l'eco, dels sons catalans.",
+      "transliteration": "Sent l'eco, dels sons catalans.",
+      "category": "Education",
+      "generated_at": "2026-08-16T01:04:10.351987"
+    },
+    {
+      "english": "Grasp a phrase, let it settle.",
+      "catalan": "Agafa una frase, deixa que s'assenti.",
+      "transliteration": "Agafa una frase, deixa que s'assenti.",
+      "category": "Education",
+      "generated_at": "2026-08-16T01:04:10.351989"
+    },
+    {
+      "english": "Share a thought, in Catalan.",
+      "catalan": "Comparteix una idea, en català.",
+      "transliteration": "Comparteix una idea, en català.",
+      "category": "Education",
+      "generated_at": "2026-08-16T01:04:10.351990"
+    },
+    {
+      "english": "See the world, through Catalan eyes.",
+      "catalan": "Mira el món, amb ulls catalans.",
+      "transliteration": "Mira el món, amb ulls catalans.",
+      "category": "Education",
+      "generated_at": "2026-08-16T01:04:10.351991"
     }
   ],
-  "last_updated": "2026-08-15T20:08:24.164646"
+  "last_updated": "2026-08-16T01:04:10.351993"
 }
