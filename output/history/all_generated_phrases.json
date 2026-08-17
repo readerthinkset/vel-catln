@@ -9449,7 +9449,42 @@
       "transliteration": "Sussurra una frase, després més fort.",
       "category": "Directions",
       "generated_at": "2026-08-17T12:42:10.291278"
+    },
+    {
+      "english": "One moment, please.",
+      "catalan": "Un moment, si us plau.",
+      "transliteration": "oon mo-ment, see-oos-plow",
+      "category": "Numbers",
+      "generated_at": "2026-08-17T14:21:28.768700"
+    },
+    {
+      "english": "Two birds, singing sweetly.",
+      "catalan": "Dos ocells, cantant dolçament.",
+      "transliteration": "dos o-sells, kan-tant dol-tcha-ment",
+      "category": "Numbers",
+      "generated_at": "2026-08-17T14:21:28.768728"
+    },
+    {
+      "english": "Three cheers, for success.",
+      "catalan": "Tres visques, per l'èxit.",
+      "transliteration": "tres vee-skes, per l'eik-sit",
+      "category": "Numbers",
+      "generated_at": "2026-08-17T14:21:28.768731"
+    },
+    {
+      "english": "Four walls, hold our home.",
+      "catalan": "Quatre parets, acullen la llar.",
+      "transliteration": "kwah-treh pah-rets, ah-kool-en lah yar",
+      "category": "Numbers",
+      "generated_at": "2026-08-17T14:21:28.768732"
+    },
+    {
+      "english": "Just five, more or less.",
+      "catalan": "Només cinc, més o menys.",
+      "transliteration": "no-mes seenk, mes o meh-neesh",
+      "category": "Numbers",
+      "generated_at": "2026-08-17T14:21:28.768733"
     }
   ],
-  "last_updated": "2026-08-17T12:42:10.291280"
+  "last_updated": "2026-08-17T14:21:28.768735"
 }
