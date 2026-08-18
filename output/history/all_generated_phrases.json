@@ -9554,7 +9554,42 @@
       "transliteration": "La satisfacció, una llum suau.",
       "category": "Happiness",
       "generated_at": "2026-08-17T20:13:15.590525"
+    },
+    {
+      "english": "Feeling inspired, today.",
+      "catalan": "Em sento inspirat, avui.",
+      "transliteration": "Em sen-to ins-pi-rat, a-vui.",
+      "category": "Feelings",
+      "generated_at": "2026-08-18T01:01:10.806464"
+    },
+    {
+      "english": "So relieved, truly.",
+      "catalan": "Molt alleujat, de debò.",
+      "transliteration": "Mol al-le-u-jat, de de-bò.",
+      "category": "Feelings",
+      "generated_at": "2026-08-18T01:01:10.806473"
+    },
+    {
+      "english": "A bit embarrassed, you see?",
+      "catalan": "Una mica avergonyit, saps?",
+      "transliteration": "U-na mi-ca a-ver-go-nyit, saps?",
+      "category": "Feelings",
+      "generated_at": "2026-08-18T01:01:10.806475"
+    },
+    {
+      "english": "Feeling enthusiastic, very.",
+      "catalan": "Entusiasta, moltíssim.",
+      "transliteration": "En-tu-si-as-ta, mol-tís-sim.",
+      "category": "Feelings",
+      "generated_at": "2026-08-18T01:01:10.806476"
+    },
+    {
+      "english": "Quite apprehensive, right now.",
+      "catalan": "Bastant aprensiu, ara mateix.",
+      "transliteration": "Bas-tant a-pren-siu, a-ra ma-teix.",
+      "category": "Feelings",
+      "generated_at": "2026-08-18T01:01:10.806477"
     }
   ],
-  "last_updated": "2026-08-17T20:13:15.590527"
+  "last_updated": "2026-08-18T01:01:10.806479"
 }
