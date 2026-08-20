@@ -9869,7 +9869,42 @@
       "transliteration": "Oon es-pai see-len-see-ohs, sob-re.",
       "category": "Mindfulness",
       "generated_at": "2026-08-19T17:27:59.044482"
+    },
+    {
+      "english": "Just browsing, thanks.",
+      "catalan": "Només miro, gràcies.",
+      "transliteration": "Nom-es mee-ro, grah-thee-ahs.",
+      "category": "Shopping",
+      "generated_at": "2026-08-20T01:00:53.353290"
+    },
+    {
+      "english": "What's the price?",
+      "catalan": "Quant val, això?",
+      "transliteration": "Kwant val, ah-shoh?",
+      "category": "Shopping",
+      "generated_at": "2026-08-20T01:00:53.353300"
+    },
+    {
+      "english": "Is it on sale?",
+      "catalan": "Està, de rebaixa?",
+      "transliteration": "Es-tah, deh reh-by-shah?",
+      "category": "Shopping",
+      "generated_at": "2026-08-20T01:00:53.353302"
+    },
+    {
+      "english": "I'll take it.",
+      "catalan": "M'ho emporto.",
+      "transliteration": "M'ho em-por-toh.",
+      "category": "Shopping",
+      "generated_at": "2026-08-20T01:00:53.353303"
+    },
+    {
+      "english": "Do you have, another color?",
+      "catalan": "Teniu, un altre color?",
+      "transliteration": "Teh-nee-oo, oon al-treh co-lor?",
+      "category": "Shopping",
+      "generated_at": "2026-08-20T01:00:53.353305"
     }
   ],
-  "last_updated": "2026-08-19T17:27:59.044484"
+  "last_updated": "2026-08-20T01:00:53.353306"
 }
