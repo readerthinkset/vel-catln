@@ -10114,7 +10114,42 @@
       "transliteration": "Kwin bon moh-ment, per koh-men-sahr.",
       "category": "Greetings",
       "generated_at": "2026-08-21T17:30:06.016029"
+    },
+    {
+      "english": "A gentle deer, tiptoes through the woods.",
+      "catalan": "Un cérvol amable, jeu pel bosc.",
+      "transliteration": "Un ser-vol a-mable, jeu pel bosk.",
+      "category": "Animals",
+      "generated_at": "2026-08-21T20:12:30.530114"
+    },
+    {
+      "english": "The horse gallops, across the open field.",
+      "catalan": "El cavall galopa, pel camp obert.",
+      "transliteration": "El ka-vall ga-lo-pa, pel kamp o-bert.",
+      "category": "Animals",
+      "generated_at": "2026-08-21T20:12:30.530126"
+    },
+    {
+      "english": "A playful dolphin, leaps from the waves.",
+      "catalan": "Un dofí juganer, salta les onades.",
+      "transliteration": "Un do-fí ju-ga-ner, sal-ta les o-na-des.",
+      "category": "Animals",
+      "generated_at": "2026-08-21T20:12:30.530127"
+    },
+    {
+      "english": "The proud peacock, displays its feathers.",
+      "catalan": "La pavo real orgullosa, mostra les plomes.",
+      "transliteration": "La pa-vo re-al or-gu-llo-sa, mos-tra les plo-mes.",
+      "category": "Animals",
+      "generated_at": "2026-08-21T20:12:30.530128"
+    },
+    {
+      "english": "A busy ant, carries a crumb.",
+      "catalan": "Una formiga ocupada, porta una molla.",
+      "transliteration": "U-na for-mi-ga o-ku-pa-da, por-ta u-na mol-la.",
+      "category": "Animals",
+      "generated_at": "2026-08-21T20:12:30.530128"
     }
   ],
-  "last_updated": "2026-08-21T17:30:06.016030"
+  "last_updated": "2026-08-21T20:12:30.530130"
 }
