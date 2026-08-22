@@ -10289,7 +10289,42 @@
       "transliteration": "Atreveix-te a provar, després veuràs.",
       "category": "Success",
       "generated_at": "2026-08-22T17:21:58.331489"
+    },
+    {
+      "english": "A sip of wine, red and deep.",
+      "catalan": "Un glop de vi, vermell i intens.",
+      "transliteration": "Oon glop deh vee, ver-mel ee in-tens.",
+      "category": "Food",
+      "generated_at": "2026-08-22T20:09:10.304285"
+    },
+    {
+      "english": "This flaky croissant, light as air.",
+      "catalan": "Aquest croissant lleuger, com l'aire.",
+      "transliteration": "A-kest cro-ssant llyeh-jer, kom l'aire.",
+      "category": "Food",
+      "generated_at": "2026-08-22T20:09:10.304297"
+    },
+    {
+      "english": "A hearty lentil dish, warming me.",
+      "catalan": "Un plat de llenties, que m'escalfa.",
+      "transliteration": "Oon plat deh llyen-tee-as, keh m'es-kal-fah.",
+      "category": "Food",
+      "generated_at": "2026-08-22T20:09:10.304299"
+    },
+    {
+      "english": "Freshly baked bread, crusty and good.",
+      "catalan": "Pa acabat de fer, cruixent i bo.",
+      "transliteration": "Pah a-ka-bat deh fer, croo-ix-ent ee boh.",
+      "category": "Food",
+      "generated_at": "2026-08-22T20:09:10.304300"
+    },
+    {
+      "english": "Sweet strawberries, summer's delight.",
+      "catalan": "Maduixes dolces, delícia d'estiu.",
+      "transliteration": "Ma-doo-ix-as dol-sas, deh-lee-see-ah des-teew.",
+      "category": "Food",
+      "generated_at": "2026-08-22T20:09:10.304302"
     }
   ],
-  "last_updated": "2026-08-22T17:21:58.331491"
+  "last_updated": "2026-08-22T20:09:10.304303"
 }
