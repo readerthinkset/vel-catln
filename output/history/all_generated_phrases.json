@@ -10464,7 +10464,42 @@
       "transliteration": "Des-preys, pot-ser, sah-brem.",
       "category": "Time",
       "generated_at": "2026-08-23T17:21:45.560601"
+    },
+    {
+      "english": "A lone wolf, howls at midnight.",
+      "catalan": "Un llop solitari, udola a mitjanit.",
+      "transliteration": "oon lop sol-i-tari, oo-do-la a mit-ja-nit.",
+      "category": "Numbers",
+      "generated_at": "2026-08-23T20:08:49.978396"
+    },
+    {
+      "english": "Two shy glances, across the room.",
+      "catalan": "Dues mirades tímides, a través de la sala.",
+      "transliteration": "doos mi-ra-des ti-mi-des, a tra-vés de la sa-la.",
+      "category": "Numbers",
+      "generated_at": "2026-08-23T20:08:49.978410"
+    },
+    {
+      "english": "Three wise elders, share their stories.",
+      "catalan": "Tres savis ancians, expliquen les seves històries.",
+      "transliteration": "tres sa-vis an-ci-ans, ex-pli-quen les se-ves his-tò-ri-es.",
+      "category": "Numbers",
+      "generated_at": "2026-08-23T20:08:49.978412"
+    },
+    {
+      "english": "Four strong pillars, support the roof.",
+      "catalan": "Quatre pilars robustos, sostenen el sostre.",
+      "transliteration": "qua-tre pi-lars ro-bus-tos, so-ste-nen el sos-tre.",
+      "category": "Numbers",
+      "generated_at": "2026-08-23T20:08:49.978414"
+    },
+    {
+      "english": "Just five petals, on this delicate flower.",
+      "catalan": "Només cinc pètals, en aquesta flor delicada.",
+      "transliteration": "no-més cinc pe-ta-ls, en a-ques-ta flor de-li-ca-da.",
+      "category": "Numbers",
+      "generated_at": "2026-08-23T20:08:49.978415"
     }
   ],
-  "last_updated": "2026-08-23T17:21:45.560602"
+  "last_updated": "2026-08-23T20:08:49.978417"
 }
