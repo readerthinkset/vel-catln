@@ -10429,7 +10429,42 @@
       "transliteration": "Deh-ish-ah lah com-pah-see-oh, gee-ar.",
       "category": "Kindness",
       "generated_at": "2026-08-23T14:17:31.735122"
+    },
+    {
+      "english": "Soon, a new chapter.",
+      "catalan": "Avui, un nou capítol.",
+      "transliteration": "Oy, oon nw kapi-tol.",
+      "category": "Time",
+      "generated_at": "2026-08-23T17:21:45.560586"
+    },
+    {
+      "english": "Wait a beat, then decide.",
+      "catalan": "Espera un ritme, després decideix.",
+      "transliteration": "Es-peh-ra oon rit-meh, des-preys de-see-deish.",
+      "category": "Time",
+      "generated_at": "2026-08-23T17:21:45.560597"
+    },
+    {
+      "english": "Long ago, a memory.",
+      "catalan": "Fa molt, un record.",
+      "transliteration": "Fa molt, oon reh-kord.",
+      "category": "Time",
+      "generated_at": "2026-08-23T17:21:45.560599"
+    },
+    {
+      "english": "This instant, is all.",
+      "catalan": "Aquest instant, és tot.",
+      "transliteration": "Ah-kest in-stant, es tot.",
+      "category": "Time",
+      "generated_at": "2026-08-23T17:21:45.560600"
+    },
+    {
+      "english": "Later, perhaps, we'll know.",
+      "catalan": "Després, potser, sabrem.",
+      "transliteration": "Des-preys, pot-ser, sah-brem.",
+      "category": "Time",
+      "generated_at": "2026-08-23T17:21:45.560601"
     }
   ],
-  "last_updated": "2026-08-23T14:17:31.735123"
+  "last_updated": "2026-08-23T17:21:45.560602"
 }
