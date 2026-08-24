@@ -10499,7 +10499,42 @@
       "transliteration": "no-més cinc pe-ta-ls, en a-ques-ta flor de-li-ca-da.",
       "category": "Numbers",
       "generated_at": "2026-08-23T20:08:49.978415"
+    },
+    {
+      "english": "Sun warms my skin, gently.",
+      "catalan": "El sol escalfa, suaument.",
+      "transliteration": "El sol es-cal-fa, sua-u-ment.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-24T01:03:13.601457"
+    },
+    {
+      "english": "A quiet moment, before coffee.",
+      "catalan": "Un instant silenciós, abans del cafè.",
+      "transliteration": "Un in-stant si-len-ci-os, an-tes del ca-fè.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-24T01:03:13.601466"
+    },
+    {
+      "english": "Birds chirp outside, a lively sound.",
+      "catalan": "Ocells piulen fora, un so viu.",
+      "transliteration": "O-cells pi-u-len fo-ra, un so viu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-24T01:03:13.601468"
+    },
+    {
+      "english": "My mind awakens, slowly.",
+      "catalan": "La meva ment desperta, a poc a poc.",
+      "transliteration": "La me-va ment des-per-ta, a poc a poc.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-24T01:03:13.601469"
+    },
+    {
+      "english": "First light paints the room.",
+      "catalan": "La primera llum pinta l'habitació.",
+      "transliteration": "La pri-me-ra llum pin-ta l'ha-bi-ta-ci-o.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-24T01:03:13.601470"
     }
   ],
-  "last_updated": "2026-08-23T20:08:49.978417"
+  "last_updated": "2026-08-24T01:03:13.601471"
 }
