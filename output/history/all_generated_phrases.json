@@ -10569,7 +10569,42 @@
       "transliteration": "Pri-ME-ra GHE-bre, mo-SSE-ga LAI-re",
       "category": "Weather",
       "generated_at": "2026-08-24T12:48:32.758129"
+    },
+    {
+      "english": "This seafood, is so fresh.",
+      "catalan": "Aquest marisc, és tan fresc.",
+      "transliteration": "A-kest ma-risk, es tan fresk.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-24T14:36:28.263499"
+    },
+    {
+      "english": "Could I try, a bit of bread?",
+      "catalan": "Puc provar, una mica de pa?",
+      "transliteration": "Pook pro-var, u-na mi-ka de pa?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-24T14:36:28.263512"
+    },
+    {
+      "english": "What's the daily, special today?",
+      "catalan": "Quin és, el plat del dia?",
+      "transliteration": "Keen es, el plat del dee-a?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-24T14:36:28.263513"
+    },
+    {
+      "english": "I'm in the mood, for something hearty.",
+      "catalan": "Tinc ganes, de quelcom contundent.",
+      "transliteration": "Teen ga-nes, de kel-kom kon-toon-dent.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-24T14:36:28.263513"
+    },
+    {
+      "english": "This wine, pairs perfectly.",
+      "catalan": "Aquest vi, combina perfectament.",
+      "transliteration": "A-kest vee, kom-bee-na per-fek-ta-ment.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-24T14:36:28.263514"
     }
   ],
-  "last_updated": "2026-08-24T12:48:32.758130"
+  "last_updated": "2026-08-24T14:36:28.263516"
 }
