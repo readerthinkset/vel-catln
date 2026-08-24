@@ -10639,7 +10639,42 @@
       "transliteration": "Un cor con-tent, tro-ba el seu rit-me.",
       "category": "Happiness",
       "generated_at": "2026-08-24T17:32:29.689050"
+    },
+    {
+      "english": "I'm lost, can you point?",
+      "catalan": "Estic perdut, em pot indicar?",
+      "transliteration": "Es-teek per-doon, em pot in-di-kar?",
+      "category": "Emergency",
+      "generated_at": "2026-08-24T20:15:55.489474"
+    },
+    {
+      "english": "The path, is blocked.",
+      "catalan": "El camí, està blocat.",
+      "transliteration": "El ka-meen, es-tah blo-kat.",
+      "category": "Emergency",
+      "generated_at": "2026-08-24T20:15:55.489483"
+    },
+    {
+      "english": "My bag, ripped open.",
+      "catalan": "La meva bossa, s'ha trencat.",
+      "transliteration": "La meh-vah bos-sah, sah tren-kat.",
+      "category": "Emergency",
+      "generated_at": "2026-08-24T20:15:55.489484"
+    },
+    {
+      "english": "I need, a doctor, soon.",
+      "catalan": "Necessito, un metge, aviat.",
+      "transliteration": "Ne-se-see-to, oon med-je, ah-vee-at.",
+      "category": "Emergency",
+      "generated_at": "2026-08-24T20:15:55.489486"
+    },
+    {
+      "english": "Where, is the nearest, exit?",
+      "catalan": "On, és la sortida, més propera?",
+      "transliteration": "On, es lah sor-tee-dah, mes pro-peh-rah?",
+      "category": "Emergency",
+      "generated_at": "2026-08-24T20:15:55.489487"
     }
   ],
-  "last_updated": "2026-08-24T17:32:29.689052"
+  "last_updated": "2026-08-24T20:15:55.489488"
 }
