@@ -10534,7 +10534,42 @@
       "transliteration": "La pri-me-ra llum pin-ta l'ha-bi-ta-ci-o.",
       "category": "Daily Routine",
       "generated_at": "2026-08-24T01:03:13.601470"
+    },
+    {
+      "english": "Storm's brewing, rumble far off.",
+      "catalan": "La tempesta s'acosta, tro retunyint.",
+      "transliteration": "La tem-PES-ta sa-KO-sta, TRO re-tu-NYIN",
+      "category": "Weather",
+      "generated_at": "2026-08-24T12:48:32.758113"
+    },
+    {
+      "english": "Sky's clearing, blue peek through.",
+      "catalan": "El cel s'obre, blau que es veu.",
+      "transliteration": "El tsel OB-re, blau ke se VEU",
+      "category": "Weather",
+      "generated_at": "2026-08-24T12:48:32.758125"
+    },
+    {
+      "english": "Dew drops, sparkle on grass.",
+      "catalan": "Gotetes de rosada, brillen a l'herba.",
+      "transliteration": "Go-TTE-tes de ro-ZA-da, BRI-llen a LER-ba",
+      "category": "Weather",
+      "generated_at": "2026-08-24T12:48:32.758126"
+    },
+    {
+      "english": "Heat shimmer, dances on road.",
+      "catalan": " Calor que fa onades, a la via.",
+      "transliteration": "Ca-LOR ke fa O-na-des, a la VI-a",
+      "category": "Weather",
+      "generated_at": "2026-08-24T12:48:32.758128"
+    },
+    {
+      "english": "First frost, bites the air.",
+      "catalan": "Primera gebre, mossega l'aire.",
+      "transliteration": "Pri-ME-ra GHE-bre, mo-SSE-ga LAI-re",
+      "category": "Weather",
+      "generated_at": "2026-08-24T12:48:32.758129"
     }
   ],
-  "last_updated": "2026-08-24T01:03:13.601471"
+  "last_updated": "2026-08-24T12:48:32.758130"
 }
