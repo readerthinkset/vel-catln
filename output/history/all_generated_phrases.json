@@ -10744,7 +10744,42 @@
       "transliteration": "Soob-mer-sheysh-teh, lee-dee-oh-mah tes-peh-rah.",
       "category": "Confidence",
       "generated_at": "2026-08-25T12:45:24.234715"
+    },
+    {
+      "english": "Hear the rhythm, feel the beat.",
+      "catalan": "Sent el ritme, nota el compàs.",
+      "transliteration": "Sent el ritme, nota el compàs.",
+      "category": "Directions",
+      "generated_at": "2026-08-25T14:38:14.046876"
+    },
+    {
+      "english": "Whisper a story, softly now.",
+      "catalan": "Murmura una història, suaument ara.",
+      "transliteration": "Murmura una història, suaument ara.",
+      "category": "Directions",
+      "generated_at": "2026-08-25T14:38:14.046887"
+    },
+    {
+      "english": "Picture the moment, then describe.",
+      "catalan": "Imagina l'instant, després descriu.",
+      "transliteration": "Imagina l'instant, després descriu.",
+      "category": "Directions",
+      "generated_at": "2026-08-25T14:38:14.046888"
+    },
+    {
+      "english": "Trace the words, with your finger.",
+      "catalan": "Repassa les paraules, amb el dit.",
+      "transliteration": "Repassa les paraules, amb el dit.",
+      "category": "Directions",
+      "generated_at": "2026-08-25T14:38:14.046890"
+    },
+    {
+      "english": "Imagine the color, say its name.",
+      "catalan": "Imagina el color, digues el nom.",
+      "transliteration": "Imagina el color, digues el nom.",
+      "category": "Directions",
+      "generated_at": "2026-08-25T14:38:14.046891"
     }
   ],
-  "last_updated": "2026-08-25T12:45:24.234717"
+  "last_updated": "2026-08-25T14:38:14.046893"
 }
