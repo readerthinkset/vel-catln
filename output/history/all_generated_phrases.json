@@ -11199,7 +11199,42 @@
       "transliteration": "Cada èxit, una petita victòria.",
       "category": "Strength",
       "generated_at": "2026-08-28T21:45:40.250936"
+    },
+    {
+      "english": "A creamy yogurt, honey swirl.",
+      "catalan": "Un iogurt cremós, mel en espiral.",
+      "transliteration": "Un yogur cremos, mel en espiral.",
+      "category": "Food",
+      "generated_at": "2026-08-28T23:21:37.064966"
+    },
+    {
+      "english": "Sweet figs, ripe and plump.",
+      "catalan": "Figues dolces, madures i grosses.",
+      "transliteration": "Figes dolces, madures i grosses.",
+      "category": "Food",
+      "generated_at": "2026-08-28T23:21:37.064978"
+    },
+    {
+      "english": "This cured ham, so savory.",
+      "catalan": "Aquest pernil curat, tan saborós.",
+      "transliteration": "Aquest pernil curat, tan saboros.",
+      "category": "Food",
+      "generated_at": "2026-08-28T23:21:37.064980"
+    },
+    {
+      "english": "A refreshing mint tea, cool.",
+      "catalan": "Un te de menta refrescant, fred.",
+      "transliteration": "Un te de menta refrescant, fred.",
+      "category": "Food",
+      "generated_at": "2026-08-28T23:21:37.064981"
+    },
+    {
+      "english": "Crispy fried potatoes, a classic.",
+      "catalan": "Patates fregides cruixents, un clàssic.",
+      "transliteration": "Patates fregides cruixents, un classic.",
+      "category": "Food",
+      "generated_at": "2026-08-28T23:21:37.064983"
     }
   ],
-  "last_updated": "2026-08-28T21:45:40.250937"
+  "last_updated": "2026-08-28T23:21:37.064984"
 }
