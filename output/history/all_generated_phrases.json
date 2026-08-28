@@ -11164,7 +11164,42 @@
       "transliteration": "Nu-treix la ment, amb cal-ma.",
       "category": "Health",
       "generated_at": "2026-08-28T08:50:45.295920"
+    },
+    {
+      "english": "Your focus, sharpens learning.",
+      "catalan": "La teva atenció, afila l'aprenentatge.",
+      "transliteration": "La teva atencio, afila l'aprenentatge.",
+      "category": "Strength",
+      "generated_at": "2026-08-28T21:45:40.250923"
+    },
+    {
+      "english": "Discover your power, bit by bit.",
+      "catalan": "Descobreix el teu poder, mica en mica.",
+      "transliteration": "Descobreix el teu poder, mica en mica.",
+      "category": "Strength",
+      "generated_at": "2026-08-28T21:45:40.250932"
+    },
+    {
+      "english": "Embrace the mistakes, they teach.",
+      "catalan": "Abraça les errades, ensenyen.",
+      "transliteration": "Abraça les errades, ensenyen.",
+      "category": "Strength",
+      "generated_at": "2026-08-28T21:45:40.250934"
+    },
+    {
+      "english": "A curious mind, finds wonders.",
+      "catalan": "Una ment curiosa, troba meravelles.",
+      "transliteration": "Una ment curiosa, troba meravelles.",
+      "category": "Strength",
+      "generated_at": "2026-08-28T21:45:40.250935"
+    },
+    {
+      "english": "Each success, a small victory.",
+      "catalan": "Cada èxit, una petita victòria.",
+      "transliteration": "Cada èxit, una petita victòria.",
+      "category": "Strength",
+      "generated_at": "2026-08-28T21:45:40.250936"
     }
   ],
-  "last_updated": "2026-08-28T08:50:45.295922"
+  "last_updated": "2026-08-28T21:45:40.250937"
 }
