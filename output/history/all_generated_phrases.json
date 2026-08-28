@@ -11059,7 +11059,42 @@
       "transliteration": "Un moment feliç, aquí.",
       "category": "Joy",
       "generated_at": "2026-08-27T23:27:38.055611"
+    },
+    {
+      "english": "Feeling a little blue, today.",
+      "catalan": "Una mica trist, avui.",
+      "transliteration": "oo-nah mee-kah treehst, ow-vee",
+      "category": "Feelings",
+      "generated_at": "2026-08-28T01:20:54.981030"
+    },
+    {
+      "english": "Totally drained, honestly.",
+      "catalan": "Sot de forces, sincerament.",
+      "transliteration": "soht deh for-sehs, see-neh-rah-men",
+      "category": "Feelings",
+      "generated_at": "2026-08-28T01:20:54.981039"
+    },
+    {
+      "english": "Genuinely thrilled, you know.",
+      "catalan": "Veritablement eufòric, saps.",
+      "transliteration": "veh-ree-tah-bleh-men eh-oo-foh-reek, sahp",
+      "category": "Feelings",
+      "generated_at": "2026-08-28T01:20:54.981041"
+    },
+    {
+      "english": "A touch anxious, right now.",
+      "catalan": "Una mica neguitós, ara mateix.",
+      "transliteration": "oo-nah mee-kah neh-gwee-tohs, ah-rah mah-teysh",
+      "category": "Feelings",
+      "generated_at": "2026-08-28T01:20:54.981042"
+    },
+    {
+      "english": "Feeling quite fidgety, today.",
+      "catalan": "Em sento bastant inquiet, avui.",
+      "transliteration": "em sen-toh bahs-tahnt een-kee-eht, ow-vee",
+      "category": "Feelings",
+      "generated_at": "2026-08-28T01:20:54.981043"
     }
   ],
-  "last_updated": "2026-08-27T23:27:38.055613"
+  "last_updated": "2026-08-28T01:20:54.981045"
 }
