@@ -11444,7 +11444,42 @@
       "transliteration": "El meu port segur, ets tu.",
       "category": "Friendship",
       "generated_at": "2026-08-29T19:38:18.875256"
+    },
+    {
+      "english": "Ocean blue, deep and vast.",
+      "catalan": "Blau oceà, profund i vast.",
+      "transliteration": "Blau o-the-an, pro-fund ee vast.",
+      "category": "Colors",
+      "generated_at": "2026-08-29T22:04:14.608639"
+    },
+    {
+      "english": "Fire red, a bold stroke.",
+      "catalan": "Vermell foc, traç audaç.",
+      "transliteration": "Ver-mel-l foch, tra-ch ow-dach.",
+      "category": "Colors",
+      "generated_at": "2026-08-29T22:04:14.608648"
+    },
+    {
+      "english": "Forest green, secrets held.",
+      "catalan": "Verd bosc, secrets guardats.",
+      "transliteration": "Verd bo-sk, se-crets gar-dats.",
+      "category": "Colors",
+      "generated_at": "2026-08-29T22:04:14.608650"
+    },
+    {
+      "english": "Sun's gold, warm embrace.",
+      "catalan": "Or del sol, abraç càlid.",
+      "transliteration": "Or del sol, a-brach ca-leed.",
+      "category": "Colors",
+      "generated_at": "2026-08-29T22:04:14.608651"
+    },
+    {
+      "english": "Night's velvet, softest dark.",
+      "catalan": "Vellut nit, fosc suau.",
+      "transliteration": "Vel-loot neet, fo-sk su-aw.",
+      "category": "Colors",
+      "generated_at": "2026-08-29T22:04:14.608653"
     }
   ],
-  "last_updated": "2026-08-29T19:38:18.875257"
+  "last_updated": "2026-08-29T22:04:14.608654"
 }
