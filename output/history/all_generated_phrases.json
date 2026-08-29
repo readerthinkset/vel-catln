@@ -11234,7 +11234,42 @@
       "transliteration": "Patates fregides cruixents, un classic.",
       "category": "Food",
       "generated_at": "2026-08-28T23:21:37.064983"
+    },
+    {
+      "english": "The bear, ambles through the forest.",
+      "catalan": "L'ós, camina pel bosc.",
+      "transliteration": "L'os, camina pel bosk.",
+      "category": "Animals",
+      "generated_at": "2026-08-29T00:53:20.410094"
+    },
+    {
+      "english": "A fox, sneaks near the chickens.",
+      "catalan": "Una guineu, s'esmuny prop dels pollastres.",
+      "transliteration": "Una gwinew, s'esmuny prop dels pollatsres.",
+      "category": "Animals",
+      "generated_at": "2026-08-29T00:53:20.410105"
+    },
+    {
+      "english": "The sheep, graze in the meadow.",
+      "catalan": "Les ovelles, pasturen al prat.",
+      "transliteration": "Les ovelyes, pasturen al prat.",
+      "category": "Animals",
+      "generated_at": "2026-08-29T00:53:20.410107"
+    },
+    {
+      "english": "A pig, roots in the mud.",
+      "catalan": "Un porc, futa al fang.",
+      "transliteration": "Un pork, futa al fang.",
+      "category": "Animals",
+      "generated_at": "2026-08-29T00:53:20.410108"
+    },
+    {
+      "english": "The duck, paddles on the lake.",
+      "catalan": "L'ànec, navega pel llac.",
+      "transliteration": "L'anek, navega pel yak.",
+      "category": "Animals",
+      "generated_at": "2026-08-29T00:53:20.410109"
     }
   ],
-  "last_updated": "2026-08-28T23:21:37.064984"
+  "last_updated": "2026-08-29T00:53:20.410111"
 }
