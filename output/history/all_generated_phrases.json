@@ -11619,7 +11619,42 @@
       "transliteration": "A-vui, l'o-por-tu-ni-TAT a-RRI-ba.",
       "category": "Time",
       "generated_at": "2026-08-30T19:40:01.406814"
+    },
+    {
+      "english": "Listen to the music, repeat the phrase.",
+      "catalan": "Escolta la música, repeteix la frase.",
+      "transliteration": "Es-KO-lta la MOO-zi-ka, re-PE-teix la FRA-se.",
+      "category": "Directions",
+      "generated_at": "2026-08-30T22:11:10.218405"
+    },
+    {
+      "english": "See the object, say its function.",
+      "catalan": "Mira l'objecte, digues la seva funció.",
+      "transliteration": "MEE-ra l'ob-JEK-te, DEE-ges la SE-va fun-SYO.",
+      "category": "Directions",
+      "generated_at": "2026-08-30T22:11:10.218416"
+    },
+    {
+      "english": "Read the sentence, feel the emotion.",
+      "catalan": "Llegeix la frase, sent la emoció.",
+      "transliteration": "LLE-jeix la FRA-se, SENT la e-mo-SYO.",
+      "category": "Directions",
+      "generated_at": "2026-08-30T22:11:10.218417"
+    },
+    {
+      "english": "Guess the meaning, then check.",
+      "catalan": "Endevina el significat, després comprova.",
+      "transliteration": "En-de-VEE-na el sig-ni-fi-KAT, des-PRES kom-PRO-va.",
+      "category": "Directions",
+      "generated_at": "2026-08-30T22:11:10.218419"
+    },
+    {
+      "english": "Ask a question, get an answer.",
+      "catalan": "Fes una pregunta, obtén una resposta.",
+      "transliteration": "FAS OO-na pre-GOON-ta, ob-TEN OO-na res-POS-ta.",
+      "category": "Directions",
+      "generated_at": "2026-08-30T22:11:10.218420"
     }
   ],
-  "last_updated": "2026-08-30T19:40:01.406816"
+  "last_updated": "2026-08-30T22:11:10.218422"
 }
