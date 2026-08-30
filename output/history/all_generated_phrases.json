@@ -11479,7 +11479,42 @@
       "transliteration": "Vel-loot neet, fo-sk su-aw.",
       "category": "Colors",
       "generated_at": "2026-08-29T22:04:14.608653"
+    },
+    {
+      "english": "Help me, please, quickly.",
+      "catalan": "Ajudeu-me, si us plau, ràpid.",
+      "transliteration": "Ah-yoo-deh-meh, see-oos-plow, rah-peed.",
+      "category": "Emergency",
+      "generated_at": "2026-08-30T03:23:10.565087"
+    },
+    {
+      "english": "I need, a safe place, now.",
+      "catalan": "Necessito, un lloc segur, ara.",
+      "transliteration": "Neh-seh-see-toh, oon yawk seh-goor, ah-rah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-30T03:23:10.565098"
+    },
+    {
+      "english": "Is there, a police station, nearby?",
+      "catalan": "Hi ha, una comissaria, a prop?",
+      "transliteration": "Hee ah, oo-nah koh-mee-sah-ree-ah, ah prop?",
+      "category": "Emergency",
+      "generated_at": "2026-08-30T03:23:10.565099"
+    },
+    {
+      "english": "My money, is all gone.",
+      "catalan": "Els meus diners, han desaparegut.",
+      "transliteration": "Els mays dee-nehs, hahn deh-sah-pah-reh-sgoo.",
+      "category": "Emergency",
+      "generated_at": "2026-08-30T03:23:10.565101"
+    },
+    {
+      "english": "I feel, very unwell, today.",
+      "catalan": "Em sento, molt malament, avui.",
+      "transliteration": "Em sen-toh, molt mah-lah-ment, ah-voo-ee.",
+      "category": "Emergency",
+      "generated_at": "2026-08-30T03:23:10.565102"
     }
   ],
-  "last_updated": "2026-08-29T22:04:14.608654"
+  "last_updated": "2026-08-30T03:23:10.565104"
 }
