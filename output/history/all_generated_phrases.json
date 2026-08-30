@@ -11584,7 +11584,42 @@
       "transliteration": "Cada so, una porta nova.",
       "category": "Success",
       "generated_at": "2026-08-30T17:52:25.180640"
+    },
+    {
+      "english": "The present, holds everything.",
+      "catalan": "El present, ho conté tot.",
+      "transliteration": "El pre-SEN-t, ho con-TÉ tot.",
+      "category": "Time",
+      "generated_at": "2026-08-30T19:40:01.406803"
+    },
+    {
+      "english": "Now, is the perfect moment.",
+      "catalan": "Ara, és el moment perfecte.",
+      "transliteration": "A-ra, és el mo-MEN-t per-FEC-te.",
+      "category": "Time",
+      "generated_at": "2026-08-30T19:40:01.406810"
+    },
+    {
+      "english": "Just a breath, then onward.",
+      "catalan": "Només un alè, després endavant.",
+      "transliteration": "No-MÈS un a-LÈ, des-PRÈS en-da-VANT.",
+      "category": "Time",
+      "generated_at": "2026-08-30T19:40:01.406812"
+    },
+    {
+      "english": "Time flows, like a river.",
+      "catalan": "El temps flueix, com un riu.",
+      "transliteration": "El TEMPS flu-EIX, com un riu.",
+      "category": "Time",
+      "generated_at": "2026-08-30T19:40:01.406813"
+    },
+    {
+      "english": "Soon, the chance arrives.",
+      "catalan": "Avui, l'oportunitat arriba.",
+      "transliteration": "A-vui, l'o-por-tu-ni-TAT a-RRI-ba.",
+      "category": "Time",
+      "generated_at": "2026-08-30T19:40:01.406814"
     }
   ],
-  "last_updated": "2026-08-30T17:52:25.180642"
+  "last_updated": "2026-08-30T19:40:01.406816"
 }
