@@ -12109,7 +12109,42 @@
       "transliteration": "Refinem, el proces.",
       "category": "Work",
       "generated_at": "2026-09-02T19:38:57.654015"
+    },
+    {
+      "english": "My mother, she guides me.",
+      "catalan": "La meva mare, em guia.",
+      "transliteration": "La meva mare, em guia.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-02T22:04:12.196099"
+    },
+    {
+      "english": "My father, a steady hand.",
+      "catalan": "El meu pare, mà ferma.",
+      "transliteration": "El meu pare, mà ferma.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-02T22:04:12.196111"
+    },
+    {
+      "english": "My sister, my mirror.",
+      "catalan": "La meva germana, el meu mirall.",
+      "transliteration": "La meva germana, el meu mirall.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-02T22:04:12.196113"
+    },
+    {
+      "english": "My brother, always surprising.",
+      "catalan": "El meu germà, sorprèn sempre.",
+      "transliteration": "El meu germà, sorprèn sempre.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-02T22:04:12.196114"
+    },
+    {
+      "english": "Grandparents, the heart of home.",
+      "catalan": "Els avis, cor de la llar.",
+      "transliteration": "Els avis, cor de la llar.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-02T22:04:12.196115"
     }
   ],
-  "last_updated": "2026-09-02T19:38:57.654017"
+  "last_updated": "2026-09-02T22:04:12.196117"
 }
