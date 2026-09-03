@@ -12144,7 +12144,42 @@
       "transliteration": "Els avis, cor de la llar.",
       "category": "Family Terms",
       "generated_at": "2026-09-02T22:04:12.196115"
+    },
+    {
+      "english": "The olives, are superb.",
+      "catalan": "Les olives, són excel·lents.",
+      "transliteration": "Les o-leevs, son ek-seh-len-ts.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-03T02:46:12.154871"
+    },
+    {
+      "english": "This cheese, has a bite.",
+      "catalan": "Aquest formatge, té caràcter.",
+      "transliteration": "Ah-kest for-mat-jeh, teh ka-rak-ter.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-03T02:46:12.154879"
+    },
+    {
+      "english": "May I have, the local bread?",
+      "catalan": "Em porta, el pa d'aquí?",
+      "transliteration": "Em por-ta, el pa da-kee?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-03T02:46:12.154881"
+    },
+    {
+      "english": "I'm curious, about this sauce.",
+      "catalan": "Tinc curiositat, per aquesta salsa.",
+      "transliteration": "Tink koo-ree-oh-see-tat, per ah-kest sal-sa.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-03T02:46:12.154882"
+    },
+    {
+      "english": "Can we have, some more wine?",
+      "catalan": "Podem tenir, més vi?",
+      "transliteration": "Po-dem teh-neer, mehs vee?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-03T02:46:12.154883"
     }
   ],
-  "last_updated": "2026-09-02T22:04:12.196117"
+  "last_updated": "2026-09-03T02:46:12.154885"
 }
