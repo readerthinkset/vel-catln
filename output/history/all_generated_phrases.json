@@ -12319,7 +12319,42 @@
       "transliteration": "oo-nah mah soo-AH-oo, et poh(t) ahl-SAHR",
       "category": "Hope",
       "generated_at": "2026-09-03T21:57:44.025248"
+    },
+    {
+      "english": "Sweet honey, golden drizzle.",
+      "catalan": "Mel dolça, ruixada daurada.",
+      "transliteration": "Mel dol-sa, rui-xa-da dau-ra-da.",
+      "category": "Food",
+      "generated_at": "2026-09-04T02:43:26.898283"
+    },
+    {
+      "english": "Tangy lemon, a bright zest.",
+      "catalan": "Llimona àcida, ratlladura viva.",
+      "transliteration": "Lli-mo-na à-ci-da, rat-lla-du-ra vi-va.",
+      "category": "Food",
+      "generated_at": "2026-09-04T02:43:26.898292"
+    },
+    {
+      "english": "Smoky paprika, a deep color.",
+      "catalan": "Pebrina fumada, color intens.",
+      "transliteration": "Pe-bri-na fu-ma-da, co-lor in-tens.",
+      "category": "Food",
+      "generated_at": "2026-09-04T02:43:26.898294"
+    },
+    {
+      "english": "Chewy caramel, sweet indulgence.",
+      "catalan": "Caramel mastegable, dolç plaer.",
+      "transliteration": "Ca-ra-mel mas-te-ga-ble, dolç pla-er.",
+      "category": "Food",
+      "generated_at": "2026-09-04T02:43:26.898295"
+    },
+    {
+      "english": "Salty olives, Mediterranean bite.",
+      "catalan": "Olives salades, toc mediterrani.",
+      "transliteration": "O-li-ves sa-la-des, toc medi-te-rra-ni.",
+      "category": "Food",
+      "generated_at": "2026-09-04T02:43:26.898297"
     }
   ],
-  "last_updated": "2026-09-03T21:57:44.025250"
+  "last_updated": "2026-09-04T02:43:26.898298"
 }
