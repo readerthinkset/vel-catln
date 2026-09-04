@@ -12354,7 +12354,42 @@
       "transliteration": "O-li-ves sa-la-des, toc medi-te-rra-ni.",
       "category": "Food",
       "generated_at": "2026-09-04T02:43:26.898297"
+    },
+    {
+      "english": "Sunlight peeks, through the blinds.",
+      "catalan": "La llum del sol, s'esquitlla per les persianes.",
+      "transliteration": "La lyum del sol, ses-quit-l-ya per les per-si-a-nes.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-04T15:50:11.750778"
+    },
+    {
+      "english": "A gentle stretch, then arise.",
+      "catalan": "Un estirament suau, i m'aixeco.",
+      "transliteration": "Un es-ti-ra-ment su-a-u, i m'ai-xe-co.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-04T15:50:11.750789"
+    },
+    {
+      "english": "Cool water, on my face.",
+      "catalan": "Aigua fresca, a la cara.",
+      "transliteration": "Ai-gua fres-ca, a la ca-ra.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-04T15:50:11.750790"
+    },
+    {
+      "english": "Clothes laid out, ready now.",
+      "catalan": "La roba estesa, ja preparada.",
+      "transliteration": "La ro-ba es-te-sa, ya pre-pa-ra-da.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-04T15:50:11.750794"
+    },
+    {
+      "english": "First coffee, a warm hug.",
+      "catalan": "Primer cafè, una abraçada calenta.",
+      "transliteration": "Pri-mer ca-fè, u-na a-bra-ça-da ca-len-ta.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-04T15:50:11.750796"
     }
   ],
-  "last_updated": "2026-09-04T02:43:26.898298"
+  "last_updated": "2026-09-04T15:50:11.750798"
 }
