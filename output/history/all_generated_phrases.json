@@ -12564,7 +12564,42 @@
       "transliteration": "La quietud parla, escolta atentament.",
       "category": "Balance",
       "generated_at": "2026-09-05T14:40:15.444482"
+    },
+    {
+      "english": "A chilly wind, whispers secrets.",
+      "catalan": "Un vent fred, xiuxiueja secrets.",
+      "transliteration": "oon vent fret, choo-shee-oo-eh-jah sek-rets",
+      "category": "Weather",
+      "generated_at": "2026-09-05T16:28:03.549072"
+    },
+    {
+      "english": "Sudden downpour, caught me out.",
+      "catalan": "Un aiguat sobtat, em va agafar.",
+      "transliteration": "oon ai-goo-at sobt-at, em vah ah-gah-r",
+      "category": "Weather",
+      "generated_at": "2026-09-05T16:28:03.549081"
+    },
+    {
+      "english": "The sun, a golden disc.",
+      "catalan": "El sol, un disc daurat.",
+      "transliteration": "el sol, oon deesk dow-rat",
+      "category": "Weather",
+      "generated_at": "2026-09-05T16:28:03.549082"
+    },
+    {
+      "english": "Heavy clouds, promise rain.",
+      "catalan": "Núvols espessos, prometen pluja.",
+      "transliteration": "noo-voos es-pes-soos, pro-met-en ploo-jah",
+      "category": "Weather",
+      "generated_at": "2026-09-05T16:28:03.549084"
+    },
+    {
+      "english": "Air feels humid, sticky.",
+      "catalan": "L'aire se sent humit, enganxós.",
+      "transliteration": "l'ai-reh seh sent oo-meet, en-gan-shos",
+      "category": "Weather",
+      "generated_at": "2026-09-05T16:28:03.549085"
     }
   ],
-  "last_updated": "2026-09-05T14:40:15.444484"
+  "last_updated": "2026-09-05T16:28:03.549087"
 }
