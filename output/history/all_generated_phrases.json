@@ -13054,7 +13054,42 @@
       "transliteration": "Es-teek pen-sahn, en ah-shoh pehr ah oon reh-gahll.",
       "category": "Shopping",
       "generated_at": "2026-09-08T19:45:49.815695"
+    },
+    {
+      "english": "A solitary cloud, drifts by.",
+      "catalan": "Un núvol solitari, passa.",
+      "transliteration": "Oon noovol solitari, passa.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:05:23.665697"
+    },
+    {
+      "english": "Two quiet whispers, shared secrets.",
+      "catalan": "Dos murmuris discrets, secrets.",
+      "transliteration": "Dos murmooris discrèts, secrèts.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:05:23.665708"
+    },
+    {
+      "english": "Three tiny seeds, planted deep.",
+      "catalan": "Tres llavors petites, ben posades.",
+      "transliteration": "Très llavors petites, ben posades.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:05:23.665710"
+    },
+    {
+      "english": "Four gentle waves, touch the shore.",
+      "catalan": "Quatre onades suaus, arriben.",
+      "transliteration": "Quàtre onades suaus, arriben.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:05:23.665711"
+    },
+    {
+      "english": "Just five steps, to the door.",
+      "catalan": "Només cinc passes, fins a la porta.",
+      "transliteration": "Nomès cinc pàsses, fins a la porta.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:05:23.665712"
     }
   ],
-  "last_updated": "2026-09-08T19:45:49.815697"
+  "last_updated": "2026-09-08T22:05:23.665714"
 }
