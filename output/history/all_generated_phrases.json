@@ -13369,7 +13369,42 @@
       "transliteration": "Ah-sah-boh-REISH els mah-TEE-soos, del kah-tah-LAH.",
       "category": "Growth",
       "generated_at": "2026-09-10T19:28:56.789755"
+    },
+    {
+      "english": "Sunbeams, paint the hills.",
+      "catalan": "Ressos de sol, pinten els turons.",
+      "transliteration": "Re-sos deh sol, pin-ten els tu-rons.",
+      "category": "Weather",
+      "generated_at": "2026-09-10T22:01:51.823556"
+    },
+    {
+      "english": "A whisper of wind, stirs the lake.",
+      "catalan": "Un murmuri de vent, mou el llac.",
+      "transliteration": "Un mur-mu-ri deh vent, mow el yak.",
+      "category": "Weather",
+      "generated_at": "2026-09-10T22:01:51.823564"
+    },
+    {
+      "english": "Sky, a canvas of grey.",
+      "catalan": "El cel, una tela grisenca.",
+      "transliteration": "El sel, u-na te-la gri-sen-ka.",
+      "category": "Weather",
+      "generated_at": "2026-09-10T22:01:51.823566"
+    },
+    {
+      "english": "Raindrops, tap on the pane.",
+      "catalan": "Gotetes de pluja, piquen el vidre.",
+      "transliteration": "Go-te-tes deh plu-ja, pi-ken el vi-dre.",
+      "category": "Weather",
+      "generated_at": "2026-09-10T22:01:51.823567"
+    },
+    {
+      "english": "Distant thunder, a low growl.",
+      "catalan": "Trompada llunyana, un rugit baix.",
+      "transliteration": "Trom-pa-da lun-ya-na, un ru-jit bakh.",
+      "category": "Weather",
+      "generated_at": "2026-09-10T22:01:51.823568"
     }
   ],
-  "last_updated": "2026-09-10T19:28:56.789757"
+  "last_updated": "2026-09-10T22:01:51.823570"
 }
