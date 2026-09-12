@@ -13614,7 +13614,42 @@
       "transliteration": "La meva companyia preferida, sempre.",
       "category": "Friendship",
       "generated_at": "2026-09-12T02:56:35.674007"
+    },
+    {
+      "english": "You complete, my puzzle.",
+      "catalan": "Completes, el meu trencaclosques.",
+      "transliteration": "kompletes, el meu trenkaklozkkes.",
+      "category": "Relationships",
+      "generated_at": "2026-09-12T15:04:04.790518"
+    },
+    {
+      "english": "A kindred spirit, found.",
+      "catalan": "Un esperit afí, trobat.",
+      "transliteration": "un es'peRit afi, trobat.",
+      "category": "Relationships",
+      "generated_at": "2026-09-12T15:04:04.790526"
+    },
+    {
+      "english": "My rock, my strength.",
+      "catalan": "La meva roca, la meva força.",
+      "transliteration": "la meva roka, la meva for'sa.",
+      "category": "Relationships",
+      "generated_at": "2026-09-12T15:04:04.790527"
+    },
+    {
+      "english": "We navigate, this journey.",
+      "catalan": "Naveguem, aquest viatge.",
+      "transliteration": "naveguem, aquest viat'dge.",
+      "category": "Relationships",
+      "generated_at": "2026-09-12T15:04:04.790529"
+    },
+    {
+      "english": "A shared adventure, begun.",
+      "catalan": "Una aventura compartida, començada.",
+      "transliteration": "una aventura kompartida, komen'sada.",
+      "category": "Relationships",
+      "generated_at": "2026-09-12T15:04:04.790530"
     }
   ],
-  "last_updated": "2026-09-12T02:56:35.674009"
+  "last_updated": "2026-09-12T15:04:04.790531"
 }
