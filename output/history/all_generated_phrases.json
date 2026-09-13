@@ -13824,7 +13824,42 @@
       "transliteration": "La me-va sa-ma-rre-ta in-for-mal, te un di-buix es-trany.",
       "category": "Clothes",
       "generated_at": "2026-09-13T15:41:37.173779"
+    },
+    {
+      "english": "Hello, beautiful morning.",
+      "catalan": "Bon dia, bonica.  Un matí.",
+      "transliteration": "Bon dee-ah, bo-nee-kah.  Oon mah-tee.",
+      "category": "Travel",
+      "generated_at": "2026-09-13T17:11:34.693294"
+    },
+    {
+      "english": "Where is the market?",
+      "catalan": "On és, el mercat?",
+      "transliteration": "On ehs, el mer-kahd?",
+      "category": "Travel",
+      "generated_at": "2026-09-13T17:11:34.693304"
+    },
+    {
+      "english": "This view, incredible.",
+      "catalan": "Aquesta vista, increïble.",
+      "transliteration": "Ah-kes-tah vees-tah, een-kreh-ee-bleh.",
+      "category": "Travel",
+      "generated_at": "2026-09-13T17:11:34.693306"
+    },
+    {
+      "english": "I need a map, please.",
+      "catalan": "Necessito un mapa, si us plau.",
+      "transliteration": "Neh-seh-see-toh oon mah-pah, see oos plah-oo.",
+      "category": "Travel",
+      "generated_at": "2026-09-13T17:11:34.693307"
+    },
+    {
+      "english": "What is that building?",
+      "catalan": "Què és, aquell edifici?",
+      "transliteration": "Keh ehs, ah-kel eh-dee-fees-ee?",
+      "category": "Travel",
+      "generated_at": "2026-09-13T17:11:34.693308"
     }
   ],
-  "last_updated": "2026-09-13T15:41:37.173781"
+  "last_updated": "2026-09-13T17:11:34.693309"
 }
