@@ -13964,7 +13964,42 @@
       "transliteration": "A-kest co-lor, es pre-see-os.",
       "category": "Shopping",
       "generated_at": "2026-09-14T03:10:01.240048"
+    },
+    {
+      "english": "Sun on your face, Catalan in your ears.",
+      "catalan": "Sol a la cara, català a les orelles.",
+      "transliteration": "Sol a la cara, català a les orelles.",
+      "category": "Success",
+      "generated_at": "2026-09-14T17:48:04.856898"
+    },
+    {
+      "english": "New words, new horizons, open up.",
+      "catalan": "Noves paraules, nous horitzons, s'obren.",
+      "transliteration": "Noves paraules, nous horitzons, s'obren.",
+      "category": "Success",
+      "generated_at": "2026-09-14T17:48:04.856911"
+    },
+    {
+      "english": "Listen to the rhythm, join the dance.",
+      "catalan": "Escolta el ritme, uneix-te a la dansa.",
+      "transliteration": "Escolta el ritme, uneix-te a la dansa.",
+      "category": "Success",
+      "generated_at": "2026-09-14T17:48:04.856913"
+    },
+    {
+      "english": "A small phrase, a big connection.",
+      "catalan": "Una frase petita, una gran connexió.",
+      "transliteration": "Una frase petita, una gran connexió.",
+      "category": "Success",
+      "generated_at": "2026-09-14T17:48:04.856914"
+    },
+    {
+      "english": "Feel the pulse, of the language.",
+      "catalan": "Sent el pols, de la llengua.",
+      "transliteration": "Sent el pols, de la llengua.",
+      "category": "Success",
+      "generated_at": "2026-09-14T17:48:04.856915"
     }
   ],
-  "last_updated": "2026-09-14T03:10:01.240050"
+  "last_updated": "2026-09-14T17:48:04.856917"
 }
