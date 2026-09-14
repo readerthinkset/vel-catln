@@ -13999,7 +13999,42 @@
       "transliteration": "Sent el pols, de la llengua.",
       "category": "Success",
       "generated_at": "2026-09-14T17:48:04.856915"
+    },
+    {
+      "english": "Sunlight warm, on your face.",
+      "catalan": "Sol calent, a la cara.",
+      "transliteration": "sol ka-lent, a la ka-ra",
+      "category": "Health",
+      "generated_at": "2026-09-14T18:58:56.736860"
+    },
+    {
+      "english": "A good book, quiet time.",
+      "catalan": "Un bon llibre, temps tranquil.",
+      "transliteration": "un bon lli-bre, temps tran-kil",
+      "category": "Health",
+      "generated_at": "2026-09-14T18:58:56.736868"
+    },
+    {
+      "english": "Walk by the sea, feel free.",
+      "catalan": "Camina al mar, sent-te lliure.",
+      "transliteration": "ka-mi-na al mar, sent-te lli-bre",
+      "category": "Health",
+      "generated_at": "2026-09-14T18:58:56.736869"
+    },
+    {
+      "english": "Taste the moment, slowly.",
+      "catalan": "Tasta el moment, a poc a poc.",
+      "transliteration": "tas-ta el mo-ment, a po-ka po-ka",
+      "category": "Health",
+      "generated_at": "2026-09-14T18:58:56.736871"
+    },
+    {
+      "english": "Listen to birds, sing along.",
+      "catalan": "Escolta els ocells, canta amb ells.",
+      "transliteration": "es-kol-ta els o-sels, kan-ta amb els",
+      "category": "Health",
+      "generated_at": "2026-09-14T18:58:56.736872"
     }
   ],
-  "last_updated": "2026-09-14T17:48:04.856917"
+  "last_updated": "2026-09-14T18:58:56.736874"
 }
