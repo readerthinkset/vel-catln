@@ -14174,7 +14174,42 @@
       "transliteration": "Tro-ba el teu cen-tre, des-pres mou.",
       "category": "Balance",
       "generated_at": "2026-09-15T20:03:48.922382"
+    },
+    {
+      "english": "A quiet corner, to think.",
+      "catalan": "Un racó tranquil, per pensar.",
+      "transliteration": "oon rah-koo trank-eel, per pen-sah",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-15T22:30:04.341043"
+    },
+    {
+      "english": "This flavor, surprising.",
+      "catalan": "Aquest gust, sorprenent.",
+      "transliteration": "ah-kest goost, sor-pren-ent",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-15T22:30:04.341051"
+    },
+    {
+      "english": "Let's try this, together.",
+      "catalan": "Anem a provar-ho, junts.",
+      "transliteration": "ah-nem ah pro-vah-roh, joonts",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-15T22:30:04.341052"
+    },
+    {
+      "english": "The market, so lively.",
+      "catalan": "El mercat, tan viu.",
+      "transliteration": "el mer-kat, tan veev",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-15T22:30:04.341053"
+    },
+    {
+      "english": "A moment, of peace.",
+      "catalan": "Un moment, de pau.",
+      "transliteration": "oon mo-ment, de pow",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-15T22:30:04.341054"
     }
   ],
-  "last_updated": "2026-09-15T20:03:48.922383"
+  "last_updated": "2026-09-15T22:30:04.341056"
 }
