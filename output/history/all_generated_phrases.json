@@ -14279,7 +14279,42 @@
       "transliteration": "cap a sees, pot-ser set o-res",
       "category": "Numbers",
       "generated_at": "2026-09-16T16:14:00.518933"
+    },
+    {
+      "english": "Uh oh, my shoelace, it snapped.",
+      "catalan": "Ai ai, el cordó, s'ha trencat.",
+      "transliteration": "Ai ai, el cor-don, s'ha tren-cat.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T17:54:36.054082"
+    },
+    {
+      "english": "This, smell, is strange.",
+      "catalan": "Aquest, olor, és estrany.",
+      "transliteration": "A-quest, o-lor, és es-trany.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T17:54:36.054092"
+    },
+    {
+      "english": "My, umbrella, flew away.",
+      "catalan": "El meu, paraigua, va volar.",
+      "transliteration": "El meu, pa-ra-i-gua, va vo-lar.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T17:54:36.054094"
+    },
+    {
+      "english": "The, bus, just left.",
+      "catalan": "L'autobús, acaba de marxar.",
+      "transliteration": "L'au-to-bus, a-ca-ba de mar-xar.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T17:54:36.054095"
+    },
+    {
+      "english": "I, think, I'm locked out.",
+      "catalan": "Crec, que estic tancat fora.",
+      "transliteration": "Crec, que es-tic tan-cat fo-ra.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T17:54:36.054096"
     }
   ],
-  "last_updated": "2026-09-16T16:14:00.518935"
+  "last_updated": "2026-09-16T17:54:36.054097"
 }
