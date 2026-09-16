@@ -14244,7 +14244,42 @@
       "transliteration": "Despesa saavia, moments felisoss.",
       "category": "Finance",
       "generated_at": "2026-09-16T03:08:41.398817"
+    },
+    {
+      "english": "One, small step, for mankind.",
+      "catalan": "Un, petit pas, per la humanitat.",
+      "transliteration": "oon, pe-deet pas, per la oo-ma-nee-tat",
+      "category": "Numbers",
+      "generated_at": "2026-09-16T16:14:00.518921"
+    },
+    {
+      "english": "Two hands, to hold me.",
+      "catalan": "Dues mans, per abraçar-me.",
+      "transliteration": "doo-es mans, per a-bra-sar-me",
+      "category": "Numbers",
+      "generated_at": "2026-09-16T16:14:00.518929"
+    },
+    {
+      "english": "Three coins, in the fountain.",
+      "catalan": "Tres monedes, a la font.",
+      "transliteration": "tress mo-ne-des, a la font",
+      "category": "Numbers",
+      "generated_at": "2026-09-16T16:14:00.518931"
+    },
+    {
+      "english": "Four corners, of the room.",
+      "catalan": "Quatre cantons, de l'habitació.",
+      "transliteration": "qua-tre can-tons, de la-bee-ta-see-o",
+      "category": "Numbers",
+      "generated_at": "2026-09-16T16:14:00.518932"
+    },
+    {
+      "english": "About six, maybe seven hours.",
+      "catalan": "Cap a sis, potser set hores.",
+      "transliteration": "cap a sees, pot-ser set o-res",
+      "category": "Numbers",
+      "generated_at": "2026-09-16T16:14:00.518933"
     }
   ],
-  "last_updated": "2026-09-16T03:08:41.398819"
+  "last_updated": "2026-09-16T16:14:00.518935"
 }
