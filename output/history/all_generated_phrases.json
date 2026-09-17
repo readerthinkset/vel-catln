@@ -14384,7 +14384,42 @@
       "transliteration": "Ke l'empàtia, ens guiyi.",
       "category": "Forgiveness",
       "generated_at": "2026-09-16T22:26:29.441546"
+    },
+    {
+      "english": "Sky blue, a clear horizon.",
+      "catalan": "Cel blau, un horitzó clar.",
+      "transliteration": "Sel blau, un oritso clar.",
+      "category": "Colors",
+      "generated_at": "2026-09-17T03:12:32.412582"
+    },
+    {
+      "english": "Ocean teal, a hidden depth.",
+      "catalan": "Teal marí, una profunditat oculta.",
+      "transliteration": "Teal marí, una profunditat oculta.",
+      "category": "Colors",
+      "generated_at": "2026-09-17T03:12:32.412592"
+    },
+    {
+      "english": "Sunstone orange, a warm glow.",
+      "catalan": "Taronja pedra solar, un caliu suau.",
+      "transliteration": "Taronja pedra solar, un caliu suau.",
+      "category": "Colors",
+      "generated_at": "2026-09-17T03:12:32.412594"
+    },
+    {
+      "english": "Emerald green, ancient wisdom.",
+      "catalan": "Verd maragda, saviesa antiga.",
+      "transliteration": "Verd maragda, saviesa antiga.",
+      "category": "Colors",
+      "generated_at": "2026-09-17T03:12:32.412595"
+    },
+    {
+      "english": "Ruby red, a passionate heart.",
+      "catalan": "Vermell robí, un cor apassionat.",
+      "transliteration": "Vermell robí, un cor apassionat.",
+      "category": "Colors",
+      "generated_at": "2026-09-17T03:12:32.412596"
     }
   ],
-  "last_updated": "2026-09-16T22:26:29.441548"
+  "last_updated": "2026-09-17T03:12:32.412598"
 }
