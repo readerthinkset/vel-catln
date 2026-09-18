@@ -14664,7 +14664,42 @@
       "transliteration": "Estel lunyà, llum que guia.",
       "category": "Common Expressions",
       "generated_at": "2026-09-18T19:28:28.173768"
+    },
+    {
+      "english": "Sky, a soft pastel hue.",
+      "catalan": "El cel, un to suau pastel.",
+      "transliteration": "El sel, un toh soo-ah pahs-tel.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T21:59:41.283058"
+    },
+    {
+      "english": "Sunlight, dappling through leaves.",
+      "catalan": "La llum del sol, filtrant entre fulles.",
+      "transliteration": "La lum del sol, feel-tran-ting en-tre foo-lyes.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T21:59:41.283069"
+    },
+    {
+      "english": "Air, smells of wet earth.",
+      "catalan": "L'aire, fa olor de terra mullada.",
+      "transliteration": "L'ay-reh, fah oh-lor de teh-rah moo-lyah-dah.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T21:59:41.283070"
+    },
+    {
+      "english": "Clouds, like fluffy cotton balls.",
+      "catalan": "Els núvols, com cotó fluix.",
+      "transliteration": "Els noo-vohls, kom koh-toh floo-eesh.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T21:59:41.283072"
+    },
+    {
+      "english": "A cool mist, embraces the valley.",
+      "catalan": "Una boira fresca, abraça la vall.",
+      "transliteration": "Oo-nah boh-ee-rah fres-kah, ah-brah-sah lah vah-ly.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T21:59:41.283073"
     }
   ],
-  "last_updated": "2026-09-18T19:28:28.173770"
+  "last_updated": "2026-09-18T21:59:41.283075"
 }
