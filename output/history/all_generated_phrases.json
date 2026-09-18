@@ -14594,7 +14594,42 @@
       "transliteration": "En-ge-ga la com-pren-si-ó, es-col-tant.",
       "category": "Purpose",
       "generated_at": "2026-09-18T15:54:51.339177"
+    },
+    {
+      "english": "The tiny sparrow, chirps a welcome.",
+      "catalan": "La menuda passerella, piula un benvingut.",
+      "transliteration": "La me-nu-da pas-se-rel-la, pi-u-la un ben-ving-ut.",
+      "category": "Animals",
+      "generated_at": "2026-09-18T17:25:28.711545"
+    },
+    {
+      "english": "A sleepy sloth, hangs upside down.",
+      "catalan": "Un esllavissat adormit, penja cap per avall.",
+      "transliteration": "Un es-la-vi-ssat a-dor-mit, pen-ja cap per a-vall.",
+      "category": "Animals",
+      "generated_at": "2026-09-18T17:25:28.711558"
+    },
+    {
+      "english": "The majestic eagle, soars on currents.",
+      "catalan": "La majestuosa àguila, s'enlaire sobre corrents.",
+      "transliteration": "La ma-jes-tu-o-sa À-gui-la, s'en-lai-re so-bre co-rrents.",
+      "category": "Animals",
+      "generated_at": "2026-09-18T17:25:28.711560"
+    },
+    {
+      "english": "A shy hedgehog, curls into a ball.",
+      "catalan": "Una eriçó tímida, es fa una bola.",
+      "transliteration": "U-na e-ri-çó tí-mi-da, es fa u-na bo-la.",
+      "category": "Animals",
+      "generated_at": "2026-09-18T17:25:28.711562"
+    },
+    {
+      "english": "The wise old tortoise, takes its time.",
+      "catalan": "La savia tortuga vella, es pren el seu temps.",
+      "transliteration": "La sa-vi-a tor-tu-ga vel-la, es pren el seu temps.",
+      "category": "Animals",
+      "generated_at": "2026-09-18T17:25:28.711563"
     }
   ],
-  "last_updated": "2026-09-18T15:54:51.339179"
+  "last_updated": "2026-09-18T17:25:28.711565"
 }
