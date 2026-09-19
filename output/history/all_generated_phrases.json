@@ -14769,7 +14769,42 @@
       "transliteration": "Els ah-vees, oo-na ah-brah-sa-da de re-cords.",
       "category": "Family Terms",
       "generated_at": "2026-09-19T15:26:47.957355"
+    },
+    {
+      "english": "This sauce, has such depth.",
+      "catalan": "Aquesta salsa, té molta profunditat.",
+      "transliteration": "Ah-KESS-tah SAHL-sah, teh MOL-tah pro-foon-dee-TAHT.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-19T16:58:30.261975"
+    },
+    {
+      "english": "The spices, are perfectly balanced.",
+      "catalan": "Les espècies, estan molt equilibrades.",
+      "transliteration": "Lehs ess-PEH-see-ehs, ehs-TAHN MOLT eh-kee-lee-BRAH-dehs.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-19T16:58:30.261983"
+    },
+    {
+      "english": "I'm intrigued, by this dish.",
+      "catalan": "M'intriga, aquest plat.",
+      "transliteration": "Meen-TREE-gah, ah-KEST PLAHT.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-19T16:58:30.261985"
+    },
+    {
+      "english": "Can you recommend, a dessert?",
+      "catalan": "Em recomanes, un postre?",
+      "transliteration": "Em reh-koh-MAH-nehs, oon POS-treh?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-19T16:58:30.261986"
+    },
+    {
+      "english": "This bread, is wonderfully crusty.",
+      "catalan": "Aquest pa, és meravellosament cruixent.",
+      "transliteration": "Ah-KEST PAH, ehs meh-rah-veh-YOH-sah-mehnt kroo-SHENT.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-19T16:58:30.261988"
     }
   ],
-  "last_updated": "2026-09-19T15:26:47.957356"
+  "last_updated": "2026-09-19T16:58:30.261989"
 }
