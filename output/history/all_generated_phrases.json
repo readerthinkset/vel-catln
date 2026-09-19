@@ -14804,7 +14804,42 @@
       "transliteration": "Ah-KEST PAH, ehs meh-rah-veh-YOH-sah-mehnt kroo-SHENT.",
       "category": "Restaurant",
       "generated_at": "2026-09-19T16:58:30.261988"
+    },
+    {
+      "english": "Silent mountain, watches us.",
+      "catalan": "Muntanya silenciosa, ens mira.",
+      "transliteration": "Moo-n-TA-n-ya si-len-SI-o-sa, ens MEE-ra.",
+      "category": "Nature",
+      "generated_at": "2026-09-19T19:13:38.436342"
+    },
+    {
+      "english": "River flows, smooth stones.",
+      "catalan": "Riu corre, pedres llises.",
+      "transliteration": "Ree-oo KOR-re, PE-dres LLEE-ses.",
+      "category": "Nature",
+      "generated_at": "2026-09-19T19:13:38.436355"
+    },
+    {
+      "english": "Ancient tree, whispers secrets.",
+      "catalan": "Arbre antic, xiuxiueja secrets.",
+      "transliteration": "AR-bre an-TEEK, choo-choo-EH-ja se-KRETS.",
+      "category": "Nature",
+      "generated_at": "2026-09-19T19:13:38.436357"
+    },
+    {
+      "english": "Golden sunbeam, warms the path.",
+      "catalan": "Biga de sol daurada, escalfa camí.",
+      "transliteration": "BEE-ga de sol dau-RA-da, es-KAL-fa ka-MEE.",
+      "category": "Nature",
+      "generated_at": "2026-09-19T19:13:38.436358"
+    },
+    {
+      "english": "Night sky, holds distant worlds.",
+      "catalan": "Cel nocturn, guarda mons llunyans.",
+      "transliteration": "Sel nok-TOORN, GWAR-da mons lyoo-NYANS.",
+      "category": "Nature",
+      "generated_at": "2026-09-19T19:13:38.436359"
     }
   ],
-  "last_updated": "2026-09-19T16:58:30.261989"
+  "last_updated": "2026-09-19T19:13:38.436361"
 }
