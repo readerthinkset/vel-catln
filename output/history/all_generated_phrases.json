@@ -15364,7 +15364,42 @@
       "transliteration": "Bus-koh, oo-na mee-ka, deen-spee-ra-see-oh.",
       "category": "Shopping",
       "generated_at": "2026-09-22T22:28:19.963901"
+    },
+    {
+      "english": "A distant bell, tolls softly.",
+      "catalan": "Una campana llunyana, sona suau.",
+      "transliteration": "Oo-nah kam-PAH-nah lyoo-YAH-nah, SOH-nah soo-AH-oo.",
+      "category": "Travel",
+      "generated_at": "2026-09-23T03:06:44.319144"
+    },
+    {
+      "english": "Let's taste, the local honey.",
+      "catalan": "Provem, la mel autèntica.",
+      "transliteration": "Proh-VEHM, lah mehl ow-TEN-tee-kah.",
+      "category": "Travel",
+      "generated_at": "2026-09-23T03:06:44.319155"
+    },
+    {
+      "english": "These colourful shutters, invite curiosity.",
+      "catalan": "Aquests porticons vius, criden la curiositat.",
+      "transliteration": "Ah-KESTS por-tee-KONS VEE-oos, KREE-ahn lah koo-ree-oh-see-TAT.",
+      "category": "Travel",
+      "generated_at": "2026-09-23T03:06:44.319157"
+    },
+    {
+      "english": "The mountain mist, slowly lifts.",
+      "catalan": "La boira de muntanya, s'aixeca a poc a poc.",
+      "transliteration": "Lah BOY-rah deh moon-TAH-nyah, sa-i-SHEH-kah ah POK ah POK.",
+      "category": "Travel",
+      "generated_at": "2026-09-23T03:06:44.319158"
+    },
+    {
+      "english": "A small boat, bobs on the tide.",
+      "catalan": "Un petit vaixell, gronxa amb la marea.",
+      "transliteration": "Oon peh-TEET vah-SHEHL, GRON-shah amb lah mah-REH-ah.",
+      "category": "Travel",
+      "generated_at": "2026-09-23T03:06:44.319160"
     }
   ],
-  "last_updated": "2026-09-22T22:28:19.963902"
+  "last_updated": "2026-09-23T03:06:44.319161"
 }
