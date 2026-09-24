@@ -15574,7 +15574,42 @@
       "transliteration": "Planta una paraula, mira-la créixer.",
       "category": "Purpose",
       "generated_at": "2026-09-24T02:58:09.461509"
+    },
+    {
+      "english": "Dawn's whisper, quiet hope.",
+      "catalan": "El murmuri de l'alba, esperança serena.",
+      "transliteration": "El mur-mur-ri de l'al-ba, es-pe-ran-ça se-re-na.",
+      "category": "Time",
+      "generated_at": "2026-09-24T16:35:13.628064"
+    },
+    {
+      "english": "Sun climbs high, world awakens.",
+      "catalan": "El sol puja, el món desperta.",
+      "transliteration": "El sol pu-ja, el món des-per-ta.",
+      "category": "Time",
+      "generated_at": "2026-09-24T16:35:13.628076"
+    },
+    {
+      "english": "Afternoon stretches, slow moments.",
+      "catalan": "La tarda s'allarga, moments lents.",
+      "transliteration": "La tar-da s'al-lar-ga, mo-ments lents.",
+      "category": "Time",
+      "generated_at": "2026-09-24T16:35:13.628078"
+    },
+    {
+      "english": "Twilight hues, softly fading.",
+      "catalan": "Els tons del crepuscle, s'esvaeixen suaument.",
+      "transliteration": "Els tons del cre-pus-cle, s'es-va-ei-xen sua-u-ment.",
+      "category": "Time",
+      "generated_at": "2026-09-24T16:35:13.628079"
+    },
+    {
+      "english": "Midnight descends, a hushed world.",
+      "catalan": "La mitjanit cau, un món silenciós.",
+      "transliteration": "La mit-ja-nit cau, un món si-len-ci-ós.",
+      "category": "Time",
+      "generated_at": "2026-09-24T16:35:13.628080"
     }
   ],
-  "last_updated": "2026-09-24T02:58:09.461511"
+  "last_updated": "2026-09-24T16:35:13.628081"
 }
