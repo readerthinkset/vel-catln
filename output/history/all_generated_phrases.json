@@ -15644,7 +15644,42 @@
       "transliteration": "deh-see-see-ons lyes-tes, im-pak-te doo-ra-dor",
       "category": "Finance",
       "generated_at": "2026-09-24T18:06:58.348463"
+    },
+    {
+      "english": "What, a lovely spot, this is.",
+      "catalan": "Quin lloc, tan bonic, aquest.",
+      "transliteration": "Keen loch, tahn boh-neek, ah-kest.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-24T20:17:51.394075"
+    },
+    {
+      "english": "This, tastes like home, somehow.",
+      "catalan": "Això, sap a casa, d'alguna manera.",
+      "transliteration": "Ay-shoh, sah ah kah-sah, dah-goo-nah mah-neh-rah.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-24T20:17:51.394086"
+    },
+    {
+      "english": "Is the paella, made with passion?",
+      "catalan": "La paella, està feta, amb passió?",
+      "transliteration": "Lah pah-eh-yah, eh-stah feh-tah, ahm pah-ssee-oh?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-24T20:17:51.394088"
+    },
+    {
+      "english": "I'm just, taking it all, in.",
+      "catalan": "Només estic, absorvint-ho, tot.",
+      "transliteration": "Noh-mesh eh-steek, ahb-sor-veen-toh, toht.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-24T20:17:51.394089"
+    },
+    {
+      "english": "This, has a delightful, kick.",
+      "catalan": "Això, té un toc, deliciós.",
+      "transliteration": "Ay-shoh, teh oon tohck, deh-lee-see-ohs.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-24T20:17:51.394090"
     }
   ],
-  "last_updated": "2026-09-24T18:06:58.348465"
+  "last_updated": "2026-09-24T20:17:51.394092"
 }
