@@ -15609,7 +15609,42 @@
       "transliteration": "La mit-ja-nit cau, un món si-len-ci-ós.",
       "category": "Time",
       "generated_at": "2026-09-24T16:35:13.628080"
+    },
+    {
+      "english": "Wealth, grows from seeds.",
+      "catalan": "La riquesa, neix de llavors.",
+      "transliteration": "la ree-kes-a, nehsh deh ya-vors",
+      "category": "Finance",
+      "generated_at": "2026-09-24T18:06:58.348446"
+    },
+    {
+      "english": "Future, starts with today.",
+      "catalan": "El futur, comença avui.",
+      "transliteration": "el foo-toor, ko-men-sa o-vee",
+      "category": "Finance",
+      "generated_at": "2026-09-24T18:06:58.348460"
+    },
+    {
+      "english": "Money, a wise tool.",
+      "catalan": "Els diners, una eina sàvia.",
+      "transliteration": "els dee-nehs, oo-na eh-ee-na sa-bee-a",
+      "category": "Finance",
+      "generated_at": "2026-09-24T18:06:58.348461"
+    },
+    {
+      "english": "Grow your funds, patiently.",
+      "catalan": "Creix els fons, amb paciència.",
+      "transliteration": "creysh els fons, am pa-see-en-see-a",
+      "category": "Finance",
+      "generated_at": "2026-09-24T18:06:58.348462"
+    },
+    {
+      "english": "Smart choices, lasting impact.",
+      "catalan": "Decisions llestes, impacte durador.",
+      "transliteration": "deh-see-see-ons lyes-tes, im-pak-te doo-ra-dor",
+      "category": "Finance",
+      "generated_at": "2026-09-24T18:06:58.348463"
     }
   ],
-  "last_updated": "2026-09-24T16:35:13.628081"
+  "last_updated": "2026-09-24T18:06:58.348465"
 }
