@@ -15784,7 +15784,42 @@
       "transliteration": "El MEW tur-MYELL, sem-BLAH OO-nah MEE-kah FEH-bleh.",
       "category": "Body Parts",
       "generated_at": "2026-09-25T16:39:31.427283"
+    },
+    {
+      "english": "This jacket, is surprisingly warm.",
+      "catalan": "Aquesta jaqueta, abrigall molt.",
+      "transliteration": "A-yes-ta zha-keh-ta, a-bree-gal molt.",
+      "category": "Clothes",
+      "generated_at": "2026-09-25T18:11:05.695071"
+    },
+    {
+      "english": "Her dress, has a lovely flow.",
+      "catalan": "El seu vestit, té un moviment bonic.",
+      "transliteration": "El say-oo ves-teet, teh oon mo-vee-men bo-neek.",
+      "category": "Clothes",
+      "generated_at": "2026-09-25T18:11:05.695081"
+    },
+    {
+      "english": "These trousers, fit just right.",
+      "catalan": "Aquests pantalons, queden perfectes.",
+      "transliteration": "A-kests pan-ta-lons, keh-den per-fek-tes.",
+      "category": "Clothes",
+      "generated_at": "2026-09-25T18:11:05.695082"
+    },
+    {
+      "english": "My favourite jumper, is so soft.",
+      "catalan": "El meu jersei preferit, és tan suau.",
+      "transliteration": "El may-oo zher-say preh-feh-reet, es tan soo-ah.",
+      "category": "Clothes",
+      "generated_at": "2026-09-25T18:11:05.695083"
+    },
+    {
+      "english": "That coat, keeps out the wind.",
+      "catalan": "Aquell abric, tapa del vent.",
+      "transliteration": "A-kel a-breek, ta-pa del vent.",
+      "category": "Clothes",
+      "generated_at": "2026-09-25T18:11:05.695084"
     }
   ],
-  "last_updated": "2026-09-25T16:39:31.427285"
+  "last_updated": "2026-09-25T18:11:05.695086"
 }
