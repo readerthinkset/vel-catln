@@ -15959,7 +15959,42 @@
       "transliteration": "PAHR-la llee-oo-reh-MENT, TROH-va la TEH-va veh-oo",
       "category": "Growth",
       "generated_at": "2026-09-26T15:53:04.730774"
+    },
+    {
+      "english": "Ah, hola, what a surprise!",
+      "catalan": "Ah, hola, quina sorpresa!",
+      "transliteration": "Ah, 'ola, 'kina sor'presa!",
+      "category": "Greetings",
+      "generated_at": "2026-09-26T17:33:55.403272"
+    },
+    {
+      "english": "Bon dia, lovely to meet you.",
+      "catalan": "Bon dia, encantat de conèixer-te.",
+      "transliteration": "Bon 'dia, encan'tat de conèixer'te.",
+      "category": "Greetings",
+      "generated_at": "2026-09-26T17:33:55.403281"
+    },
+    {
+      "english": "Welcome, welcome, come right in.",
+      "catalan": "Benvingut, benvingut, entra ja.",
+      "transliteration": "Ben'vingut, ben'vingut, 'entra 'ja.",
+      "category": "Greetings",
+      "generated_at": "2026-09-26T17:33:55.403283"
+    },
+    {
+      "english": "Hola, hope your day is good.",
+      "catalan": "Hola, espero que el teu dia vagi bé.",
+      "transliteration": "'Ola, es'pero que el teu 'dia 'vagi 'bé.",
+      "category": "Greetings",
+      "generated_at": "2026-09-26T17:33:55.403284"
+    },
+    {
+      "english": "So, you're here! Fantastic.",
+      "catalan": "Doncs, ja ets aquí! Fantàstic.",
+      "transliteration": "Dons, 'ja ets a'quí! Fan'tàstic.",
+      "category": "Greetings",
+      "generated_at": "2026-09-26T17:33:55.403286"
     }
   ],
-  "last_updated": "2026-09-26T15:53:04.730776"
+  "last_updated": "2026-09-26T17:33:55.403287"
 }
