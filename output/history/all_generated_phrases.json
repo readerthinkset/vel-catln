@@ -16274,7 +16274,42 @@
       "transliteration": "L'aire, sembla ben viu.",
       "category": "Weather",
       "generated_at": "2026-09-28T19:19:38.457098"
+    },
+    {
+      "english": "Think of lemon yellow, bright and cheerful.",
+      "catalan": "Pensa en groc de llimona, lluminós i alegre.",
+      "transliteration": "Pensa en groc de llimona, lluminós i alegre.",
+      "category": "Colors",
+      "generated_at": "2026-11-10T08:27:57.784460"
+    },
+    {
+      "english": "This is cream white, soft and warm.",
+      "catalan": "Això és blanc crema, suau i càlid.",
+      "transliteration": "Això és blanc crema, suau i càlid.",
+      "category": "Colors",
+      "generated_at": "2026-11-10T08:27:57.784476"
+    },
+    {
+      "english": "I love the light honey color.",
+      "catalan": "M'encanta el color mel clar.",
+      "transliteration": "M'encanta el color mel clar.",
+      "category": "Colors",
+      "generated_at": "2026-11-10T08:27:57.784479"
+    },
+    {
+      "english": "That soft pink feels calm and gentle.",
+      "catalan": "Aquest rosa suau em sembla tranquil i tendre.",
+      "transliteration": "Aquest rosa suau em sembla tranquil i tendre.",
+      "category": "Colors",
+      "generated_at": "2026-11-10T08:27:57.784480"
+    },
+    {
+      "english": "The light gray looks clean and modern.",
+      "catalan": "El gris clar es veu net i modern.",
+      "transliteration": "El gris clar es veu net i modern.",
+      "category": "Colors",
+      "generated_at": "2026-11-10T08:27:57.784482"
     }
   ],
-  "last_updated": "2026-09-28T19:19:38.457100"
+  "last_updated": "2026-11-10T08:27:57.784485"
 }
