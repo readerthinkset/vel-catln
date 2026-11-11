@@ -16484,7 +16484,42 @@
       "transliteration": "Aguanta fins a les deu, i marxem.",
       "category": "Time",
       "generated_at": "2026-11-11T04:51:11.105075"
+    },
+    {
+      "english": "Budget today, breathe easier tomorrow.",
+      "catalan": "Fes pressupost avui, respira més tranquil demà.",
+      "transliteration": "Fəs pressu'post avui, re'spira més tran-qil dema.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T19:28:43.674060"
+    },
+    {
+      "english": "Check your bills, avoid nasty surprises.",
+      "catalan": "Revisa les factures, evita sorpreses desagradables.",
+      "transliteration": "Re'vișa les fa'ktu-res, e'vīta sor'pre-ses desagra'da-bles.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T19:28:43.674072"
+    },
+    {
+      "english": "Save first, then spend what remains.",
+      "catalan": "Estalvia primer, i després gasta el que queda.",
+      "transliteration": "əs-ta'via pri-mer, i des-prés 'gas-ta el que 'que-da.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T19:28:43.674074"
+    },
+    {
+      "english": "Pay yourself, even in small amounts.",
+      "catalan": "Paga’t a tu mateix, encara que sigui poc.",
+      "transliteration": "Pa'ga't a tu ma-teix, en-ca-ra que si'gui pok.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T19:28:43.674075"
+    },
+    {
+      "english": "Watch interest rates before you sign.",
+      "catalan": "Mira el tipus d’interès abans de signar.",
+      "transliteration": "Mi-ra el 'ti-pus din-te-rès a'ns de si'ñar.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T19:28:43.674076"
     }
   ],
-  "last_updated": "2026-11-11T04:51:11.105076"
+  "last_updated": "2026-11-11T19:28:43.674078"
 }
