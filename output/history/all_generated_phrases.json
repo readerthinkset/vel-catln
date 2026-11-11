@@ -16449,7 +16449,42 @@
       "transliteration": "Hi ha des-comp-te a-ques-ta set-ma-na?",
       "category": "Shopping",
       "generated_at": "2026-11-11T00:29:01.616091"
+    },
+    {
+      "english": "Right now, let's begin calmly.",
+      "catalan": "Ara mateix, comencem amb calma.",
+      "transliteration": "Ara mateix, començem amb calma.",
+      "category": "Time",
+      "generated_at": "2026-11-11T04:51:11.105058"
+    },
+    {
+      "english": "In five minutes, call me back.",
+      "catalan": "En cinc minuts, truca'm de nou.",
+      "transliteration": "En cinc minuts, truca'm de nou.",
+      "category": "Time",
+      "generated_at": "2026-11-11T04:51:11.105069"
+    },
+    {
+      "english": "At seven, we'll meet by the station.",
+      "catalan": "A les set, ens veurem a l'estació.",
+      "transliteration": "A les set, ens veurem a l'estació.",
+      "category": "Time",
+      "generated_at": "2026-11-11T04:51:11.105071"
+    },
+    {
+      "english": "It's almost noon, don't be late.",
+      "catalan": "És gairebé migdia, no arribis tard.",
+      "transliteration": "És gairebé migdia, no arribis tard.",
+      "category": "Time",
+      "generated_at": "2026-11-11T04:51:11.105073"
+    },
+    {
+      "english": "Wait until ten, then we go.",
+      "catalan": "Aguanta fins a les deu, i marxem.",
+      "transliteration": "Aguanta fins a les deu, i marxem.",
+      "category": "Time",
+      "generated_at": "2026-11-11T04:51:11.105075"
     }
   ],
-  "last_updated": "2026-11-11T00:29:01.616093"
+  "last_updated": "2026-11-11T04:51:11.105076"
 }
