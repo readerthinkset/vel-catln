@@ -16414,7 +16414,42 @@
       "transliteration": "ca-mi-na a pok a pok, pel ba-ri an-tik",
       "category": "Culture",
       "generated_at": "2026-11-10T22:03:59.645843"
+    },
+    {
+      "english": "Do you have this in black?",
+      "catalan": "Teniu això en negre, sisplau?",
+      "transliteration": "Te-niu ai-xò en ne-gre, sis-plau?",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T00:29:01.616073"
+    },
+    {
+      "english": "What sizes are available for this?",
+      "catalan": "Quines mides tenen per a això?",
+      "transliteration": "Qui-nes mi-des te-nen per a ai-xò?",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T00:29:01.616086"
+    },
+    {
+      "english": "Do you sell gift cards here?",
+      "catalan": "Veneu targetes regal aquí?",
+      "transliteration": "Ve-neu tar-ge-tes re-gal a-qui?",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T00:29:01.616088"
+    },
+    {
+      "english": "Can I see it in person?",
+      "catalan": "Em podries ensenyar-ho en persona?",
+      "transliteration": "Em po-dries en-se-nyar-ho en per-so-na?",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T00:29:01.616090"
+    },
+    {
+      "english": "Is there a discount this week?",
+      "catalan": "Hi ha descompte aquesta setmana?",
+      "transliteration": "Hi ha des-comp-te a-ques-ta set-ma-na?",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T00:29:01.616091"
     }
   ],
-  "last_updated": "2026-11-10T22:03:59.645845"
+  "last_updated": "2026-11-11T00:29:01.616093"
 }
