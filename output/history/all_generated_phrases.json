@@ -16659,7 +16659,42 @@
       "transliteration": "Els errors ajuden, continua.",
       "category": "Confidence",
       "generated_at": "2026-11-12T05:53:05.197800"
+    },
+    {
+      "english": "Send a message, and stay in sync.",
+      "catalan": "Envia un missatge, i mantén-te sincronitzat.",
+      "transliteration": "Envia un mis-satge, i mantén-te si-nkro-nitzat.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:47:09.934707"
+    },
+    {
+      "english": "Charge your phone, before it dies.",
+      "catalan": "Carrega el mòbil, abans no s’apaga.",
+      "transliteration": "Carre-ga el mobíl, an-tes no sapàga.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:47:09.934723"
+    },
+    {
+      "english": "Update apps, for better security.",
+      "catalan": "Actualitza les aplicacions, per tenir més seguretat.",
+      "transliteration": "Ak-tua-lit-za les apli-ka-cions, per te-nir més se-gu-re-tat.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:47:09.934725"
+    },
+    {
+      "english": "Save that file, so you won’t lose it.",
+      "catalan": "Guarda aquest fitxer, perquè no el perdis.",
+      "transliteration": "Guar-da a-quest fit-sxer, per-kè no el perdis.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:47:09.934727"
+    },
+    {
+      "english": "Backup your data, just in case.",
+      "catalan": "Fes una còpia de seguretat, per si de cas.",
+      "transliteration": "Fes u-na cò-pia de se-gu-re-tat, per si de cas.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:47:09.934729"
     }
   ],
-  "last_updated": "2026-11-12T05:53:05.197802"
+  "last_updated": "2026-11-12T19:47:09.934731"
 }
