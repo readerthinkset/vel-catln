@@ -16624,7 +16624,42 @@
       "transliteration": "inHAlo, i em reLAxo de seGUIda",
       "category": "Joy",
       "generated_at": "2026-11-12T01:50:35.422229"
+    },
+    {
+      "english": "You can do it, start small.",
+      "catalan": "Tu ho pots fer, comença petit.",
+      "transliteration": "Tu ho pots fer, comença petit.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T05:53:05.197784"
+    },
+    {
+      "english": "Say it slowly, it's fine.",
+      "catalan": "Digues-ho a poc a poc, va bé.",
+      "transliteration": "Digueu-ho a poc a poc, va bé.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T05:53:05.197796"
+    },
+    {
+      "english": "Relax your jaw, speak clearly.",
+      "catalan": "Relax la mandíbula, parla clar.",
+      "transliteration": "Relax la mandíbula, parla clar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T05:53:05.197798"
+    },
+    {
+      "english": "Answer anyway, you'll learn as you go.",
+      "catalan": "Respon igualment, aprens mentre fas.",
+      "transliteration": "Respon igualment, aprens mentre fas.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T05:53:05.197799"
+    },
+    {
+      "english": "Even mistakes help, keep going.",
+      "catalan": "Els errors ajuden, continua.",
+      "transliteration": "Els errors ajuden, continua.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T05:53:05.197800"
     }
   ],
-  "last_updated": "2026-11-12T01:50:35.422231"
+  "last_updated": "2026-11-12T05:53:05.197802"
 }
