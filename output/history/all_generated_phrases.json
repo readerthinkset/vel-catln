@@ -16764,7 +16764,42 @@
       "transliteration": "Deixa’m abraçar-te ben a prop.",
       "category": "Love",
       "generated_at": "2026-11-12T22:30:57.565977"
+    },
+    {
+      "english": "Hi, how are you today?",
+      "catalan": "Hola, com estàs avui?",
+      "transliteration": "O-la, com es-tàs a-vui?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T00:57:38.331550"
+    },
+    {
+      "english": "I'm looking for the bus stop.",
+      "catalan": "Busco la parada de bus.",
+      "transliteration": "Bus-co la pa-ra-da de bus.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T00:57:38.331562"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "catalan": "On és la farmàcia més propera?",
+      "transliteration": "On és la far-ma-çi-a més pro-pe-ra?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T00:57:38.331564"
+    },
+    {
+      "english": "Do you speak English, please?",
+      "catalan": "Parles anglès, si us plau?",
+      "transliteration": "Par-les an-glès, si us plau?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T00:57:38.331569"
+    },
+    {
+      "english": "I'd like a table for two.",
+      "catalan": "M'agradaria una taula per a dos.",
+      "transliteration": "Ma-gra-da-ri-a u-na tau-la per a dos.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T00:57:38.331570"
     }
   ],
-  "last_updated": "2026-11-12T22:30:57.565992"
+  "last_updated": "2026-11-13T00:57:38.331572"
 }
