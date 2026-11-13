@@ -16799,7 +16799,42 @@
       "transliteration": "Ma-gra-da-ri-a u-na tau-la per a dos.",
       "category": "Basic Phrases",
       "generated_at": "2026-11-13T00:57:38.331570"
+    },
+    {
+      "english": "Start with the first word, now.",
+      "catalan": "Comença amb la primera paraula, ara.",
+      "transliteration": "comenÇa amB la priMera paRAuLa, aRA",
+      "category": "Directions",
+      "generated_at": "2026-11-13T05:14:42.868784"
+    },
+    {
+      "english": "Try again, without rushing, please.",
+      "catalan": "Torna-ho a provar, sense córrer, si us plau.",
+      "transliteration": "TORna-ho a provar, senSe KOrrer, si uS plau",
+      "category": "Directions",
+      "generated_at": "2026-11-13T05:14:42.868801"
+    },
+    {
+      "english": "Make it clearer, a bit more.",
+      "catalan": "Fes-ho més clar, una mica.",
+      "transliteration": "fes-ho més KLaR, uNa miKa",
+      "category": "Directions",
+      "generated_at": "2026-11-13T05:14:42.868803"
+    },
+    {
+      "english": "Say it like you mean it.",
+      "catalan": "Digues-ho com si ho volguessis dir.",
+      "transliteration": "diGues-ho kom si ho volGuesSis dir",
+      "category": "Directions",
+      "generated_at": "2026-11-13T05:14:42.868805"
+    },
+    {
+      "english": "Great, now try the whole sentence.",
+      "catalan": "Molt bé, ara prova tota la frase.",
+      "transliteration": "Molt bé, aRA proVA TOta la fraZe",
+      "category": "Directions",
+      "generated_at": "2026-11-13T05:14:42.868807"
     }
   ],
-  "last_updated": "2026-11-13T00:57:38.331572"
+  "last_updated": "2026-11-13T05:14:42.868810"
 }
