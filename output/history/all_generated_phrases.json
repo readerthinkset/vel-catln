@@ -16834,7 +16834,42 @@
       "transliteration": "Molt bé, aRA proVA TOta la fraZe",
       "category": "Directions",
       "generated_at": "2026-11-13T05:14:42.868807"
+    },
+    {
+      "english": "Drink water regularly, stay energized.",
+      "catalan": "Beu aigua sovint, mantén l'energia.",
+      "transliteration": "beu aigua sovint, manten l'energia",
+      "category": "Health",
+      "generated_at": "2026-11-13T19:29:23.703479"
+    },
+    {
+      "english": "Wash your hands, before meals and after.",
+      "catalan": "Renta't les mans, abans i després.",
+      "transliteration": "renta't les mans, abans i després",
+      "category": "Health",
+      "generated_at": "2026-11-13T19:29:23.703493"
+    },
+    {
+      "english": "Choose fruit, for a lighter snack.",
+      "catalan": "Tria fruita, per un berenar lleuger.",
+      "transliteration": "tria fruita, per un berenar lleuger",
+      "category": "Health",
+      "generated_at": "2026-11-13T19:29:23.703495"
+    },
+    {
+      "english": "Breathe slowly, your body will relax.",
+      "catalan": "Respira lentament, i el teu cos es calma.",
+      "transliteration": "respira lentament, i el teu cos es calma",
+      "category": "Health",
+      "generated_at": "2026-11-13T19:29:23.703497"
+    },
+    {
+      "english": "Stand up straight, feel stronger today.",
+      "catalan": "Erecte dret, avui et sentiràs més fort.",
+      "transliteration": "erecte dret, avui et sentiràs més fort",
+      "category": "Health",
+      "generated_at": "2026-11-13T19:29:23.703498"
     }
   ],
-  "last_updated": "2026-11-13T05:14:42.868810"
+  "last_updated": "2026-11-13T19:29:23.703501"
 }
