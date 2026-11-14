@@ -17114,7 +17114,42 @@
       "transliteration": "quan estic baix, m’aixeques",
       "category": "Friendship",
       "generated_at": "2026-11-14T21:00:59.802282"
+    },
+    {
+      "english": "How much is this ticket, please?",
+      "catalan": "Quant val aquest bitllet, si us plau?",
+      "transliteration": "Quant val aquest bitllet si us plau?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T23:42:45.382106"
+    },
+    {
+      "english": "Does this bus stop near the museum?",
+      "catalan": "Aquest autobús para a prop del museu?",
+      "transliteration": "Aquest autobus para a prop del museu?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T23:42:45.382116"
+    },
+    {
+      "english": "Is there a restroom nearby?",
+      "catalan": "Hi ha un lavabo a prop?",
+      "transliteration": "Hi ha un lavabo a prop?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T23:42:45.382118"
+    },
+    {
+      "english": "Could you help me find this street?",
+      "catalan": "Em pots ajudar a trobar aquest carrer?",
+      "transliteration": "Em pots ajudar a trobar aquest carrer?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T23:42:45.382120"
+    },
+    {
+      "english": "I’d like a table for two, please.",
+      "catalan": "Voldria una taula per a dues persones, si us plau.",
+      "transliteration": "Voldria una taula per a dues persones si us plau.",
+      "category": "Travel",
+      "generated_at": "2026-11-14T23:42:45.382121"
     }
   ],
-  "last_updated": "2026-11-14T21:00:59.802284"
+  "last_updated": "2026-11-14T23:42:45.382123"
 }
