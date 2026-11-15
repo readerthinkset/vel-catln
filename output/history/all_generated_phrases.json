@@ -17254,7 +17254,42 @@
       "transliteration": "Fes servir una paraula nova, en conversa.",
       "category": "Growth",
       "generated_at": "2026-11-15T19:30:03.347860"
+    },
+    {
+      "english": "Hi, do you have a table for two?",
+      "catalan": "Hola, teniu una taula per a dues?",
+      "transliteration": "Hoh-la, te-niu- a u-na tau-la per a du-es?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T21:26:17.464964"
+    },
+    {
+      "english": "What do you recommend for first time here?",
+      "catalan": "Què recomaneu si vingui per primer cop?",
+      "transliteration": "Que re-co-ma-neu si vin-gi per-pri-mer cop?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T21:26:17.464977"
+    },
+    {
+      "english": "Can I have the menu, please?",
+      "catalan": "Em pot portar la carta, si us plau?",
+      "transliteration": "Em pot por-tar la kar-ta, si us plau?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T21:26:17.464979"
+    },
+    {
+      "english": "I’d like something light, not too heavy.",
+      "catalan": "M'agradaria alguna cosa lleugera, no gaire.",
+      "transliteration": "Ma-gra-da-ri-a al-gu-na co-sa lleu-ge-ra, no gai-re.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T21:26:17.464981"
+    },
+    {
+      "english": "Do you serve gluten-free dishes here?",
+      "catalan": "Teniu plats sense gluten, aquí?",
+      "transliteration": "Te-niu plats sen-se glu-ten, a-qui?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T21:26:17.464982"
     }
   ],
-  "last_updated": "2026-11-15T19:30:03.347862"
+  "last_updated": "2026-11-15T21:26:17.464984"
 }
