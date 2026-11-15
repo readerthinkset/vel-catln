@@ -17184,7 +17184,42 @@
       "transliteration": "mi-ra en-da-vant, pe-rò res-pi-ra a poc a poc",
       "category": "Balance",
       "generated_at": "2026-11-15T04:57:21.577909"
+    },
+    {
+      "english": "I need a bigger size, today.",
+      "catalan": "Necessito una talla més gran, avui.",
+      "transliteration": "ne-se-si-to una ta-lla més gran, a-vui",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T18:43:13.210592"
+    },
+    {
+      "english": "Your shirt color really suits you.",
+      "catalan": "El color de la teva camisa et va molt.",
+      "transliteration": "el co-lor de la te-va ca-mi-sa et va molt",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T18:43:13.210604"
+    },
+    {
+      "english": "These socks match my shoes perfectly.",
+      "catalan": "Els meus mitjons combinen perfecte amb les sabates.",
+      "transliteration": "els meus mi-tjons com-bi-nen per-fec-te amb les sa-ba-tes",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T18:43:13.210606"
+    },
+    {
+      "english": "The fabric is light, not scratchy.",
+      "catalan": "La tela és lleugera, no pica.",
+      "transliteration": "la te-la és lleu-ge-ra, no pi-ca",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T18:43:13.210608"
+    },
+    {
+      "english": "Can you pass me that hoodie?",
+      "catalan": "Em passes aquella dessuadora, si us plau?",
+      "transliteration": "em pas-ses a-que-lla de-su-a-do-ra, si us plau",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T18:43:13.210609"
     }
   ],
-  "last_updated": "2026-11-15T04:57:21.577911"
+  "last_updated": "2026-11-15T18:43:13.210611"
 }
