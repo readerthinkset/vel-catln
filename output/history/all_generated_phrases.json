@@ -17394,7 +17394,42 @@
       "transliteration": "te-Niu al-gun-a op-SIO de MAR-ca PRÒ-pia",
       "category": "Shopping",
       "generated_at": "2026-11-16T21:52:52.816171"
+    },
+    {
+      "english": "Inhale, and relax your belly.",
+      "catalan": "Inhala i relaxa la panxa.",
+      "transliteration": "In-ha-la i re-lak-sa la pan-xa",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:05:46.693799"
+    },
+    {
+      "english": "Exhale slowly, let tension go.",
+      "catalan": "Exhala a poc a poc, deixa anar la tensió.",
+      "transliteration": "Ex-ha-la a poc a poc, dei-xa a-nar la ten-sió",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:05:46.693811"
+    },
+    {
+      "english": "Notice your breath, without changing it.",
+      "catalan": "Observa la respiració, sense canviar-la.",
+      "transliteration": "Ob-ser-va la res-pi-ra-ció, sen-se can-vi-ar-la",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:05:46.693813"
+    },
+    {
+      "english": "Feel your back, supported right now.",
+      "catalan": "Sent l’esquena, ben recolzada ara.",
+      "transliteration": "Sent l’es-que-na, ben re-co-lza-da a-ra",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:05:46.693814"
+    },
+    {
+      "english": "Unclench your hands, they can rest.",
+      "catalan": "Desclenxa les mans, poden descansar.",
+      "transliteration": "Des-clen-xa les mans, po-den des-can-sar",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:05:46.693815"
     }
   ],
-  "last_updated": "2026-11-16T21:52:52.816172"
+  "last_updated": "2026-11-16T23:05:46.693817"
 }
