@@ -17359,7 +17359,42 @@
       "transliteration": "Sol a la cara, respiro fons.",
       "category": "Holidays",
       "generated_at": "2026-11-16T04:55:05.016134"
+    },
+    {
+      "english": "I’d like to try something similar.",
+      "catalan": "M’agradaria provar alguna cosa semblant.",
+      "transliteration": "ma-agradaria PROvar al-kuna co-sa SEMblant",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T21:52:52.816155"
+    },
+    {
+      "english": "Where can I find dresses?",
+      "catalan": "On puc trobar vestits?",
+      "transliteration": "ON puK trobar VES-tits",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T21:52:52.816168"
+    },
+    {
+      "english": "Do you have it in my size?",
+      "catalan": "El teniu a la meva talla?",
+      "transliteration": "el te-Niu a la ME-va TA-lla",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T21:52:52.816169"
+    },
+    {
+      "english": "May I touch the material?",
+      "catalan": "Puc tocar el material?",
+      "transliteration": "puk TO-car el ma-te-ri-al",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T21:52:52.816170"
+    },
+    {
+      "english": "Is there a store brand option?",
+      "catalan": "Teniu alguna opció de marca pròpia?",
+      "transliteration": "te-Niu al-gun-a op-SIO de MAR-ca PRÒ-pia",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T21:52:52.816171"
     }
   ],
-  "last_updated": "2026-11-16T04:55:05.016136"
+  "last_updated": "2026-11-16T21:52:52.816172"
 }
