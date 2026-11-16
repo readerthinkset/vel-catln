@@ -17289,7 +17289,42 @@
       "transliteration": "Te-niu plats sen-se glu-ten, a-qui?",
       "category": "Restaurant",
       "generated_at": "2026-11-15T21:26:17.464982"
+    },
+    {
+      "english": "Celebrate with music, clap along, smile.",
+      "catalan": "Celebra amb música, aplaudeix, somriu.",
+      "transliteration": "ce-LE-bra amb MU-si-ka, a-PLAU-deix, som-RIU",
+      "category": "Culture",
+      "generated_at": "2026-11-15T23:50:26.533439"
+    },
+    {
+      "english": "Toast to Catalan nights, share stories.",
+      "catalan": "Fes una copa per nits catalanes, comparteix històries.",
+      "transliteration": "fes u-na KO-pa per NITS ka-ta-la-nes, com-paRTEIX his-TÒ-ries",
+      "category": "Culture",
+      "generated_at": "2026-11-15T23:50:26.533453"
+    },
+    {
+      "english": "Wander markets slowly, try something new.",
+      "catalan": "Ves a passejar pel mercat, prova coses noves.",
+      "transliteration": "ves a pa-se-DJAR pel mer-KAT, pro-va KO-ses NO-ves",
+      "category": "Culture",
+      "generated_at": "2026-11-15T23:50:26.533455"
+    },
+    {
+      "english": "Listen to street chatter, feel the rhythm.",
+      "catalan": "Escolta la xerrameca del carrer, nota el ritme.",
+      "transliteration": "es-KOL-ta la xe-ra-me-ka del kaRER, NO-ta el RIT-me",
+      "category": "Culture",
+      "generated_at": "2026-11-15T23:50:26.533456"
+    },
+    {
+      "english": "Bring home local cheese, taste the difference.",
+      "catalan": "Porta formatge local, nota la diferència.",
+      "transliteration": "POR-ta FOR-mat-je lo-KAL, NO-ta la di-fe-RÈn-ci-a",
+      "category": "Culture",
+      "generated_at": "2026-11-15T23:50:26.533458"
     }
   ],
-  "last_updated": "2026-11-15T21:26:17.464984"
+  "last_updated": "2026-11-15T23:50:26.533460"
 }
