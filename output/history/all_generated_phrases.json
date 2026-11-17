@@ -17499,7 +17499,42 @@
       "transliteration": "tot se sent calent, com una abraçada",
       "category": "Happiness",
       "generated_at": "2026-11-17T02:48:49.285414"
+    },
+    {
+      "english": "Turn it up, just a little.",
+      "catalan": "Puja una mica el volum, si us plau.",
+      "transliteration": "Puja una mica el volum, si us plau.",
+      "category": "Music",
+      "generated_at": "2026-11-17T06:43:22.551693"
+    },
+    {
+      "english": "That melody makes me feel calm.",
+      "catalan": "Aquesta melodia em calma molt.",
+      "transliteration": "Aquesta melodia em calma molt.",
+      "category": "Music",
+      "generated_at": "2026-11-17T06:43:22.551710"
+    },
+    {
+      "english": "I love how the rhythm keeps going.",
+      "catalan": "M’encanta com el ritme no para.",
+      "transliteration": "M’encanta com el ritme no para.",
+      "category": "Music",
+      "generated_at": "2026-11-17T06:43:22.551711"
+    },
+    {
+      "english": "Sing it again, please, from the start.",
+      "catalan": "Canta-ho un altre cop, si us plau.",
+      "transliteration": "Canta-ho un altre cop, si us plau.",
+      "category": "Music",
+      "generated_at": "2026-11-17T06:43:22.551713"
+    },
+    {
+      "english": "Clap once, then wait for the beat.",
+      "catalan": "Aplaudeix una vegada, després espera el ritme.",
+      "transliteration": "Aplaudeix una vegada, després espera el ritme.",
+      "category": "Music",
+      "generated_at": "2026-11-17T06:43:22.551714"
     }
   ],
-  "last_updated": "2026-11-17T02:48:49.285415"
+  "last_updated": "2026-11-17T06:43:22.551716"
 }
