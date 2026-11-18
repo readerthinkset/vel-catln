@@ -17744,7 +17744,42 @@
       "transliteration": "Revisa les despeses, i ajusta suaument.",
       "category": "Finance",
       "generated_at": "2026-11-18T20:19:00.179886"
+    },
+    {
+      "english": "Thank you for being here with me.",
+      "catalan": "Gràcies per ser aquí amb mi.",
+      "transliteration": "GRAH-cies per SER a-kí am mi",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T21:39:58.182602"
+    },
+    {
+      "english": "I appreciate you more than you know.",
+      "catalan": "T'agraeixo molt més del que penses.",
+      "transliteration": "tagrA-eiho MOLt més del que penses",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T21:39:58.182616"
+    },
+    {
+      "english": "Your message gave me comfort today.",
+      "catalan": "El teu missatge m'ha donat consol avui.",
+      "transliteration": "el TEU mis-SATGE em ha do-nat KON-sol a-vui",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T21:39:58.182617"
+    },
+    {
+      "english": "Thanks for listening, it means a lot.",
+      "catalan": "Gràcies per escoltar-me, m'importa molt.",
+      "transliteration": "GRAH-cies per es-kul-TAR-me, m-im-POR-ta molt",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T21:39:58.182618"
+    },
+    {
+      "english": "I’m really grateful for your patience.",
+      "catalan": "De veritat, t'estic agraït per la paciència.",
+      "transliteration": "de ve-ri-TAT, t'es-tic a-grait per la pa-ci-EN-si-a",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T21:39:58.182619"
     }
   ],
-  "last_updated": "2026-11-18T20:19:00.179889"
+  "last_updated": "2026-11-18T21:39:58.182620"
 }
