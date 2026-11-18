@@ -17674,7 +17674,42 @@
       "transliteration": "ves a poc a poc, no pas-sa res",
       "category": "Patience",
       "generated_at": "2026-11-18T02:12:07.790302"
+    },
+    {
+      "english": "How’s it going, today?",
+      "catalan": "Com va tot, avui?",
+      "transliteration": "Com va tot, avui?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-18T06:00:21.209235"
+    },
+    {
+      "english": "I’m on my way now.",
+      "catalan": "Ja vaig de camí ara.",
+      "transliteration": "Ya vaig de camí ara",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-18T06:00:21.209246"
+    },
+    {
+      "english": "Thanks, that helps a lot.",
+      "catalan": "Gràcies, això m’ajuda molt.",
+      "transliteration": "Gra-cies, aixo m'ajuda molt",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-18T06:00:21.209248"
+    },
+    {
+      "english": "No worries, it’s okay.",
+      "catalan": "Tranquil, no passa res.",
+      "transliteration": "Tranquil, no passa res",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-18T06:00:21.209249"
+    },
+    {
+      "english": "Sorry, I didn’t mean that.",
+      "catalan": "Perdó, no era la meva intenció.",
+      "transliteration": "Perdo, no era la meva intencio",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-18T06:00:21.209250"
     }
   ],
-  "last_updated": "2026-11-18T02:12:07.790304"
+  "last_updated": "2026-11-18T06:00:21.209252"
 }
