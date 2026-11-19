@@ -17919,7 +17919,42 @@
       "transliteration": "Man-tén la cu-ri-o-si-tat, les pre-gun-tes a-ju-den",
       "category": "Perseverance",
       "generated_at": "2026-11-19T20:30:02.123421"
+    },
+    {
+      "english": "It’s getting windy outside, I think.",
+      "catalan": "Fa més vent fora, crec.",
+      "transliteration": "fa més vent fora, crec",
+      "category": "Weather",
+      "generated_at": "2026-11-19T22:00:44.817019"
+    },
+    {
+      "english": "The rain started again, just now.",
+      "catalan": "Ha tornat a ploure, ara mateix.",
+      "transliteration": "ha tornat a ploure, ara mateix",
+      "category": "Weather",
+      "generated_at": "2026-11-19T22:00:44.817035"
+    },
+    {
+      "english": "There’s a breeze, cool and steady.",
+      "catalan": "Hi ha una brisa, fresca i constant.",
+      "transliteration": "hi ha una brisa, fresca i constant",
+      "category": "Weather",
+      "generated_at": "2026-11-19T22:00:44.817037"
+    },
+    {
+      "english": "I see dark clouds, but not yet.",
+      "catalan": "Veig núvols foscos, però encara no.",
+      "transliteration": "veig nuvols foscos, pero encara no",
+      "category": "Weather",
+      "generated_at": "2026-11-19T22:00:44.817038"
+    },
+    {
+      "english": "The sun is out, but weak.",
+      "catalan": "El sol surt, però és feble.",
+      "transliteration": "el sol surt, pero es feble",
+      "category": "Weather",
+      "generated_at": "2026-11-19T22:00:44.817039"
     }
   ],
-  "last_updated": "2026-11-19T20:30:02.123424"
+  "last_updated": "2026-11-19T22:00:44.817041"
 }
