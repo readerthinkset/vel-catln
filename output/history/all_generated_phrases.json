@@ -17954,7 +17954,42 @@
       "transliteration": "el sol surt, pero es feble",
       "category": "Weather",
       "generated_at": "2026-11-19T22:00:44.817039"
+    },
+    {
+      "english": "What time is it right now?",
+      "catalan": "Quina hora és ara mateix?",
+      "transliteration": "Kina o-ra es a-ra ma-teix",
+      "category": "Time",
+      "generated_at": "2026-11-19T23:22:04.846446"
+    },
+    {
+      "english": "Tell me the exact time, please.",
+      "catalan": "Digues-me l'hora exacta, si us plau.",
+      "transliteration": "Di-ges-me l'ho-ra ekzak-ta, si us plau",
+      "category": "Time",
+      "generated_at": "2026-11-19T23:22:04.846459"
+    },
+    {
+      "english": "It's getting late, let's go.",
+      "catalan": "Se'ns fa tard, anem-hi.",
+      "transliteration": "Səns fa tard, a-nem-hi",
+      "category": "Time",
+      "generated_at": "2026-11-19T23:22:04.846460"
+    },
+    {
+      "english": "We have time, relax a bit.",
+      "catalan": "Encara tenim temps, relaxa't una mica.",
+      "transliteration": "En-ka-ra te-nim temps, re-lak-sa't u-na mi-ka",
+      "category": "Time",
+      "generated_at": "2026-11-19T23:22:04.846461"
+    },
+    {
+      "english": "I’ll be back in an hour.",
+      "catalan": "Torno en una hora.",
+      "transliteration": "Tor-no en u-na o-ra",
+      "category": "Time",
+      "generated_at": "2026-11-19T23:22:04.846462"
     }
   ],
-  "last_updated": "2026-11-19T22:00:44.817041"
+  "last_updated": "2026-11-19T23:22:04.846464"
 }
