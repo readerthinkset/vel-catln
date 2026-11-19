@@ -17849,7 +17849,42 @@
       "transliteration": "el meu nas, em fa pam-pal-lu-ges amb l’o-lor",
       "category": "Body Parts",
       "generated_at": "2026-11-19T01:46:06.639992"
+    },
+    {
+      "english": "Swipe to refresh your feed, again.",
+      "catalan": "Fes lliscar per actualitzar el teu feed.",
+      "transliteration": "Fes lliscar per actualitzar el teu feed.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T06:01:11.999696"
+    },
+    {
+      "english": "Your phone vibrates, message received.",
+      "catalan": "El telèfon vibra, tens un missatge.",
+      "transliteration": "El telefon vibra, tens un missatge.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T06:01:11.999707"
+    },
+    {
+      "english": "Turn on Bluetooth, pair quickly.",
+      "catalan": "Activa el Bluetooth, vincula ràpidament.",
+      "transliteration": "Activa el Bluetooth, vincula rapidament.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T06:01:11.999709"
+    },
+    {
+      "english": "Set a strong password, protect yourself.",
+      "catalan": "Tria una contrasenya forta, protegeix-te.",
+      "transliteration": "Tria una contrasenya forta, protegeix-te.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T06:01:11.999711"
+    },
+    {
+      "english": "Two-factor login adds an extra shield.",
+      "catalan": "La doble autenticació et dona una capa extra.",
+      "transliteration": "La doble autenticacio et dona una capa extra.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T06:01:11.999712"
     }
   ],
-  "last_updated": "2026-11-19T01:46:06.639994"
+  "last_updated": "2026-11-19T06:01:11.999714"
 }
