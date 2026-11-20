@@ -18094,7 +18094,42 @@
       "transliteration": "pre-gun-ta, i con-ti-nua a-pren-ent",
       "category": "Purpose",
       "generated_at": "2026-11-20T19:53:38.194519"
+    },
+    {
+      "english": "Good morning, how are you today?",
+      "catalan": "Bon dia, com estàs avui?",
+      "transliteration": "bon DI-a, kom eSTAS aVUI?",
+      "category": "Education",
+      "generated_at": "2026-11-20T21:36:39.488376"
+    },
+    {
+      "english": "Please repeat that slowly for me.",
+      "catalan": "Si us plau, repeteix-ho lentament.",
+      "transliteration": "si us PLAU, rePEteig-ho len-ta-MENT",
+      "category": "Education",
+      "generated_at": "2026-11-20T21:36:39.488388"
+    },
+    {
+      "english": "Can you help me with this word?",
+      "catalan": "Em pots ajudar amb aquesta paraula?",
+      "transliteration": "em pots aJUdar amb aques-ta pa-RAU-la?",
+      "category": "Education",
+      "generated_at": "2026-11-20T21:36:39.488390"
+    },
+    {
+      "english": "What does this mean in Catalan?",
+      "catalan": "Què vol dir això en català?",
+      "transliteration": "ke bol dir aSO en ka-ta-LAN",
+      "category": "Education",
+      "generated_at": "2026-11-20T21:36:39.488392"
+    },
+    {
+      "english": "I need this for class today.",
+      "catalan": "Ho necessito per classe avui.",
+      "transliteration": "o ne-ce-Ssi-to per KLAS-sə aVUI",
+      "category": "Education",
+      "generated_at": "2026-11-20T21:36:39.488393"
     }
   ],
-  "last_updated": "2026-11-20T19:53:38.194521"
+  "last_updated": "2026-11-20T21:36:39.488398"
 }
