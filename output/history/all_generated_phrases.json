@@ -18129,7 +18129,42 @@
       "transliteration": "o ne-ce-Ssi-to per KLAS-sə aVUI",
       "category": "Education",
       "generated_at": "2026-11-20T21:36:39.488393"
+    },
+    {
+      "english": "Hello! How’s your day going?",
+      "catalan": "Hola! Com va el teu dia?",
+      "transliteration": "Oh-la! Com va el teu dee-a?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T22:53:13.917745"
+    },
+    {
+      "english": "I’m a bit lost, sorry.",
+      "catalan": "Estic una mica perdut, perdona.",
+      "transliteration": "Eh-stik oo-na mee-ka per-DOOT, per-DO-na.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T22:53:13.917761"
+    },
+    {
+      "english": "Where is the bathroom, please?",
+      "catalan": "On és el lavabo, si us plau?",
+      "transliteration": "On es el la-VA-bo, si oos plau?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T22:53:13.917763"
+    },
+    {
+      "english": "How much does this cost?",
+      "catalan": "Quant costa això?",
+      "transliteration": "Quan KOS-ta a-so?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T22:53:13.917765"
+    },
+    {
+      "english": "I would like water, please.",
+      "catalan": "Voldria aigua, si us plau.",
+      "transliteration": "VOL-dria ai-gua, si oos plau.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T22:53:13.917766"
     }
   ],
-  "last_updated": "2026-11-20T21:36:39.488398"
+  "last_updated": "2026-11-20T22:53:13.917768"
 }
