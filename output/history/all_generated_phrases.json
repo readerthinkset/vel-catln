@@ -18199,7 +18199,42 @@
       "transliteration": "La meva dessuadora amb caputxa és calenta, fins i tot a dins.",
       "category": "Clothes",
       "generated_at": "2026-11-21T01:09:14.161324"
+    },
+    {
+      "english": "Repeat after me, slowly now.",
+      "catalan": "Repiteu després de mi, a poc a poc.",
+      "transliteration": "repee-teu des-pré́s de mee, a pok a pok",
+      "category": "Directions",
+      "generated_at": "2026-11-21T05:45:37.725651"
+    },
+    {
+      "english": "Try it again, with confidence.",
+      "catalan": "Torna-ho a provar, amb confiança.",
+      "transliteration": "tor-na-ho a pro-var, amb kon-fi-an-sa",
+      "category": "Directions",
+      "generated_at": "2026-11-21T05:45:37.725667"
+    },
+    {
+      "english": "Use the same word order.",
+      "catalan": "Mantén l'ordre de les paraules.",
+      "transliteration": "man-ten l'or-dre de les pa-rau-les",
+      "category": "Directions",
+      "generated_at": "2026-11-21T05:45:37.725668"
+    },
+    {
+      "english": "Say it faster, but clear.",
+      "catalan": "Digues-ho més ràpid, però clar.",
+      "transliteration": "digués-ho més ra-pid, pe-rò klar",
+      "category": "Directions",
+      "generated_at": "2026-11-21T05:45:37.725670"
+    },
+    {
+      "english": "Practice the final sound carefully.",
+      "catalan": "Practica el so final amb cura.",
+      "transliteration": "prak-ti-ka el so fi-nal amb ku-ra",
+      "category": "Directions",
+      "generated_at": "2026-11-21T05:45:37.725671"
     }
   ],
-  "last_updated": "2026-11-21T01:09:14.161326"
+  "last_updated": "2026-11-21T05:45:37.725673"
 }
