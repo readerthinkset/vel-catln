@@ -18269,7 +18269,42 @@
       "transliteration": "Una brisa em refreda la cara, ara.",
       "category": "Nature",
       "generated_at": "2026-11-21T18:59:33.588663"
+    },
+    {
+      "english": "I feel calm, like everything will be fine.",
+      "catalan": "Em sento tranquil, com si anés bé.",
+      "transliteration": "Em sento tranki, com si anés bé.",
+      "category": "Feelings",
+      "generated_at": "2026-11-21T20:18:03.516123"
+    },
+    {
+      "english": "Right now, I’m feeling nervous about today.",
+      "catalan": "Ara mateix, em noto nerviós per avui.",
+      "transliteration": "Ara mateix, em noto nerviós per avui.",
+      "category": "Feelings",
+      "generated_at": "2026-11-21T20:18:03.516136"
+    },
+    {
+      "english": "I’m a bit sad, but I’ll manage.",
+      "catalan": "Estic una mica trist, però me’n sortiré.",
+      "transliteration": "Estic una mica trist, però me’n sortiré.",
+      "category": "Feelings",
+      "generated_at": "2026-11-21T20:18:03.516137"
+    },
+    {
+      "english": "Honestly, I feel a little lonely today.",
+      "catalan": "De veritat, em fa una mica de solitud.",
+      "transliteration": "De veritat, em fa una mica de solitud.",
+      "category": "Feelings",
+      "generated_at": "2026-11-21T20:18:03.516138"
+    },
+    {
+      "english": "I feel relieved, that small worry’s gone.",
+      "catalan": "Em sento alleujat, ja ha passat.",
+      "transliteration": "Em sento alleujat, ja ha passat.",
+      "category": "Feelings",
+      "generated_at": "2026-11-21T20:18:03.516139"
     }
   ],
-  "last_updated": "2026-11-21T18:59:33.588665"
+  "last_updated": "2026-11-21T20:18:03.516140"
 }
