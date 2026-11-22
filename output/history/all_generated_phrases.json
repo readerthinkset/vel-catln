@@ -18339,7 +18339,42 @@
       "transliteration": "Digues-te, me'n surto, amb axò",
       "category": "Positive Life",
       "generated_at": "2026-11-21T21:58:14.582523"
+    },
+    {
+      "english": "You’re improving, keep going!",
+      "catalan": "Millores, segueix així!",
+      "transliteration": "mi-YO-ress, se-GEI-sha si.",
+      "category": "Success",
+      "generated_at": "2026-11-22T00:09:06.220056"
+    },
+    {
+      "english": "Nice! Say it again, slowly.",
+      "catalan": "Molt bé! Repiteix-ho, a poc a poc.",
+      "transliteration": "molt BE! re-PET-eish-ho, a POT a POT.",
+      "category": "Success",
+      "generated_at": "2026-11-22T00:09:06.220072"
+    },
+    {
+      "english": "Good job, you understood!",
+      "catalan": "Bona feina, ja t’ho has entès!",
+      "transliteration": "BO-na FE-i-na, ja t’ho has en-TÈS.",
+      "category": "Success",
+      "generated_at": "2026-11-22T00:09:06.220075"
+    },
+    {
+      "english": "Great effort, it will pay off.",
+      "catalan": "Quin esforç, valdrà la pena.",
+      "transliteration": "KIN es-FORç, val-DRA la PE-na.",
+      "category": "Success",
+      "generated_at": "2026-11-22T00:09:06.220076"
+    },
+    {
+      "english": "Practice today, celebrate tomorrow.",
+      "catalan": "Practica avui, celebra demà.",
+      "transliteration": "PRAK-ti-ka a-VUI, se-LE-bra de-MA.",
+      "category": "Success",
+      "generated_at": "2026-11-22T00:09:06.220078"
     }
   ],
-  "last_updated": "2026-11-21T21:58:14.582525"
+  "last_updated": "2026-11-22T00:09:06.220080"
 }
