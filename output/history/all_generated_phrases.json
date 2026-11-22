@@ -18374,7 +18374,42 @@
       "transliteration": "PRAK-ti-ka a-VUI, se-LE-bra de-MA.",
       "category": "Success",
       "generated_at": "2026-11-22T00:09:06.220078"
+    },
+    {
+      "english": "You make me feel at home.",
+      "catalan": "Em fas sentir com a casa.",
+      "transliteration": "Em fas sentir com a casa",
+      "category": "Relationships",
+      "generated_at": "2026-11-22T05:16:00.081996"
+    },
+    {
+      "english": "I trust you with my secrets.",
+      "catalan": "Confio en tu amb els secrets.",
+      "transliteration": "Konfio en tu amb els secrets",
+      "category": "Relationships",
+      "generated_at": "2026-11-22T05:16:00.082016"
+    },
+    {
+      "english": "Thanks for listening, really listening.",
+      "catalan": "Gràcies per escoltar, de veritat.",
+      "transliteration": "Gracies per escoltar, de veritat",
+      "category": "Relationships",
+      "generated_at": "2026-11-22T05:16:00.082019"
+    },
+    {
+      "english": "I’m lucky to have you.",
+      "catalan": "Tinc sort de tenir-te.",
+      "transliteration": "Tinc sort de tenir-te",
+      "category": "Relationships",
+      "generated_at": "2026-11-22T05:16:00.082021"
+    },
+    {
+      "english": "We laugh, even on hard days.",
+      "catalan": "Riurem, fins i tot en dies difícils.",
+      "transliteration": "Riiurem, fins i tot en dies dificils",
+      "category": "Relationships",
+      "generated_at": "2026-11-22T05:16:00.082023"
     }
   ],
-  "last_updated": "2026-11-22T00:09:06.220080"
+  "last_updated": "2026-11-22T05:16:00.082025"
 }
