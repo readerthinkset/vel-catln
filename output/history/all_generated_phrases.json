@@ -18549,7 +18549,42 @@
       "transliteration": "la graTItut em fa somRIuRe més.",
       "category": "Happiness",
       "generated_at": "2026-11-23T00:38:09.095489"
+    },
+    {
+      "english": "I want toast with olive oil.",
+      "catalan": "Vull torrades amb oli d’oliva.",
+      "transliteration": "Vul tor-rà-des amb o-li d’o-li-va",
+      "category": "Food",
+      "generated_at": "2026-11-23T05:54:48.208181"
+    },
+    {
+      "english": "Could I have a glass of water?",
+      "catalan": "Em pot portar un got d’aigua, si us plau?",
+      "transliteration": "Em pot por-tar un got d’ai-gua si us plau",
+      "category": "Food",
+      "generated_at": "2026-11-23T05:54:48.208193"
+    },
+    {
+      "english": "This cheese smells amazing, wow.",
+      "catalan": "Aquest formatge fa una olor impressionant, oi!",
+      "transliteration": "A-quest for-mat-je fa u-na o-lor im-pres-si-o-nant oi",
+      "category": "Food",
+      "generated_at": "2026-11-23T05:54:48.208195"
+    },
+    {
+      "english": "Please, pass me the bread basket.",
+      "catalan": "Passa’m la cistella del pa, si us plau.",
+      "transliteration": "Pas-sa’m la cis-tel-la del pa si us plau",
+      "category": "Food",
+      "generated_at": "2026-11-23T05:54:48.208197"
+    },
+    {
+      "english": "I’m craving something sweet right now.",
+      "catalan": "Ara em ve de gust alguna cosa dolça.",
+      "transliteration": "A-ra em ve de gust al-gu-na co-sa dol-ça",
+      "category": "Food",
+      "generated_at": "2026-11-23T05:54:48.208198"
     }
   ],
-  "last_updated": "2026-11-23T00:38:09.095491"
+  "last_updated": "2026-11-23T05:54:48.208200"
 }
