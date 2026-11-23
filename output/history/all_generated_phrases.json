@@ -18584,7 +18584,42 @@
       "transliteration": "A-ra em ve de gust al-gu-na co-sa dol-ça",
       "category": "Food",
       "generated_at": "2026-11-23T05:54:48.208198"
+    },
+    {
+      "english": "Eat pan con tomàquet, it’s classic.",
+      "catalan": "Menja pa amb tomàquet, és un clàssic.",
+      "transliteration": "Men-jà pa amb to-MA-ke(t), és un KLAS-sic.",
+      "category": "Culture",
+      "generated_at": "2026-11-23T23:42:35.949054"
+    },
+    {
+      "english": "Try a piece of coca today.",
+      "catalan": "Prova un tros de coca avui.",
+      "transliteration": "PRO-va un tros de KO-ka a-VUI.",
+      "category": "Culture",
+      "generated_at": "2026-11-23T23:42:35.949070"
+    },
+    {
+      "english": "Order xocolata desfeta, very tasty.",
+      "catalan": "Demana xocolata desfeta, és molt bona.",
+      "transliteration": "De-MA-na xo-co-LA-ta des-FE-ta, és molt BO-na.",
+      "category": "Culture",
+      "generated_at": "2026-11-23T23:42:35.949072"
+    },
+    {
+      "english": "Ask for formatge tendre, fresh and mild.",
+      "catalan": "Demana formatge tendre, fresc i suau.",
+      "transliteration": "De-MA-na for-MAT-ge TEN-dre, FRESK i SU-au.",
+      "category": "Culture",
+      "generated_at": "2026-11-23T23:42:35.949073"
+    },
+    {
+      "english": "Buy fruit at the corner market.",
+      "catalan": "Compra fruita al mercat del carrer.",
+      "transliteration": "KOM-pra FRU-i-ta al mer-KAT del ka-RER.",
+      "category": "Culture",
+      "generated_at": "2026-11-23T23:42:35.949075"
     }
   ],
-  "last_updated": "2026-11-23T05:54:48.208200"
+  "last_updated": "2026-11-23T23:42:35.949077"
 }
