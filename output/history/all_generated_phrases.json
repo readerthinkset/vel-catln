@@ -18619,7 +18619,42 @@
       "transliteration": "KOM-pra FRU-i-ta al mer-KAT del ka-RER.",
       "category": "Culture",
       "generated_at": "2026-11-23T23:42:35.949075"
+    },
+    {
+      "english": "Do you have vegetarian tapas tonight?",
+      "catalan": "Teniu tapes vegetarianes aquesta nit?",
+      "transliteration": "Teneu tapes vegetarianes aquesta nit?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T01:18:53.457306"
+    },
+    {
+      "english": "Is the paella ready right now?",
+      "catalan": "La paella ja és a punt ara?",
+      "transliteration": "La paella ja és a punt ara?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T01:18:53.457319"
+    },
+    {
+      "english": "Can I get a glass of water?",
+      "catalan": "Em pot servir un got d’aigua, si us plau?",
+      "transliteration": "Em pot servir un got d’aigua, si us plau?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T01:18:53.457321"
+    },
+    {
+      "english": "What is today’s house specialty?",
+      "catalan": "Quina és l’especialitat de casa avui?",
+      "transliteration": "Quina és l’especialitat de casa avui?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T01:18:53.457323"
+    },
+    {
+      "english": "Could we start with shared appetizers?",
+      "catalan": "Podem començar amb entrants per compartir?",
+      "transliteration": "Podem començar amb entrants per compartir?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T01:18:53.457324"
     }
   ],
-  "last_updated": "2026-11-23T23:42:35.949077"
+  "last_updated": "2026-11-24T01:18:53.457326"
 }
