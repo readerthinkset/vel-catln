@@ -18794,7 +18794,42 @@
       "transliteration": "Les me-ves pre-ocu-pa-cions es fan pe-ti-tes.",
       "category": "Joy",
       "generated_at": "2026-11-24T22:14:48.523610"
+    },
+    {
+      "english": "Where is the train station, please?",
+      "catalan": "On és l’estació de tren, si us plau?",
+      "transliteration": "on és l'estació de tren, si us plau?",
+      "category": "Travel",
+      "generated_at": "2026-11-24T23:19:13.841212"
+    },
+    {
+      "english": "What time does it open, today?",
+      "catalan": "A quina hora obre avui?",
+      "transliteration": "a quina hora obre avui?",
+      "category": "Travel",
+      "generated_at": "2026-11-24T23:19:13.841229"
+    },
+    {
+      "english": "I’d like a coffee, without sugar.",
+      "catalan": "Em posaria un cafè, sense sucre.",
+      "transliteration": "em posaria un cafè, sense sucre",
+      "category": "Travel",
+      "generated_at": "2026-11-24T23:19:13.841232"
+    },
+    {
+      "english": "Is there a pharmacy nearby, please?",
+      "catalan": "Hi ha una farmàcia a prop?",
+      "transliteration": "hi ha una farmàcia a prop?",
+      "category": "Travel",
+      "generated_at": "2026-11-24T23:19:13.841233"
+    },
+    {
+      "english": "How do I get to the beach?",
+      "catalan": "Com arribo a la platja?",
+      "transliteration": "com arribo a la platja?",
+      "category": "Travel",
+      "generated_at": "2026-11-24T23:19:13.841234"
     }
   ],
-  "last_updated": "2026-11-24T22:14:48.523613"
+  "last_updated": "2026-11-24T23:19:13.841235"
 }
