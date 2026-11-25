@@ -18899,7 +18899,42 @@
       "transliteration": "al-lu-ny-a u-na mi-ca la mi-ra-da, i son-ri-u lleu",
       "category": "Mindfulness",
       "generated_at": "2026-11-25T03:25:29.896818"
+    },
+    {
+      "english": "The cat naps on the sofa.",
+      "catalan": "El gat dorm al sofà.",
+      "transliteration": "el gat dorm al sofa",
+      "category": "Animals",
+      "generated_at": "2026-11-25T07:07:33.128007"
+    },
+    {
+      "english": "A cat purrs softly near me.",
+      "catalan": "Un gat fa un brunzit suau a prop meu.",
+      "transliteration": "un gat fa un brunzit suau a prop meu",
+      "category": "Animals",
+      "generated_at": "2026-11-25T07:07:33.128018"
+    },
+    {
+      "english": "The dog wags its tail happily.",
+      "catalan": "El gos mou la cua, ben content.",
+      "transliteration": "el gos mou la cua, ben content",
+      "category": "Animals",
+      "generated_at": "2026-11-25T07:07:33.128020"
+    },
+    {
+      "english": "A puppy follows me everywhere.",
+      "catalan": "Un cadell em segueix arreu.",
+      "transliteration": "un cadell em segueix arreu",
+      "category": "Animals",
+      "generated_at": "2026-11-25T07:07:33.128022"
+    },
+    {
+      "english": "The rabbit hops across the yard.",
+      "catalan": "El conill salta pel pati.",
+      "transliteration": "el conill salta pel pati",
+      "category": "Animals",
+      "generated_at": "2026-11-25T07:07:33.128023"
     }
   ],
-  "last_updated": "2026-11-25T03:25:29.896819"
+  "last_updated": "2026-11-25T07:07:33.128026"
 }
