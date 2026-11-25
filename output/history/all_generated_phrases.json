@@ -18934,7 +18934,42 @@
       "transliteration": "el conill salta pel pati",
       "category": "Animals",
       "generated_at": "2026-11-25T07:07:33.128023"
+    },
+    {
+      "english": "Your help makes things easier.",
+      "catalan": "La teva ajuda ho fa més fàcil.",
+      "transliteration": "la TE-va A-ju-da ho fa més FA-cil",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T21:30:02.026402"
+    },
+    {
+      "english": "I’m here for you, always.",
+      "catalan": "Soc aquí per tu, sempre.",
+      "transliteration": "soc A-qui per TU, SEM-pre",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T21:30:02.026414"
+    },
+    {
+      "english": "Take your time, no pressure.",
+      "catalan": "Pren-te el teu temps, sense pressa.",
+      "transliteration": "pren-te el teu TEMPS, SINSE PRES-sa",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T21:30:02.026416"
+    },
+    {
+      "english": "I hope you feel better soon.",
+      "catalan": "Espero que et trobis millor aviat.",
+      "transliteration": "es-PERO que et tro-bis ME-llor a-vi-at",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T21:30:02.026417"
+    },
+    {
+      "english": "That was really thoughtful of you.",
+      "catalan": "Això ha estat molt considerat de tu.",
+      "transliteration": "això ha es-tat MOLt con-si-de-rat de tu",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T21:30:02.026419"
     }
   ],
-  "last_updated": "2026-11-25T07:07:33.128026"
+  "last_updated": "2026-11-25T21:30:02.026421"
 }
