@@ -19074,7 +19074,42 @@
       "transliteration": "el KOR fa que som-RI-gu-i.",
       "category": "Music",
       "generated_at": "2026-11-26T02:42:03.452222"
+    },
+    {
+      "english": "Can I try on this dress?",
+      "catalan": "Puc provar aquest vestit?",
+      "transliteration": "Puk provar aquest vestit",
+      "category": "Clothes",
+      "generated_at": "2026-11-26T06:58:13.445922"
+    },
+    {
+      "english": "My shirt is too tight here.",
+      "catalan": "La meva camisa em queda massa ajustada aquí.",
+      "transliteration": "La meva camisa em queda massa ajustada aqui",
+      "category": "Clothes",
+      "generated_at": "2026-11-26T06:58:13.445936"
+    },
+    {
+      "english": "Where did you buy these jeans?",
+      "catalan": "On has comprat aquests pantalons texans?",
+      "transliteration": "On has comprat aquests pantalons texans",
+      "category": "Clothes",
+      "generated_at": "2026-11-26T06:58:13.445937"
+    },
+    {
+      "english": "These gloves feel warm today.",
+      "catalan": "Aquests guants avui fan escalfor.",
+      "transliteration": "Aquests guants avui fan escalfor",
+      "category": "Clothes",
+      "generated_at": "2026-11-26T06:58:13.445939"
+    },
+    {
+      "english": "I love your new handbag.",
+      "catalan": "M'encanta la teva nova bossa.",
+      "transliteration": "M'encanta la teva nova bossa",
+      "category": "Clothes",
+      "generated_at": "2026-11-26T06:58:13.445941"
     }
   ],
-  "last_updated": "2026-11-26T02:42:03.452224"
+  "last_updated": "2026-11-26T06:58:13.445943"
 }
