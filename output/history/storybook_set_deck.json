@@ -1,6 +1,5 @@
 {
   "deck": [
-    "desert",
     "forest",
     "cherry",
     "bamboo",
@@ -13,7 +12,8 @@
     "lavender"
   ],
   "recent": [
-    "savanna"
+    "savanna",
+    "desert"
   ],
-  "updated": "2026-11-27T11:57:19.552177"
+  "updated": "2026-11-27T19:19:31.947544"
 }
