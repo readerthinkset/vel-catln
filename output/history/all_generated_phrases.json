@@ -19179,7 +19179,28 @@
       "transliteration": "renta be les fruites abans de menjar",
       "category": "Health",
       "generated_at": "2026-11-26T22:40:03.085031"
+    },
+    {
+      "english": "Hi, I’m looking for a gift.",
+      "catalan": "Hola, estic buscant un regal.",
+      "transliteration": "HOH-la, estic BUS-can un re-GAL.",
+      "category": "Shopping",
+      "generated_at": "2026-11-27T11:57:28.070939"
+    },
+    {
+      "english": "I like this style, can I see it?",
+      "catalan": "M’agrada aquest estil, me’l mostres?",
+      "transliteration": "MAH-agrah aquesst es-TIL, mehl MOS-tres?",
+      "category": "Shopping",
+      "generated_at": "2026-11-27T11:57:28.070955"
+    },
+    {
+      "english": "How long does it take to ship?",
+      "catalan": "Quant triguen a fer l’enviament?",
+      "transliteration": "Kwan trih-guen ah fer len-vi-ah-ment?",
+      "category": "Shopping",
+      "generated_at": "2026-11-27T11:57:28.070956"
     }
   ],
-  "last_updated": "2026-11-26T22:40:03.085033"
+  "last_updated": "2026-11-27T11:57:28.070958"
 }
