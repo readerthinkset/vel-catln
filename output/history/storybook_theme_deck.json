@@ -1,6 +1,5 @@
 {
   "deck": [
-    "cobalt",
     "duo",
     "cherry",
     "berry",
@@ -14,7 +13,8 @@
   ],
   "recent": [
     "ocean",
-    "grape"
+    "grape",
+    "cobalt"
   ],
-  "updated": "2026-11-27T19:19:31.947200"
+  "updated": "2026-11-28T03:42:00.180681"
 }

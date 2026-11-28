@@ -19221,7 +19221,28 @@
       "transliteration": "La cons-tàn-cia guan-ya el ta-lent, ca-da di-a.",
       "category": "Wisdom",
       "generated_at": "2026-11-27T19:19:43.441902"
+    },
+    {
+      "english": "Clouds gather, then the rain starts.",
+      "catalan": "S'amunteguen núvols, i comença a ploure.",
+      "transliteration": "S-amunteguen nuvols, i comença a ploure",
+      "category": "Nature",
+      "generated_at": "2026-11-28T03:42:09.718841"
+    },
+    {
+      "english": "The river carries leaves downstream, quietly.",
+      "catalan": "El riu s'endú les fulles, tranquil.",
+      "transliteration": "El riu s-endu les fulles, tranquil",
+      "category": "Nature",
+      "generated_at": "2026-11-28T03:42:09.718854"
+    },
+    {
+      "english": "Moss covers the rocks, cool and green.",
+      "catalan": "El molsa cobreix les roques, fresca i verda.",
+      "transliteration": "El molsa cobreix les roques, frescai verda",
+      "category": "Nature",
+      "generated_at": "2026-11-28T03:42:09.718859"
     }
   ],
-  "last_updated": "2026-11-27T19:19:43.441904"
+  "last_updated": "2026-11-28T03:42:09.718861"
 }
